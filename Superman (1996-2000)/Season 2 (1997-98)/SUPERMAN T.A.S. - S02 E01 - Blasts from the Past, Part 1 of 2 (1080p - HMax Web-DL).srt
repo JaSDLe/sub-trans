@@ -1,0 +1,592 @@
+﻿1
+00:01:24,342 --> 00:01:26,436
+Need a hand, professor?
+
+2
+00:01:26,611 --> 00:01:31,845
+No, thank you. I think I'd like to beat this one myself.
+
+3
+00:01:32,283 --> 00:01:37,187
+There seems to be a compartment in here that I hadn't noticed before.
+
+4
+00:01:53,004 --> 00:01:56,338
+I think you'll find this very interesting.
+
+5
+00:02:03,047 --> 00:02:07,280
+The Phantom Zone. Believe it or not, we're looking through to another dimension.
+
+6
+00:02:07,652 --> 00:02:11,384
+- Incredible. - I saw this in Brainiac's orb.
+
+7
+00:02:11,689 --> 00:02:14,716
+On Krypton, this is where they imprison dangerous aliens.
+
+8
+00:02:15,092 --> 00:02:18,790
+Amazing. I do wish the image were clearer.
+
+9
+00:02:28,673 --> 00:02:30,403
+Oh, dear.
+
+10
+00:02:32,476 --> 00:02:34,775
+Stay behind me, professor.
+
+11
+00:02:54,732 --> 00:02:55,995
+Oh, no, you don't.
+
+12
+00:03:03,174 --> 00:03:05,166
+- What is that? - Look out!
+
+13
+00:03:21,792 --> 00:03:22,885
+Hurry, professor.
+
+14
+00:03:25,730 --> 00:03:28,791
+Whatever you turned last time, turn it the other way.
+
+15
+00:03:44,448 --> 00:03:46,644
+- You okay? - Yes.
+
+16
+00:03:47,118 --> 00:03:50,384
+Just making a mental note to label that knob.
+
+17
+00:03:50,554 --> 00:03:54,548
+<i>Help me! Please! Release me!</i>
+
+18
+00:03:54,825 --> 00:03:58,887
+I've served my sentence. Where is the council?
+
+19
+00:04:00,030 --> 00:04:02,590
+- Hello. - Have you come to release me?
+
+20
+00:04:02,767 --> 00:04:04,929
+<i>- Who are you?</i> - Mala.
+
+21
+00:04:05,202 --> 00:04:08,229
+- Where is the council? - The council isn't here.
+
+22
+00:04:08,405 --> 00:04:11,204
+- My name is Kal-El. - Kal-El?
+
+23
+00:04:11,375 --> 00:04:15,176
+Please, bring Jor-El. He will know.
+
+24
+00:04:15,346 --> 00:04:18,748
+- Jor-El? Wasn't that your father? - Yes.
+
+25
+00:04:18,916 --> 00:04:21,943
+Help, please.
+
+26
+00:04:42,606 --> 00:04:45,201
+Hey, fellas. Keeping warm?
+
+27
+00:05:10,801 --> 00:05:12,463
+<i>Welcome to Krypton.</i>
+
+28
+00:05:12,636 --> 00:05:16,232
+- Tell me about Mala. <i>- One moment, please.</i>
+
+29
+00:05:18,676 --> 00:05:24,479
+<i>Mala, at the peak of her career, was second-in-command of Planetary Defenses...</i>
+
+30
+00:05:24,648 --> 00:05:28,312
+<i>answering only to the high general himself, Jax-Ur.</i>
+
+31
+00:05:28,485 --> 00:05:32,650
+And when our defenses have been diminished to a pitiful strike force...
+
+32
+00:05:32,823 --> 00:05:35,156
+who will save Krypton from its enemies?
+
+33
+00:05:38,495 --> 00:05:43,160
+<i>Jax-Ur and Mala, brilliant warriors each, stood together in service...</i>
+
+34
+00:05:43,334 --> 00:05:49,274
+<i>to the council for years, till the thirst for power corrupted Jax-Ur's mind.</i>
+
+35
+00:05:49,440 --> 00:05:51,466
+The council has grown weak.
+
+36
+00:05:51,642 --> 00:05:56,444
+Krypton needs a strong leader to reclaim its former greatness, and I am that leader.
+
+37
+00:05:56,614 --> 00:06:02,178
+Together, we will usher in a new age of strength and order for all.
+
+38
+00:06:33,851 --> 00:06:35,217
+Don't move.
+
+39
+00:06:43,127 --> 00:06:48,395
+<i>Jax-Ur and Mala seized the ruling council, and would surely have held on to power...</i>
+
+40
+00:06:48,565 --> 00:06:53,367
+<i>if not for one young scientist who had learned of the traitors' plans.</i>
+
+41
+00:06:54,905 --> 00:06:57,739
+<i>- Jor-El.</i> - Father.
+
+42
+00:07:12,489 --> 00:07:18,292
+<i>At their trial, Jax-Ur defiantly claimed sole responsibility for the insurrection...</i>
+
+43
+00:07:18,462 --> 00:07:22,763
+<i>and was exiled permanently to the Phantom Zone.</i>
+
+44
+00:07:24,902 --> 00:07:29,237
+Where is Jor-El? Does he not have the backbone to face his condemned?
+
+45
+00:07:29,406 --> 00:07:32,968
+Bring me Jor-El. Let me spit at him with my final breath.
+
+46
+00:07:33,210 --> 00:07:35,770
+<i>But the council was sympathetic to Mala...</i>
+
+47
+00:07:35,946 --> 00:07:38,643
+<i>who they believed was only following orders...</i>
+
+48
+00:07:38,816 --> 00:07:44,278
+<i>and her sentence in the Phantom Zone was reduced to 20 years.</i>
+
+49
+00:08:03,107 --> 00:08:06,509
+Professor, I know it's risky, but it's the right thing to do.
+
+50
+00:08:06,677 --> 00:08:08,407
+Get the Phantom Zone projector.
+
+51
+00:08:08,779 --> 00:08:10,680
+We're letting her out.
+
+52
+00:08:50,177 --> 00:08:52,646
+Where am I? Who are you? Start talking.
+
+53
+00:08:52,813 --> 00:08:55,783
+I'm Kal-El, the one you spoke to.
+
+54
+00:08:55,949 --> 00:08:59,477
+- You're on a planet called Earth. - Why? Why aren't we on Krypton?
+
+55
+00:08:59,653 --> 00:09:03,385
+I'm sorry. Krypton was destroyed a long time ago.
+
+56
+00:09:03,824 --> 00:09:07,386
+You and I are its only survivors.
+
+57
+00:09:08,729 --> 00:09:11,528
+- No. - This is a lot to absorb.
+
+58
+00:09:11,699 --> 00:09:14,533
+I should take her somewhere safe until she gets her bearings.
+
+59
+00:09:14,702 --> 00:09:17,103
+There's no one at the STAR Labs retreat...
+
+60
+00:09:17,304 --> 00:09:21,002
+- if you'd like to use it. - Thanks, professor. Now, hang on.
+
+61
+00:09:28,749 --> 00:09:32,379
+- People on Earth can fly? - Actually, just me.
+
+62
+00:09:32,553 --> 00:09:35,682
+And you too, once your body absorbs enough yellow sunlight.
+
+63
+00:09:36,023 --> 00:09:37,924
+Tell me more.
+
+64
+00:10:36,784 --> 00:10:41,119
+And we're the only two people with these powers on the planet?
+
+65
+00:10:42,389 --> 00:10:44,984
+And you, you're defenseless against us?
+
+66
+00:10:45,459 --> 00:10:50,159
+Yes. I'm just a human being. In fact, I bleed more easily than many.
+
+67
+00:10:50,330 --> 00:10:52,526
+Please, put me down now.
+
+68
+00:10:57,471 --> 00:10:58,837
+Marvelous.
+
+69
+00:10:59,006 --> 00:11:02,602
+But you have to understand, there's a condition on your staying here.
+
+70
+00:11:02,776 --> 00:11:05,575
+You can't ever use your powers to hurt people.
+
+71
+00:11:06,013 --> 00:11:09,950
+Of course. I'll always respect...
+
+72
+00:11:10,117 --> 00:11:11,642
+your benevolent ways.
+
+73
+00:11:11,819 --> 00:11:13,811
+You promise?
+
+74
+00:11:14,254 --> 00:11:15,483
+Wholeheartedly.
+
+75
+00:11:15,656 --> 00:11:16,919
+Well...
+
+76
+00:11:17,090 --> 00:11:19,992
+I guess we're ready to try a night on the town.
+
+77
+00:11:39,012 --> 00:11:43,211
+Right there. Just look through the wall.
+
+78
+00:11:45,519 --> 00:11:50,014
+I see them. They're like insects raiding a nest.
+
+79
+00:11:50,958 --> 00:11:52,722
+Here we go.
+
+80
+00:12:02,603 --> 00:12:04,333
+Where are the other two?
+
+81
+00:12:11,678 --> 00:12:15,945
+You go after those two. I'm gonna stop that chase before people start shooting.
+
+82
+00:12:27,494 --> 00:12:33,024
+- Slick move, chief. You're the man. - I told you, always have a back door.
+
+83
+00:12:33,200 --> 00:12:34,828
+What the heck?
+
+84
+00:12:38,405 --> 00:12:41,705
+You wanna get out of the way, sweetie.
+
+85
+00:12:44,811 --> 00:12:46,370
+Hey!
+
+86
+00:12:49,483 --> 00:12:51,850
+Guess who's next.
+
+87
+00:13:08,201 --> 00:13:10,761
+You wanna return what you stole.
+
+88
+00:13:10,971 --> 00:13:14,066
+Yeah, yeah. Just put me down, please.
+
+89
+00:13:14,241 --> 00:13:18,144
+- Beg me. - I'm begging you. Please.
+
+90
+00:13:18,679 --> 00:13:21,171
+Mala, put him down.
+
+91
+00:13:25,652 --> 00:13:29,180
+This one's confessed, and promised restitution.
+
+92
+00:13:29,356 --> 00:13:31,791
+But, Mala, you can't...
+
+93
+00:13:45,839 --> 00:13:48,274
+Did Superman do this?
+
+94
+00:13:49,843 --> 00:13:51,209
+What's with the woman?
+
+95
+00:13:51,545 --> 00:13:54,640
+- Are these Earth troops? - Sort of.
+
+96
+00:13:54,815 --> 00:13:57,546
+I am Mala, Superman's second-in-command.
+
+97
+00:13:59,052 --> 00:14:01,715
+I offer you my promise to this world...
+
+98
+00:14:01,888 --> 00:14:07,885
+that I will follow in Superman's tradition of just rule with a fair hand.
+
+99
+00:14:09,229 --> 00:14:12,131
+And I thought I was career-minded.
+
+100
+00:14:22,767 --> 00:14:27,137
+<i>Mala-mania has even hit Metropolis mogul Lex Luthor...</i>
+
+101
+00:14:27,304 --> 00:14:30,433
+<i>who had this to say about the ex-con from Krypton:</i>
+
+102
+00:14:30,775 --> 00:14:32,835
+<i>Now the truth comes out.</i>
+
+103
+00:14:33,010 --> 00:14:36,503
+<i>Superman and this woman fancy themselves our rulers.</i>
+
+104
+00:14:36,680 --> 00:14:39,844
+<i>No doubt they plan to populate the earth with Kryptonians...</i>
+
+105
+00:14:40,017 --> 00:14:42,680
+<i>reducing us to slaves or pets.</i>
+
+106
+00:14:44,288 --> 00:14:46,120
+An enticing notion.
+
+107
+00:14:46,490 --> 00:14:49,551
+<i>If Superman really cares about the human race...</i>
+
+108
+00:14:49,860 --> 00:14:52,853
+<i>he should send her back to where he found her...</i>
+
+109
+00:14:53,230 --> 00:14:55,199
+<i>to that Phantom Zone dimension.</i>
+
+110
+00:14:55,466 --> 00:14:57,196
+I'm never going back!
+
+111
+00:14:57,735 --> 00:14:59,533
+Never!
+
+112
+00:15:17,688 --> 00:15:19,589
+I think I may have made a mistake.
+
+113
+00:15:19,757 --> 00:15:23,922
+The images I saw didn't say anything about her being so power-hungry.
+
+114
+00:15:24,094 --> 00:15:27,861
+The fact is, I wonder if even Brainiac knew the whole truth about Mala.
+
+115
+00:15:28,032 --> 00:15:31,525
+Might there be a way she could repair the damage she's done?
+
+116
+00:15:31,702 --> 00:15:34,763
+Maybe. I think it's time she spoke to the press.
+
+117
+00:15:35,473 --> 00:15:36,941
+Have the projector ready.
+
+118
+00:15:37,107 --> 00:15:40,407
+If Mala doesn't straighten out, we may have to send her back.
+
+119
+00:15:54,625 --> 00:15:58,392
+I misunderstood Superman's role on Earth. I...
+
+120
+00:15:58,596 --> 00:16:02,556
+I don't want to rule your planet. I only want to help people...
+
+121
+00:16:02,733 --> 00:16:05,134
+as Superman himself has sworn to do.
+
+122
+00:16:05,369 --> 00:16:07,600
+Yeah, right. And I'm Wonder Woman.
+
+123
+00:16:07,872 --> 00:16:11,309
+- Excuse me? - Nothing. So tell me...
+
+124
+00:16:11,575 --> 00:16:13,703
+are you guys an item?
+
+125
+00:16:13,878 --> 00:16:15,244
+- No. - Yes.
+
+126
+00:16:15,412 --> 00:16:17,506
+It's not like that.
+
+127
+00:16:18,816 --> 00:16:20,079
+What?
+
+128
+00:16:20,251 --> 00:16:21,651
+You'd spurn me?
+
+129
+00:16:21,819 --> 00:16:24,687
+The last woman of your own kind?
+
+130
+00:16:25,890 --> 00:16:28,416
+Oh, I see.
+
+131
+00:16:28,592 --> 00:16:31,653
+You prefer the touch of these inferior creatures.
+
+132
+00:16:31,829 --> 00:16:34,298
+Hey, who you calling infer...?
+
+133
+00:16:34,465 --> 00:16:37,401
+You've seen your last yellow sunrise, woman.
+
+134
+00:16:37,568 --> 00:16:39,093
+Mala.
+
+135
+00:16:48,345 --> 00:16:53,807
+I will not go back. I'll destroy every being on this planet first!
+
+136
+00:16:54,618 --> 00:16:56,314
+You okay?
+
+137
+00:17:01,792 --> 00:17:03,818
+Talk about high-maintenance.
+
+138
+00:17:06,530 --> 00:17:10,058
+I think I found your weakness. You care about that twig.
+
+139
+00:17:10,234 --> 00:17:14,330
+I care about everyone, though you're pushing it right now.
+
+140
+00:17:14,772 --> 00:17:16,434
+If Jax-Ur were in your place...
+
+141
+00:17:16,607 --> 00:17:20,840
+- the planet would be ours by now. - I'm not Jax-Ur.
+
+142
+00:17:24,281 --> 00:17:26,910
+No, you aren't.
+
+143
+00:18:29,980 --> 00:18:31,642
+Professor.
+
+144
+00:18:32,650 --> 00:18:35,381
+Mala... I tried to stop her.
+
+145
+00:18:35,653 --> 00:18:38,020
+She took the projector.
+
+146
+00:19:07,851 --> 00:19:09,752
+Welcome to Earth, my darling.
+
+147
+00:19:09,920 --> 00:19:13,186
+Believe me, you're going to love it here.
+
+148
+00:19:48,092 --> 00:19:50,084
+[ENGLISH]
+

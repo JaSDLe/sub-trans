@@ -1,0 +1,988 @@
+﻿1
+00:00:05,729 --> 00:00:08,330
+♪
+
+2
+00:01:06,039 --> 00:01:08,139
+♪
+
+3
+00:01:26,861 --> 00:01:29,039
+The Tribal Arts Exhibit should be right on time.
+
+4
+00:01:29,063 --> 00:01:30,657
+Even the mayor is here.
+
+5
+00:01:30,681 --> 00:01:32,326
+Hard to believe all this commotion
+
+6
+00:01:32,350 --> 00:01:34,143
+over a bunch of beads and blankets.
+
+7
+00:01:34,167 --> 00:01:37,447
+The heritage of my people is hardly that trivial, Miss Lane.
+
+8
+00:01:37,471 --> 00:01:39,550
+Professor Blackwing!
+
+9
+00:01:39,574 --> 00:01:42,002
+I didn't realize you were... I mean, I was just joking.
+
+10
+00:01:42,026 --> 00:01:44,004
+It's such a wonderful thing, this whole thing.
+
+11
+00:01:44,028 --> 00:01:45,973
+It's so wonderful, really.
+
+12
+00:01:45,997 --> 00:01:47,391
+Have you met Clark Kent?
+
+13
+00:01:47,415 --> 00:01:49,192
+I hear the exhibition is stunning.
+
+14
+00:01:49,216 --> 00:01:51,111
+I've spent years putting it together.
+
+15
+00:01:51,135 --> 00:01:53,830
+Many of the artifacts have never left our tribal lands.
+
+16
+00:01:53,854 --> 00:01:55,131
+They are irreplaceable.
+
+17
+00:01:55,155 --> 00:01:56,789
+♪
+
+18
+00:01:59,743 --> 00:02:01,293
+You hear something?
+
+19
+00:02:08,469 --> 00:02:09,701
+[YELLS]
+
+20
+00:02:10,388 --> 00:02:11,748
+[GROANS]
+
+21
+00:02:11,772 --> 00:02:13,533
+[GUNFIRE]
+
+22
+00:02:13,557 --> 00:02:15,273
+We're under attack.
+
+23
+00:02:17,244 --> 00:02:20,190
+[OVER WALKIE-TALKIE] <i>Too many. Can't hold them off, I...</i>
+
+24
+00:02:20,214 --> 00:02:21,191
+[GROANS]
+
+25
+00:02:21,215 --> 00:02:22,531
+BLACKWING: <i>Hello?</i>
+
+26
+00:02:24,952 --> 00:02:26,446
+Come in, come in!
+
+27
+00:02:26,470 --> 00:02:28,748
+Someone's getting an early preview.
+
+28
+00:02:28,772 --> 00:02:29,766
+I'll get help.
+
+29
+00:02:29,790 --> 00:02:31,150
+I'll get the story.
+
+30
+00:02:31,174 --> 00:02:33,075
+♪
+
+31
+00:02:35,880 --> 00:02:37,674
+Keep looking.
+
+32
+00:02:37,698 --> 00:02:39,214
+[GLASS BREAKING]
+
+33
+00:02:41,252 --> 00:02:43,718
+The master said the shaman's staff would be here.
+
+34
+00:02:46,607 --> 00:02:48,357
+I believe this is your stop.
+
+35
+00:02:54,515 --> 00:02:55,798
+Get him.
+
+36
+00:03:07,094 --> 00:03:09,077
+The staff.
+
+37
+00:03:11,031 --> 00:03:13,331
+I think you're finished here.
+
+38
+00:03:16,537 --> 00:03:18,536
+[BEEPING]
+
+39
+00:03:21,458 --> 00:03:23,270
+I've already disabled the brakes,
+
+40
+00:03:23,294 --> 00:03:25,105
+so you can stop me or stop the train.
+
+41
+00:03:25,129 --> 00:03:27,730
+The choice is yours.
+
+42
+00:03:37,692 --> 00:03:39,324
+[GRUNTING]
+
+43
+00:03:41,362 --> 00:03:44,574
+Till we meet again. Mwah.
+
+44
+00:03:44,598 --> 00:03:46,498
+[GROANING]
+
+45
+00:03:55,459 --> 00:03:56,459
+What?
+
+46
+00:04:10,123 --> 00:04:11,373
+[BRAKES SCREECHING]
+
+47
+00:04:30,510 --> 00:04:32,272
+Just happened to be in the neighborhood?
+
+48
+00:04:32,296 --> 00:04:34,224
+Do you have any idea who they are?
+
+49
+00:04:34,248 --> 00:04:35,908
+The Society of Shadows.
+
+50
+00:04:35,932 --> 00:04:37,394
+I've been trailing them for weeks,
+
+51
+00:04:37,418 --> 00:04:39,229
+hoping they'd lead me to Ra's Al Ghul.
+
+52
+00:04:39,253 --> 00:04:41,548
+Who? A criminal mastermind.
+
+53
+00:04:41,572 --> 00:04:44,451
+More dangerous than the Joker and Luthor put together.
+
+54
+00:04:44,475 --> 00:04:47,053
+All I know is they were breaking the law in my town.
+
+55
+00:04:47,077 --> 00:04:50,239
+Leave it to you to charge in with both arms swinging.
+
+56
+00:04:50,263 --> 00:04:52,108
+If you were going to operate in Metropolis,
+
+57
+00:04:52,132 --> 00:04:53,276
+you should've filled me in.
+
+58
+00:04:53,300 --> 00:04:56,501
+Next time I'll fax my itinerary.
+
+59
+00:04:57,988 --> 00:05:00,522
+I mean it. I'd like to help.
+
+60
+00:05:07,531 --> 00:05:08,958
+SUPERMAN: This is where they met?
+
+61
+00:05:08,982 --> 00:05:10,743
+BATMAN: They're not coming back.
+
+62
+00:05:10,767 --> 00:05:12,867
+Ra's is too smart to leave a trail.
+
+63
+00:05:14,521 --> 00:05:17,150
+You said the only thing they took was the shaman's staff?
+
+64
+00:05:17,174 --> 00:05:20,687
+Yes. It's one of the least valuable items.
+
+65
+00:05:20,711 --> 00:05:22,806
+According to Professor Blackwing,
+
+66
+00:05:22,830 --> 00:05:25,697
+it's supposed to have mystic healing powers.
+
+67
+00:05:27,935 --> 00:05:30,496
+Maybe your mastermind isn't feeling well.
+
+68
+00:05:30,520 --> 00:05:33,688
+He's usually in pretty good shape for a guy his age.
+
+69
+00:05:38,045 --> 00:05:39,911
+A bicycle? Or a wheelchair.
+
+70
+00:05:43,266 --> 00:05:45,200
+Another day, another Pulitzer.
+
+71
+00:05:49,673 --> 00:05:50,772
+[GASPS]
+
+72
+00:05:51,442 --> 00:05:52,485
+[COUGHS]
+
+73
+00:05:52,509 --> 00:05:54,253
+[GROANS]
+
+74
+00:05:54,277 --> 00:05:55,655
+Pleasant dreams, Miss Lane.
+
+75
+00:05:55,679 --> 00:05:57,457
+MAN: <i>And this breaking news just in.</i>
+
+76
+00:05:57,481 --> 00:05:59,609
+<i>Authorities have blocked off Central Avenue</i>
+
+77
+00:05:59,633 --> 00:06:01,344
+<i>while firefighters try to rescue</i>
+
+78
+00:06:01,368 --> 00:06:04,085
+<i>an unidentified woman on top of the Luthor Towers.</i>
+
+79
+00:06:06,623 --> 00:06:07,873
+Lois?
+
+80
+00:06:10,294 --> 00:06:14,441
+She's too high up, we can't reach her.
+
+81
+00:06:14,465 --> 00:06:16,359
+♪
+
+82
+00:06:16,383 --> 00:06:17,582
+[SCREAMS]
+
+83
+00:06:18,686 --> 00:06:20,602
+Oh, my goodness. Somebody do something.
+
+84
+00:06:21,889 --> 00:06:24,734
+I've got you, Lois. The name's Tailia.
+
+85
+00:06:24,758 --> 00:06:26,536
+You.
+
+86
+00:06:26,560 --> 00:06:28,771
+Sorry for the theatrics,
+
+87
+00:06:28,795 --> 00:06:30,740
+but I needed to get your attention.
+
+88
+00:06:30,764 --> 00:06:33,181
+[WIND BLOWING]
+
+89
+00:06:34,017 --> 00:06:35,411
+You've got it.
+
+90
+00:06:35,435 --> 00:06:36,862
+What's this all about?
+
+91
+00:06:36,886 --> 00:06:38,247
+My father would like to meet you.
+
+92
+00:06:38,271 --> 00:06:39,266
+Privately.
+
+93
+00:06:39,290 --> 00:06:40,517
+Your father?
+
+94
+00:06:40,541 --> 00:06:41,718
+Ra's Al Ghul.
+
+95
+00:06:41,742 --> 00:06:43,770
+And if I refuse?
+
+96
+00:06:43,794 --> 00:06:46,294
+Then I'll have to insist.
+
+97
+00:06:49,800 --> 00:06:51,361
+♪
+
+98
+00:06:51,385 --> 00:06:52,834
+[SCREAMS]
+
+99
+00:06:54,321 --> 00:06:56,605
+[GROANING]
+
+100
+00:07:17,476 --> 00:07:20,944
+♪
+
+101
+00:07:27,086 --> 00:07:29,064
+Wake up, dog.
+
+102
+00:07:29,088 --> 00:07:31,488
+The master will see you now.
+
+103
+00:07:34,243 --> 00:07:35,959
+♪
+
+104
+00:07:37,329 --> 00:07:41,909
+I'm sorry we must meet under such circumstances.
+
+105
+00:07:41,933 --> 00:07:44,162
+You're not exactly what I pictured.
+
+106
+00:07:44,186 --> 00:07:46,430
+I'm not the man I was.
+
+107
+00:07:46,454 --> 00:07:48,689
+[COUGHS]
+
+108
+00:07:49,791 --> 00:07:52,008
+[GASPING]
+
+109
+00:07:53,445 --> 00:07:55,106
+Father, you should rest.
+
+110
+00:07:55,130 --> 00:07:57,342
+Old age, Superman.
+
+111
+00:07:57,366 --> 00:08:00,095
+It truly is a shipwreck.
+
+112
+00:08:00,119 --> 00:08:03,620
+One that I have survived more times than I can remember.
+
+113
+00:08:09,127 --> 00:08:11,840
+<i>For centuries I've kept myself alive</i>
+
+114
+00:08:11,864 --> 00:08:15,526
+<i>by immersing my body in Lazarus Pits.</i>
+
+115
+00:08:15,550 --> 00:08:18,935
+<i>Their wondrous powers rejuvenated me.</i>
+
+116
+00:08:22,775 --> 00:08:28,061
+<i>But each time, the effects were more and more short-lived.</i>
+
+117
+00:08:33,101 --> 00:08:35,247
+[SIGHS]
+
+118
+00:08:35,271 --> 00:08:38,617
+Now they can no longer sustain me.
+
+119
+00:08:38,641 --> 00:08:39,641
+[WHEEZES]
+
+120
+00:08:42,111 --> 00:08:43,755
+He's dying.
+
+121
+00:08:43,779 --> 00:08:45,428
+What do you want from me?
+
+122
+00:08:48,483 --> 00:08:50,217
+Your strength.
+
+123
+00:08:57,676 --> 00:08:58,975
+[GROANS]
+
+124
+00:09:01,163 --> 00:09:02,229
+[GASPS]
+
+125
+00:09:02,765 --> 00:09:04,030
+[GRUNTS]
+
+126
+00:09:05,533 --> 00:09:07,412
+Easy, Lois. It's me.
+
+127
+00:09:07,436 --> 00:09:09,352
+Bruce?
+
+128
+00:09:13,242 --> 00:09:15,102
+It's been a while.
+
+129
+00:09:15,126 --> 00:09:16,760
+I take it this isn't a social call.
+
+130
+00:09:18,830 --> 00:09:20,007
+What happened here?
+
+131
+00:09:20,031 --> 00:09:22,010
+I'm not sure.
+
+132
+00:09:22,034 --> 00:09:23,478
+Someone attacked me.
+
+133
+00:09:23,502 --> 00:09:24,930
+A woman dressed in black.
+
+134
+00:09:24,954 --> 00:09:26,347
+Tailia.
+
+135
+00:09:26,371 --> 00:09:27,732
+Tailia?
+
+136
+00:09:27,756 --> 00:09:29,355
+On a first-name basis, are we?
+
+137
+00:09:30,960 --> 00:09:32,640
+What do you think she was she after?
+
+138
+00:09:33,829 --> 00:09:35,106
+Your clothes.
+
+139
+00:09:35,130 --> 00:09:36,942
+Excuse me?
+
+140
+00:09:36,966 --> 00:09:40,195
+She needed to impersonate you to attract Superman.
+
+141
+00:09:40,219 --> 00:09:42,397
+Ha! She's going to need more than that.
+
+142
+00:09:42,421 --> 00:09:45,155
+Maybe my clothes and a nuclear disaster.
+
+143
+00:09:51,647 --> 00:09:54,158
+And I just had it shampooed.
+
+144
+00:09:54,182 --> 00:09:55,760
+Do you know how depressing it is
+
+145
+00:09:55,784 --> 00:09:57,462
+to clean up after your assailant?
+
+146
+00:09:57,486 --> 00:09:59,130
+I'm sorry.
+
+147
+00:09:59,154 --> 00:10:01,716
+Forget it, a little detergent and some elbow grease.
+
+148
+00:10:01,740 --> 00:10:03,467
+I mean, that we're meeting like this.
+
+149
+00:10:03,491 --> 00:10:05,152
+Hey, I was the one who said goodbye.
+
+150
+00:10:05,176 --> 00:10:07,439
+Though I can't say I haven't had second thoughts.
+
+151
+00:10:07,463 --> 00:10:09,240
+Actually, there's been several times
+
+152
+00:10:09,264 --> 00:10:10,825
+when I almost picked up the phone.
+
+153
+00:10:10,849 --> 00:10:12,215
+Maybe you felt the same...
+
+154
+00:10:13,318 --> 00:10:15,230
+way.
+
+155
+00:10:15,254 --> 00:10:17,887
+I gotta get better locks.
+
+156
+00:10:20,225 --> 00:10:21,592
+[BATS SCREECHING]
+
+157
+00:10:30,702 --> 00:10:32,881
+I have the spectroanalysis results
+
+158
+00:10:32,905 --> 00:10:34,665
+on those samples you've transmitted, sir.
+
+159
+00:10:34,689 --> 00:10:35,700
+And?
+
+160
+00:10:35,724 --> 00:10:38,269
+<i>As you suspected, jet fuel.</i>
+
+161
+00:10:38,293 --> 00:10:40,622
+<i>The kind commonly used for private planes.</i>
+
+162
+00:10:40,646 --> 00:10:42,790
+Thank you, Alfred.
+
+163
+00:10:42,814 --> 00:10:44,014
+[ENGINE ROARING]
+
+164
+00:10:50,622 --> 00:10:52,439
+[METAL CLINKING]
+
+165
+00:10:55,961 --> 00:10:57,055
+Finish loading those.
+
+166
+00:10:57,079 --> 00:10:58,439
+The master will be expecting us.
+
+167
+00:10:58,463 --> 00:11:00,563
+BATMAN: Then he's going to be disappointed.
+
+168
+00:11:01,600 --> 00:11:03,183
+♪
+
+169
+00:11:13,411 --> 00:11:15,162
+[GRUNTS]
+
+170
+00:11:56,972 --> 00:11:57,987
+[SNAPS]
+
+171
+00:12:25,000 --> 00:12:27,862
+Ah! Ah!
+
+172
+00:12:27,886 --> 00:12:29,602
+♪
+
+173
+00:12:34,860 --> 00:12:35,860
+Yah!
+
+174
+00:12:43,852 --> 00:12:46,497
+I am only going to ask once.
+
+175
+00:12:46,521 --> 00:12:48,738
+Where's Ra's Al Ghul?
+
+176
+00:13:00,536 --> 00:13:02,413
+Mesa De Oro.
+
+177
+00:13:02,437 --> 00:13:06,389
+A lost city defended with honor for centuries.
+
+178
+00:13:13,549 --> 00:13:17,112
+TAILIA: Father led the conquistadores who finally vanquished it.
+
+179
+00:13:17,136 --> 00:13:18,913
+The spoils of that victory
+
+180
+00:13:18,937 --> 00:13:21,765
+formed the foundation of his vast fortune.
+
+181
+00:13:21,789 --> 00:13:23,473
+Time is short.
+
+182
+00:13:24,977 --> 00:13:26,976
+[WHEEZING]
+
+183
+00:13:27,813 --> 00:13:29,446
+Secure him.
+
+184
+00:13:41,876 --> 00:13:43,438
+[SCREAMS]
+
+185
+00:13:43,462 --> 00:13:44,844
+No!
+
+186
+00:13:46,381 --> 00:13:47,697
+Stop him!
+
+187
+00:13:51,235 --> 00:13:52,869
+[BOTH GRUNT]
+
+188
+00:14:00,813 --> 00:14:02,095
+[YELLING]
+
+189
+00:14:08,153 --> 00:14:09,970
+[GASPING]
+
+190
+00:14:13,758 --> 00:14:14,824
+[GROANING]
+
+191
+00:14:22,667 --> 00:14:23,667
+Father!
+
+192
+00:14:31,776 --> 00:14:34,522
+We're too late, mistress. He's dead.
+
+193
+00:14:34,546 --> 00:14:36,513
+[GASPS, SOBS]
+
+194
+00:14:43,329 --> 00:14:45,261
+♪
+
+195
+00:14:45,865 --> 00:14:47,092
+He's gone.
+
+196
+00:14:47,116 --> 00:14:49,511
+The world has lost its master.
+
+197
+00:14:49,535 --> 00:14:51,630
+Proceed anyway. But he's...
+
+198
+00:14:51,654 --> 00:14:54,822
+As long as the body's warm, there's still a chance. Do it.
+
+199
+00:15:21,901 --> 00:15:23,467
+[GROANING]
+
+200
+00:15:37,533 --> 00:15:38,699
+[YELLS]
+
+201
+00:15:49,811 --> 00:15:51,311
+[BOTH GRUNT]
+
+202
+00:16:11,117 --> 00:16:12,076
+Look.
+
+203
+00:16:12,100 --> 00:16:13,262
+Master.
+
+204
+00:16:13,286 --> 00:16:15,085
+[GROANING]
+
+205
+00:16:21,961 --> 00:16:23,627
+[YELLING]
+
+206
+00:16:28,133 --> 00:16:30,378
+[BREATHES DEEPLY]
+
+207
+00:16:30,402 --> 00:16:31,914
+The power.
+
+208
+00:16:31,938 --> 00:16:34,704
+I've never felt anything like it.
+
+209
+00:16:36,726 --> 00:16:38,992
+[GROANING]
+
+210
+00:16:48,821 --> 00:16:51,800
+More. I must have more!
+
+211
+00:16:51,824 --> 00:16:53,802
+Father, your body.
+
+212
+00:16:53,826 --> 00:16:56,388
+Don't stop. I want every ounce
+
+213
+00:16:56,412 --> 00:16:59,479
+every fiber of his strength.
+
+214
+00:17:07,089 --> 00:17:08,233
+What?
+
+215
+00:17:08,257 --> 00:17:09,556
+♪
+
+216
+00:17:12,261 --> 00:17:14,144
+Beloved.
+
+217
+00:17:20,937 --> 00:17:24,666
+You're foolish to have come here, detective.
+
+218
+00:17:24,690 --> 00:17:26,168
+Give me the staff.
+
+219
+00:17:26,192 --> 00:17:28,420
+I think you've had your workout for today.
+
+220
+00:17:28,444 --> 00:17:30,076
+Yah!
+
+221
+00:18:12,654 --> 00:18:14,466
+Father, stop, you'll kill him.
+
+222
+00:18:14,490 --> 00:18:17,390
+Stay back. I must have it.
+
+223
+00:18:26,752 --> 00:18:30,899
+Farewell, detective.
+
+224
+00:18:30,923 --> 00:18:31,883
+SUPERMAN: Ra's.
+
+225
+00:18:31,907 --> 00:18:33,557
+You're forgetting something.
+
+226
+00:18:39,932 --> 00:18:41,148
+No!
+
+227
+00:18:44,820 --> 00:18:45,835
+[GROANS]
+
+228
+00:18:47,089 --> 00:18:49,089
+[SCREAMS]
+
+229
+00:18:50,192 --> 00:18:52,170
+The roof won't hold up much longer.
+
+230
+00:18:52,194 --> 00:18:54,105
+Punish me or save your daughter.
+
+231
+00:18:54,129 --> 00:18:55,746
+Your choice.
+
+232
+00:19:02,204 --> 00:19:04,504
+Oh!
+
+233
+00:19:07,627 --> 00:19:08,659
+[SCREAMS]
+
+234
+00:19:43,562 --> 00:19:45,512
+♪
+
+235
+00:19:46,999 --> 00:19:50,078
+I see an underground river, but there's no sign of them.
+
+236
+00:19:50,102 --> 00:19:52,064
+Alive or dead.
+
+237
+00:19:52,088 --> 00:19:55,067
+I'm guessing you and that woman Tailia had some history.
+
+238
+00:19:55,091 --> 00:19:58,036
+Pretty much in line with all my other relationships.
+
+239
+00:19:58,060 --> 00:19:59,804
+I have to admit, it was clever
+
+240
+00:19:59,828 --> 00:20:02,991
+using Ra's' devotion to his daughter to stop him.
+
+241
+00:20:03,015 --> 00:20:04,158
+Well, I thought as long as
+
+242
+00:20:04,182 --> 00:20:06,160
+I couldn't charge in with both arms swinging,
+
+243
+00:20:06,184 --> 00:20:07,295
+I better use my head.
+
+244
+00:20:07,319 --> 00:20:08,697
+You know...
+
+245
+00:20:08,721 --> 00:20:11,750
+there might be something to this partnership business after all.
+
+246
+00:20:11,774 --> 00:20:14,558
+Yeah, right.
+
+247
+00:20:24,260 --> 00:20:26,827
+♪
+

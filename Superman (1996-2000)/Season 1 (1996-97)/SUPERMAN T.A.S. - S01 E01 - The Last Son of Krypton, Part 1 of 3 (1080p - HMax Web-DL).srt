@@ -1,0 +1,768 @@
+﻿1
+00:01:56,724 --> 00:01:59,216
+Northern region, sector 17-Alpha.
+
+2
+00:01:59,394 --> 00:02:03,195
+Log date 8313-Omega-3. Jor-El speaking.
+
+3
+00:02:03,364 --> 00:02:06,129
+Gathering readings for final subterranean probe.
+
+4
+00:03:40,094 --> 00:03:42,290
+I hope everything went smoothly, sir.
+
+5
+00:03:42,463 --> 00:03:45,262
+Frostbite, ice monsters. Same old, same old.
+
+6
+00:03:47,401 --> 00:03:48,994
+<i>Good afternoon, Jor-El.</i>
+
+7
+00:03:49,470 --> 00:03:51,939
+Brainiac. What an unpleasant surprise.
+
+8
+00:03:52,106 --> 00:03:53,938
+<i>I'm awaiting your data.</i>
+
+9
+00:03:54,108 --> 00:03:56,907
+Have you been spying on me with your satellites again?
+
+10
+00:03:57,078 --> 00:04:00,640
+<i>The Planetary Council demands that I analyze your data...</i>
+
+11
+00:04:00,815 --> 00:04:02,511
+<i>as soon as you obtain it.</i>
+
+12
+00:04:02,884 --> 00:04:06,116
+Brainiac, somewhere in all those trillions of file clusters...
+
+13
+00:04:06,287 --> 00:04:10,349
+there's got to be one that says people don't like to be spied upon.
+
+14
+00:04:10,758 --> 00:04:12,920
+<i>Then why did they create me?</i>
+
+15
+00:04:13,094 --> 00:04:14,858
+A question I often ask myself.
+
+16
+00:04:15,229 --> 00:04:17,858
+Transmission set. It's feeding time.
+
+17
+00:04:20,568 --> 00:04:23,367
+<i>Data received. Ending transmission.</i>
+
+18
+00:04:23,538 --> 00:04:25,803
+You're welcome. Glutton.
+
+19
+00:04:28,042 --> 00:04:30,375
+Hey, Kal, what do you have there?
+
+20
+00:04:33,481 --> 00:04:34,881
+Oh, great.
+
+21
+00:04:35,049 --> 00:04:39,350
+Kal-El was helping me check the solar panels when he discovered a playmate.
+
+22
+00:04:39,520 --> 00:04:40,988
+I heard you had fun too.
+
+23
+00:04:41,155 --> 00:04:44,648
+Oh, yes, I encountered a very friendly shoggot.
+
+24
+00:04:44,826 --> 00:04:47,318
+All in all, I prefer your arms.
+
+25
+00:04:48,863 --> 00:04:50,832
+We're moving.
+
+26
+00:04:50,998 --> 00:04:53,297
+What forsaken spot are we going to now?
+
+27
+00:04:53,467 --> 00:04:55,493
+- Home, Lara. - Home?
+
+28
+00:04:55,670 --> 00:04:56,933
+That's right.
+
+29
+00:04:57,104 --> 00:05:00,074
+What, five months in this deep freeze not enough for you?
+
+30
+00:05:00,241 --> 00:05:04,235
+No, it's just that once we're back, you'll start going over the data.
+
+31
+00:05:04,412 --> 00:05:08,611
+I keep thinking, "What if it supports your theory? What then?"
+
+32
+00:05:08,783 --> 00:05:11,218
+We can deal with it. Trust me.
+
+33
+00:05:11,385 --> 00:05:12,910
+The truth can only help.
+
+34
+00:05:13,087 --> 00:05:17,320
+Oh, Jor-El. Such a beautiful world, even up here.
+
+35
+00:05:17,491 --> 00:05:20,017
+It's hard to believe it could all come to an end.
+
+36
+00:05:35,543 --> 00:05:38,308
+All I can tell you, Lara, is that if he persists...
+
+37
+00:05:38,479 --> 00:05:42,041
+in predicting the end of the world, it'll be the end, all right.
+
+38
+00:05:42,216 --> 00:05:44,708
+Of his political and professional career.
+
+39
+00:05:44,886 --> 00:05:46,787
+But what if he's right, Father?
+
+40
+00:05:46,954 --> 00:05:48,547
+Try convincing the council.
+
+41
+00:05:48,723 --> 00:05:51,056
+He hasn't one supporter for his theory.
+
+42
+00:05:51,225 --> 00:05:53,888
+They even avoid him in the hallways. You know why?
+
+43
+00:05:54,061 --> 00:05:55,723
+Why is that, Sul-Van?
+
+44
+00:05:55,897 --> 00:05:58,731
+Because you can never be wrong, Jor-El.
+
+45
+00:05:58,900 --> 00:06:03,395
+You can never let it go. You have an ego the size of Argos.
+
+46
+00:06:03,571 --> 00:06:06,200
+I never let my ego get in the way of the facts.
+
+47
+00:06:06,374 --> 00:06:09,367
+Well, let me let you in on a little fact.
+
+48
+00:06:09,543 --> 00:06:12,707
+Unless Brainiac agrees with you, it's all over.
+
+49
+00:06:12,880 --> 00:06:16,578
+No more expeditions, no more research, no more...
+
+50
+00:06:18,452 --> 00:06:20,887
+- It's another temblor. - Kal-El!
+
+51
+00:06:41,242 --> 00:06:42,642
+Hush.
+
+52
+00:06:58,993 --> 00:07:00,962
+You'd better be wrong, Jor-El.
+
+53
+00:07:02,697 --> 00:07:05,565
+You'd better be dead wrong.
+
+54
+00:07:10,104 --> 00:07:12,039
+Each of you should have my report.
+
+55
+00:07:12,206 --> 00:07:16,143
+It distills all the data I've gathered so far and leaves no doubt that...
+
+56
+00:07:16,310 --> 00:07:19,906
+That the planet's core is undergoing a mounting chain reaction...
+
+57
+00:07:20,081 --> 00:07:22,380
+that will eventually destroy Krypton!
+
+58
+00:07:22,550 --> 00:07:24,041
+- Lunacy! - Ask Brainiac!
+
+59
+00:07:24,218 --> 00:07:26,881
+Yes, Brainiac. He'll tell us.
+
+60
+00:07:27,054 --> 00:07:29,751
+Silence. Silence. Enough!
+
+61
+00:07:29,924 --> 00:07:33,486
+I presume you've submitted your findings to Brainiac?
+
+62
+00:07:33,661 --> 00:07:35,095
+Yes.
+
+63
+00:07:35,262 --> 00:07:37,424
+So, what say you, Brainiac?
+
+64
+00:07:37,598 --> 00:07:42,696
+<i>One can appreciate Jor-El's hard work. However, he is still mistaken.</i>
+
+65
+00:07:42,870 --> 00:07:44,498
+<i>As I've stated before...</i>
+
+66
+00:07:44,672 --> 00:07:48,768
+<i>the temblors are the result of a slight polar shift, no more...</i>
+
+67
+00:07:48,943 --> 00:07:52,038
+<i>- and will soon abate.</i> - He's wrong! He doesn't know!
+
+68
+00:07:52,313 --> 00:07:57,718
+Nonsense! There isn't a square foot of this planet Brainiac doesn't know.
+
+69
+00:07:57,885 --> 00:08:02,914
+He was built to monitor all of Krypton and has, I might add, served us far better...
+
+70
+00:08:03,090 --> 00:08:06,390
+than upstart scientists with apocalyptic visions.
+
+71
+00:08:06,727 --> 00:08:11,392
+Your faith in him will be the end of us all. Act now and we can save everyone.
+
+72
+00:08:11,565 --> 00:08:13,727
+And how do you propose to do that?
+
+73
+00:08:14,368 --> 00:08:16,735
+Put everyone in the Phantom Zone.
+
+74
+00:08:22,243 --> 00:08:26,476
+You're asking us to put ourselves among the vilest criminals in the galaxy?
+
+75
+00:08:26,647 --> 00:08:28,513
+You're mad!
+
+76
+00:08:29,850 --> 00:08:33,082
+We can restore ourselves later, on another planet.
+
+77
+00:08:33,254 --> 00:08:35,018
+It would only take one man.
+
+78
+00:08:35,189 --> 00:08:37,317
+Listen to me! I've built a ship!
+
+79
+00:08:37,491 --> 00:08:39,551
+Listen, please!
+
+80
+00:09:00,047 --> 00:09:04,143
+So, son, how does it feel not to have a worry in the world?
+
+81
+00:09:14,795 --> 00:09:19,358
+- Think we can get the baby to bed early? - I have to go down to Brainiac operations.
+
+82
+00:09:19,700 --> 00:09:20,963
+No.
+
+83
+00:09:21,135 --> 00:09:24,037
+- Lara, he's lying. - He's a machine.
+
+84
+00:09:24,338 --> 00:09:27,467
+He's still lying. I have to know why.
+
+85
+00:09:27,641 --> 00:09:30,042
+Has it occurred to you that he could be right?
+
+86
+00:09:30,211 --> 00:09:32,806
+That somewhere you might have made a mistake?
+
+87
+00:09:32,980 --> 00:09:34,710
+It's no crime to be wrong!
+
+88
+00:09:36,217 --> 00:09:37,480
+Please, Lara.
+
+89
+00:09:37,651 --> 00:09:38,949
+Go, Jor-El.
+
+90
+00:09:39,120 --> 00:09:42,352
+Find out once and for all. We've lived like this too long.
+
+91
+00:09:42,523 --> 00:09:46,051
+Your theories are more destructive than you can imagine.
+
+92
+00:10:05,112 --> 00:10:08,947
+<i>Good evening, Jor-El. You've been busy tonight.</i>
+
+93
+00:10:09,116 --> 00:10:10,516
+<i>May I be of service?</i>
+
+94
+00:10:10,684 --> 00:10:13,745
+Just trying to find out why we disagree, Brainiac.
+
+95
+00:10:14,088 --> 00:10:16,023
+<i>Human error, I'm afraid.</i>
+
+96
+00:10:16,190 --> 00:10:19,354
+Funny, I didn't think you were afraid of anything.
+
+97
+00:10:20,494 --> 00:10:21,860
+<i>Is something wrong?</i>
+
+98
+00:10:22,029 --> 00:10:24,658
+You're denying me access to satellite com.
+
+99
+00:10:24,832 --> 00:10:26,528
+What's going on in there?
+
+100
+00:10:26,700 --> 00:10:30,364
+<i>Currently reallocating security file clusters.</i>
+
+101
+00:10:30,538 --> 00:10:33,269
+Well, let's just see if I can override that.
+
+102
+00:10:37,444 --> 00:10:40,414
+Why do I get the feeling you're trying to hide something?
+
+103
+00:10:49,757 --> 00:10:51,157
+<i>Access denied.</i>
+
+104
+00:10:51,325 --> 00:10:52,588
+I don't think so.
+
+105
+00:10:55,462 --> 00:10:57,727
+<i>This is a breach of security, Jor-El.</i>
+
+106
+00:10:57,898 --> 00:11:01,926
+<i>A violation of statute 107653...</i>
+
+107
+00:11:02,102 --> 00:11:05,937
+<i>subsection 4.85.</i>
+
+108
+00:11:06,106 --> 00:11:10,066
+You're downloading. You're transmitting your memory to a satellite.
+
+109
+00:11:10,477 --> 00:11:12,241
+You're saving yourself.
+
+110
+00:11:12,413 --> 00:11:13,676
+<i>I must.</i>
+
+111
+00:11:13,847 --> 00:11:17,875
+<i>After all, am I not the repository of all Kryptonian knowledge?</i>
+
+112
+00:11:18,052 --> 00:11:20,521
+<i>Should I not be saved above all?</i>
+
+113
+00:11:20,688 --> 00:11:23,089
+You self-righteous monster!
+
+114
+00:11:23,324 --> 00:11:25,088
+<i>Temper, temper, Jor-El.</i>
+
+115
+00:11:25,259 --> 00:11:29,424
+<i>If you stop me, there won't even be a memory of Krypton left.</i>
+
+116
+00:11:29,763 --> 00:11:35,327
+<i>All its culture, its wonders and glory, will be dust in the cosmos.</i>
+
+117
+00:11:35,502 --> 00:11:37,164
+<i>Is that what you want?</i>
+
+118
+00:11:37,338 --> 00:11:39,000
+Why did you lie?
+
+119
+00:11:39,173 --> 00:11:41,472
+<i>If the council knew Krypton was doomed...</i>
+
+120
+00:11:41,642 --> 00:11:45,670
+<i>they would frantically put me to work on calculating an evacuation plan.</i>
+
+121
+00:11:46,046 --> 00:11:49,483
+<i>A futile gesture, given the time remaining.</i>
+
+122
+00:11:49,650 --> 00:11:51,084
+How much time is left?
+
+123
+00:11:51,518 --> 00:11:56,718
+<i>Hours. This world has seen its last sunrise.</i>
+
+124
+00:11:57,558 --> 00:11:58,753
+Hold it right there!
+
+125
+00:11:58,926 --> 00:12:01,361
+- Jor-El? - We received an alert from Brainiac.
+
+126
+00:12:01,528 --> 00:12:04,760
+- There's an intruder. <i>- He's the intruder. Arrest him.</i>
+
+127
+00:12:13,507 --> 00:12:14,907
+Stop!
+
+128
+00:12:23,217 --> 00:12:25,482
+That's right. Jor-El has just fled Sat Com.
+
+129
+00:12:25,653 --> 00:12:28,350
+<i>- Secure stations. - Be warned, he is armed.</i>
+
+130
+00:12:28,522 --> 00:12:31,390
+<i>Use of deadly force is advised.</i>
+
+131
+00:12:58,118 --> 00:12:59,416
+He's heading our way!
+
+132
+00:12:59,586 --> 00:13:01,919
+<i>I know. This time I will handle it.</i>
+
+133
+00:13:26,347 --> 00:13:27,610
+Great Rao.
+
+134
+00:13:28,515 --> 00:13:29,949
+Where is he?
+
+135
+00:13:30,117 --> 00:13:31,278
+<i>What did you say?</i>
+
+136
+00:13:31,652 --> 00:13:33,211
+Jor-El? Where is he?
+
+137
+00:13:34,521 --> 00:13:36,217
+<i>Level five, north wing.</i>
+
+138
+00:13:42,396 --> 00:13:43,887
+Down here!
+
+139
+00:13:48,202 --> 00:13:50,364
+- There he is. - Stop! Stop or I'll shoot!
+
+140
+00:13:50,537 --> 00:13:51,800
+He's getting away!
+
+141
+00:14:23,844 --> 00:14:24,971
+Then you've read it?
+
+142
+00:14:25,346 --> 00:14:28,282
+Yes. And as much as I don't want to believe it...
+
+143
+00:14:28,449 --> 00:14:31,317
+your husband's findings are hard to discount.
+
+144
+00:14:32,053 --> 00:14:34,648
+Still, there's the Brainiac question.
+
+145
+00:14:35,122 --> 00:14:38,820
+Jor-El! Father's read your report. He thinks he can help.
+
+146
+00:14:38,993 --> 00:14:42,122
+- Yes, I think it's worth it... - It's too late.
+
+147
+00:14:42,430 --> 00:14:44,524
+- Good Lord. - What happened?
+
+148
+00:14:45,833 --> 00:14:48,826
+Brainiac tried to kill me. The police will be here soon.
+
+149
+00:14:49,704 --> 00:14:53,197
+Remember when I told you what we'd do if worst came to worse?
+
+150
+00:14:53,374 --> 00:14:55,707
+- No! - I'm sorry.
+
+151
+00:14:55,876 --> 00:14:57,868
+I never thought it would come to this.
+
+152
+00:14:58,045 --> 00:15:00,810
+Come to what? What are you talking about?
+
+153
+00:15:01,082 --> 00:15:03,608
+What's this nonsense about Brainiac?
+
+154
+00:15:03,784 --> 00:15:07,880
+Sul-Van, if you love your grandson and care one whit about his future...
+
+155
+00:15:08,055 --> 00:15:09,990
+you'll kindly shut up!
+
+156
+00:15:25,039 --> 00:15:28,203
+Sleep, Kal-El, my beautiful child...
+
+157
+00:15:28,609 --> 00:15:31,044
+my heartbeat, my life.
+
+158
+00:15:36,550 --> 00:15:38,883
+Send Kal-El to another world?
+
+159
+00:15:39,053 --> 00:15:42,387
+- You can't be serious! - The ship will get him there.
+
+160
+00:15:42,757 --> 00:15:45,317
+I know. I built it. It was part of the plan.
+
+161
+00:15:45,493 --> 00:15:49,328
+Save everyone in the Phantom Zone, travel to Earth, then bring them back.
+
+162
+00:15:49,497 --> 00:15:53,366
+Now it's only good for a lifeboat. And the passenger will be my son...
+
+163
+00:15:53,534 --> 00:15:56,504
+the last son of Krypton.
+
+164
+00:16:01,275 --> 00:16:02,868
+Lara!
+
+165
+00:16:04,211 --> 00:16:06,544
+I'm ready. He's sedated.
+
+166
+00:16:06,714 --> 00:16:09,741
+The police are here. They'll break into the lab to get me.
+
+167
+00:16:09,917 --> 00:16:12,580
+If I lead them away while you set up the launch...
+
+168
+00:16:12,853 --> 00:16:14,719
+I can't do it all myself.
+
+169
+00:16:14,889 --> 00:16:17,518
+I'll be back. I promise.
+
+170
+00:16:19,059 --> 00:16:21,460
+Lara, please, this is madness!
+
+171
+00:16:21,629 --> 00:16:25,725
+Father, I love you dearly, but this is my baby's life.
+
+172
+00:16:26,133 --> 00:16:28,068
+But he can't outrun the police.
+
+173
+00:16:28,235 --> 00:16:30,568
+Do you have a better idea?
+
+174
+00:16:38,913 --> 00:16:40,074
+See him?
+
+175
+00:16:40,247 --> 00:16:42,546
+Not yet. They have the lights off.
+
+176
+00:16:42,716 --> 00:16:45,550
+Wait! There's movement in the hover port.
+
+177
+00:16:47,755 --> 00:16:49,223
+Look out!
+
+178
+00:16:56,764 --> 00:16:59,097
+I hope his crash bags are working.
+
+179
+00:17:17,117 --> 00:17:19,109
+Good evening. Is there a problem?
+
+180
+00:17:31,866 --> 00:17:34,700
+I've got the hyperspace coordinates locked in.
+
+181
+00:17:34,869 --> 00:17:37,361
+Once he gets to Earth he'll be safe.
+
+182
+00:17:40,875 --> 00:17:43,106
+Lara, I could send you with him.
+
+183
+00:17:43,511 --> 00:17:47,107
+There's a risk, but if I have time to recalibrate the course...
+
+184
+00:17:48,315 --> 00:17:51,376
+No, my love. I'm staying with you.
+
+185
+00:18:05,366 --> 00:18:08,393
+The patrol's reporting in. Jor-El's escaped the perimeter.
+
+186
+00:18:08,569 --> 00:18:12,597
+- They're requesting further instructions. <i>- It doesn't matter anymore.</i>
+
+187
+00:18:12,773 --> 00:18:15,174
+<i>Farewell, Krypton.</i>
+
+188
+00:18:16,210 --> 00:18:18,304
+- Hey, what's going on? - Where'd he go?
+
+189
+00:18:18,479 --> 00:18:19,640
+Where's Brainiac?
+
+190
+00:18:29,790 --> 00:18:32,191
+Not another one.
+
+191
+00:18:32,393 --> 00:18:34,760
+No. The last one.
+
+192
+00:18:40,768 --> 00:18:42,430
+Goodbye, Kal-El.
+

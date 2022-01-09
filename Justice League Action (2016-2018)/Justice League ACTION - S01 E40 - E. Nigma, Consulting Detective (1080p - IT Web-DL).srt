@@ -1,0 +1,896 @@
+﻿1
+00:00:01,568 --> 00:00:02,701
+(THEME MUSIC PLAYING)
+
+2
+00:00:23,056 --> 00:00:25,357
+(ON TV) <i>Tallyho, Gotham.</i>
+
+3
+00:00:25,392 --> 00:00:27,025
+<i>Joker, here.</i> (CHUCKLES)
+
+4
+00:00:27,060 --> 00:00:29,861
+<i>And I'm on the hunt for a good time.</i>
+
+5
+00:00:29,896 --> 00:00:31,563
+<i>Or, at least, I was.</i>
+
+6
+00:00:31,598 --> 00:00:34,866
+<i>Question: How do you catch a unique crime fighter?</i>
+
+7
+00:00:34,901 --> 00:00:36,068
+<i>Answer?</i>
+
+8
+00:00:37,037 --> 00:00:38,403
+<i>You "nique" up on him.</i>
+
+9
+00:00:38,438 --> 00:00:41,840
+(LAUGHS MANIACALLY)
+
+10
+00:00:41,875 --> 00:00:45,043
+<i>But I wouldn't want people to think I'm unsporting.</i>
+
+11
+00:00:45,078 --> 00:00:47,846
+<i>So, to all you heroes out there,</i>
+
+12
+00:00:47,881 --> 00:00:50,215
+you have until dawn.
+
+13
+00:00:50,250 --> 00:00:52,050
+Then I release the hounds
+
+14
+00:00:52,085 --> 00:00:55,353
+on Gotham's most dangerous game.
+
+15
+00:00:55,388 --> 00:00:57,556
+(GROANING)
+
+16
+00:00:57,591 --> 00:00:59,151
+GREEN ARROW: Tell us where the Joker is.
+
+17
+00:00:59,659 --> 00:01:01,059
+Talk.
+
+18
+00:01:01,094 --> 00:01:02,461
+(SIREN BLARING)
+
+19
+00:01:06,299 --> 00:01:07,399
+(GROANING)
+
+20
+00:01:07,434 --> 00:01:08,567
+(SCREAMING)
+
+21
+00:01:08,602 --> 00:01:09,801
+Where is he?
+
+22
+00:01:09,836 --> 00:01:10,936
+I don't know! Put me down!
+
+23
+00:01:10,971 --> 00:01:12,938
+Where is the Joker?
+
+24
+00:01:14,007 --> 00:01:15,373
+(GROANS)
+
+25
+00:01:15,408 --> 00:01:17,576
+This is pointless.
+
+26
+00:01:17,611 --> 00:01:20,331
+We've been at this for hours and we're no closer than when we started.
+
+27
+00:01:20,355 --> 00:01:21,355
+(CANE TAPPING)
+
+28
+00:01:21,948 --> 00:01:25,050
+Perhaps I can be of assistance.
+
+29
+00:01:25,085 --> 00:01:26,151
+Hold it. Riddler.
+
+30
+00:01:26,186 --> 00:01:27,586
+Nygma's been released.
+
+31
+00:01:27,621 --> 00:01:29,421
+Arkham gave him a clean bill of health.
+
+32
+00:01:29,456 --> 00:01:31,623
+That's right, Robin Hood, I've gone straight.
+
+33
+00:01:32,592 --> 00:01:34,392
+My card.
+
+34
+00:01:34,427 --> 00:01:37,062
+(READING) "E. Nigma, Consulting Detective."
+
+35
+00:01:37,097 --> 00:01:39,931
+You think we'd hire a certifiable criminal?
+
+36
+00:01:39,966 --> 00:01:41,333
+I don't think you have a choice.
+
+37
+00:01:41,368 --> 00:01:42,801
+Based on what I saw,
+
+38
+00:01:42,836 --> 00:01:46,404
+the Bat's demise grows surer by the second.
+
+39
+00:01:46,439 --> 00:01:49,774
+He's right. It's not like we have any leads.
+
+40
+00:01:49,809 --> 00:01:52,044
+But just to be sure.
+
+41
+00:01:56,016 --> 00:01:58,083
+Why do you really want to help?
+
+42
+00:01:58,118 --> 00:02:00,185
+He's stealing my act.
+
+43
+00:02:00,220 --> 00:02:03,121
+I'm the one who came up with leaving baffling clues all over town.
+
+44
+00:02:03,156 --> 00:02:06,325
+It's my gimmick. He must be stopped.
+
+45
+00:02:08,128 --> 00:02:11,029
+Whoa! You're not seriously considering this?
+
+46
+00:02:11,064 --> 00:02:13,665
+And how's the riddle guy going to help us?
+
+47
+00:02:13,700 --> 00:02:15,967
+Everything is a riddle.
+
+48
+00:02:16,002 --> 00:02:18,503
+And I always know the solution.
+
+49
+00:02:18,538 --> 00:02:19,972
+It's my superpower.
+
+50
+00:02:22,242 --> 00:02:24,376
+Joker plays games.
+
+51
+00:02:24,411 --> 00:02:28,280
+The hunting motif and the stuffed vulture are telling you the rules.
+
+52
+00:02:28,315 --> 00:02:31,717
+Vultures are scavengers. Scavenge or a hunt.
+
+53
+00:02:32,652 --> 00:02:34,152
+That's...
+
+54
+00:02:34,187 --> 00:02:35,620
+Okay, that makes sense.
+
+55
+00:02:35,655 --> 00:02:37,556
+He's also provided the first clue.
+
+56
+00:02:40,927 --> 00:02:42,827
+Those tiny minds.
+
+57
+00:02:42,862 --> 00:02:45,430
+Honestly, what must it be like in there?
+
+58
+00:02:46,900 --> 00:02:50,535
+One of these things is not like the others.
+
+59
+00:02:50,570 --> 00:02:52,304
+It's a rebus.
+
+60
+00:02:52,339 --> 00:02:55,640
+A puzzle represented by two or more images.
+
+61
+00:02:55,675 --> 00:02:59,644
+Sun, man, soldier, golf?
+
+62
+00:02:59,679 --> 00:03:02,747
+RIDDLER: Sol is the proper name for our sun.
+
+63
+00:03:02,782 --> 00:03:06,818
+The man's dreadlocks indicate we would pronounce it "mon."
+
+64
+00:03:06,853 --> 00:03:09,487
+Another word for foot soldier is grunt.
+
+65
+00:03:09,522 --> 00:03:12,090
+And the arrow tells us it's not the ball,
+
+66
+00:03:12,125 --> 00:03:14,492
+but rather the golf tee.
+
+67
+00:03:14,527 --> 00:03:15,527
+I see.
+
+68
+00:03:17,230 --> 00:03:18,363
+Kind of.
+
+69
+00:03:18,398 --> 00:03:20,098
+Put them all together.
+
+70
+00:03:20,133 --> 00:03:24,536
+Right okay. Sol, mon, grunt, tee.
+
+71
+00:03:24,571 --> 00:03:26,438
+Sol mon grunt.
+
+72
+00:03:26,473 --> 00:03:28,407
+Does Sol mon grunt tee?
+
+73
+00:03:29,709 --> 00:03:33,946
+Sol, mon, grunt, tee.
+
+74
+00:03:36,549 --> 00:03:37,549
+(CHUCKLES) Oh!
+
+75
+00:03:37,584 --> 00:03:39,284
+(ALARMS BLARING)
+
+76
+00:03:46,259 --> 00:03:47,926
+(GRUNTING)
+
+77
+00:03:49,896 --> 00:03:51,096
+I'll get it out of him.
+
+78
+00:03:51,131 --> 00:03:53,531
+Sorry, my dear, that won't be necessary.
+
+79
+00:03:53,566 --> 00:03:55,133
+I don't mind.
+
+80
+00:03:55,168 --> 00:03:57,769
+I can't have an Amazon fighting my battles for me.
+
+81
+00:03:57,804 --> 00:03:59,938
+Pal, no offense. But, that's Grundy.
+
+82
+00:03:59,973 --> 00:04:02,107
+Your concern is adorable.
+
+83
+00:04:03,810 --> 00:04:06,645
+I hate to disturb you, Sol, can I call you Sol?
+
+84
+00:04:06,680 --> 00:04:08,880
+But, there's something in your cell I require.
+
+85
+00:04:08,915 --> 00:04:10,515
+(DOOR SHUTS AND LOCKS)
+
+86
+00:04:11,451 --> 00:04:14,119
+(BANGING)
+
+87
+00:04:21,361 --> 00:04:22,494
+Bingo.
+
+88
+00:04:22,529 --> 00:04:23,728
+We can go.
+
+89
+00:04:23,763 --> 00:04:26,231
+But... But wait, how... How?
+
+90
+00:04:26,266 --> 00:04:29,567
+Oh, him? Grundy's been bored out of his mind in here.
+
+91
+00:04:29,602 --> 00:04:31,169
+I just gave him a challenge.
+
+92
+00:04:32,472 --> 00:04:34,473
+Mmm. (LAUGHING)
+
+93
+00:04:35,608 --> 00:04:36,975
+How did that get there?
+
+94
+00:04:37,010 --> 00:04:38,476
+Grundy didn't notice it?
+
+95
+00:04:38,511 --> 00:04:40,512
+You're questioning the wrong things, my boy.
+
+96
+00:04:40,547 --> 00:04:41,780
+The real question is,
+
+97
+00:04:41,815 --> 00:04:43,615
+what does it mean?
+
+98
+00:04:43,650 --> 00:04:44,683
+Quite.
+
+99
+00:04:44,718 --> 00:04:46,785
+And it's quite obvious.
+
+100
+00:04:46,820 --> 00:04:48,153
+Taste it.
+
+101
+00:04:48,188 --> 00:04:50,289
+Oh, go ahead. It's harmless.
+
+102
+00:04:52,659 --> 00:04:53,958
+It's club soda.
+
+103
+00:04:53,993 --> 00:04:56,861
+Club, ice, anybody?
+
+104
+00:04:56,896 --> 00:04:58,263
+The Iceberg Club.
+
+105
+00:04:58,298 --> 00:04:59,738
+That's the Penguin's place, isn't it?
+
+106
+00:05:00,166 --> 00:05:01,199
+Ah.
+
+107
+00:05:01,234 --> 00:05:02,367
+(GLASS SHATTERING)
+
+108
+00:05:02,402 --> 00:05:03,968
+Let's go clubbing.
+
+109
+00:05:04,003 --> 00:05:05,404
+(PENGUINS CHEEPING)
+
+110
+00:05:08,341 --> 00:05:11,810
+A little more covert in our covert ops, please?
+
+111
+00:05:11,845 --> 00:05:13,885
+I was hoping to get out of here without causing a...
+
+112
+00:05:13,913 --> 00:05:14,979
+(DOOR OPENS)
+
+113
+00:05:15,014 --> 00:05:16,014
+Scene.
+
+114
+00:05:17,183 --> 00:05:19,651
+PENGUIN: Edward.
+
+115
+00:05:19,686 --> 00:05:21,519
+So good to see you.
+
+116
+00:05:21,554 --> 00:05:25,957
+And you've brought two colorful costume heroes with you.
+
+117
+00:05:25,992 --> 00:05:27,325
+How thoughtful.
+
+118
+00:05:27,360 --> 00:05:30,028
+Yes, well, I meant to call.
+
+119
+00:05:30,063 --> 00:05:31,129
+(GRUMBLES)
+
+120
+00:05:31,164 --> 00:05:32,797
+(FIRING)
+
+121
+00:05:32,832 --> 00:05:33,832
+(BULLETS RICOCHETING)
+
+122
+00:05:36,035 --> 00:05:37,269
+Finally, some action.
+
+123
+00:05:39,873 --> 00:05:41,173
+(GRUNTING)
+
+124
+00:05:44,277 --> 00:05:45,544
+(BOTH GRUNTING)
+
+125
+00:05:49,082 --> 00:05:50,082
+(GUNSHOTS)
+
+126
+00:05:51,885 --> 00:05:52,885
+(FIRING)
+
+127
+00:05:54,053 --> 00:05:55,087
+(ICE CRUMBLING)
+
+128
+00:05:59,759 --> 00:06:00,825
+(CHUCKLES)
+
+129
+00:06:00,860 --> 00:06:02,060
+(GUN CLICKS)
+
+130
+00:06:02,095 --> 00:06:03,562
+Confounded thing.
+
+131
+00:06:06,566 --> 00:06:07,566
+Thank you.
+
+132
+00:06:09,135 --> 00:06:10,135
+(CHUCKLES)
+
+133
+00:06:12,439 --> 00:06:15,373
+Okay, now we can start looking for the next clue.
+
+134
+00:06:15,408 --> 00:06:17,275
+Ah, is this it?
+
+135
+00:06:17,310 --> 00:06:18,576
+No, poor boy.
+
+136
+00:06:18,611 --> 00:06:20,812
+The Joker already told us.
+
+137
+00:06:25,952 --> 00:06:28,353
+WONDER WOMAN: Popcorn minus corn.
+
+138
+00:06:28,388 --> 00:06:29,888
+Pop.
+
+139
+00:06:29,923 --> 00:06:31,689
+Pastry minus cup?
+
+140
+00:06:31,724 --> 00:06:34,692
+Close. What kind of pastry?
+
+141
+00:06:34,727 --> 00:06:35,794
+A scone!
+
+142
+00:06:35,829 --> 00:06:39,230
+(SIGHS) Tart. It's a tart.
+
+143
+00:06:39,265 --> 00:06:41,065
+Tart without a T.
+
+144
+00:06:41,100 --> 00:06:43,268
+Art. Pop art.
+
+145
+00:06:43,303 --> 00:06:47,238
+There's a huge pop art exhibition at the Gotham City Institute of Arts.
+
+146
+00:06:47,273 --> 00:06:49,073
+(CHUCKLES)
+
+147
+00:06:49,108 --> 00:06:51,148
+What? (CLEARS THROAT) This is... This is kind of fun.
+
+148
+00:06:59,819 --> 00:07:02,754
+When does a traveler not need his map?
+
+149
+00:07:02,789 --> 00:07:04,389
+When he's already there.
+
+150
+00:07:04,424 --> 00:07:08,092
+JOKER: Ooh, now that is skill.
+
+151
+00:07:08,127 --> 00:07:11,262
+You're the Benedict Arnold of brain boxes, Eddie.
+
+152
+00:07:11,297 --> 00:07:14,332
+There is no honor among thieves, Joker.
+
+153
+00:07:14,367 --> 00:07:15,834
+You're proof of that.
+
+154
+00:07:20,139 --> 00:07:21,139
+Batman!
+
+155
+00:07:22,775 --> 00:07:23,808
+(GRUNTING)
+
+156
+00:07:23,843 --> 00:07:24,976
+(JOKER LAUGHING)
+
+157
+00:07:31,518 --> 00:07:33,485
+(GRUNTING)
+
+158
+00:07:33,520 --> 00:07:37,255
+I wouldn't. The top of that can is a pressure trigger.
+
+159
+00:07:37,290 --> 00:07:42,260
+Step off and Lady Justice gives Batsy a close shave.
+
+160
+00:07:42,295 --> 00:07:45,163
+And remember, justice is blind.
+
+161
+00:07:45,198 --> 00:07:47,765
+It could get sloppy.
+
+162
+00:07:47,800 --> 00:07:52,303
+The only thing sloppy around here, Joker, are your terrible clues.
+
+163
+00:07:52,338 --> 00:07:55,673
+Leave the riddling to those of us with brains.
+
+164
+00:07:55,708 --> 00:07:56,708
+(GRUNTING)
+
+165
+00:08:01,014 --> 00:08:02,014
+(EXPLODING)
+
+166
+00:08:03,483 --> 00:08:06,217
+You stole my gimmick you talentless hack!
+
+167
+00:08:06,252 --> 00:08:09,187
+Leaving clues for Batman was my idea.
+
+168
+00:08:09,222 --> 00:08:11,155
+Mine.
+
+169
+00:08:11,190 --> 00:08:14,659
+Are you accusing me, Joker, prince of thieves, of stealing?
+
+170
+00:08:14,694 --> 00:08:15,827
+You shock me, sir.
+
+171
+00:08:20,867 --> 00:08:22,500
+(BOTH GRUNTING)
+
+172
+00:08:22,535 --> 00:08:25,370
+JOKER: This good guy routine is getting old.
+
+173
+00:08:25,405 --> 00:08:28,473
+Eddie, face it. You're just like me.
+
+174
+00:08:28,508 --> 00:08:30,408
+Crazy as a soup sandwich.
+
+175
+00:08:30,443 --> 00:08:31,610
+(JOKER LAUGHS)
+
+176
+00:08:34,948 --> 00:08:36,047
+Yield.
+
+177
+00:08:36,883 --> 00:08:38,683
+Okay, I give.
+
+178
+00:08:38,718 --> 00:08:40,919
+You solved all my riddles.
+
+179
+00:08:40,954 --> 00:08:42,353
+Except one.
+
+180
+00:08:42,388 --> 00:08:44,956
+(LAUGHS) And, ooh, it's a good one.
+
+181
+00:08:46,859 --> 00:08:49,527
+RIDDLER: "What has four eyes but doesn't see?"
+
+182
+00:08:49,562 --> 00:08:51,129
+Oh, you've got to be kidding me.
+
+183
+00:08:52,198 --> 00:08:54,699
+But solve this.
+
+184
+00:08:54,734 --> 00:08:58,269
+And the Dark Knight ends up diced tomatoes.
+
+185
+00:08:58,304 --> 00:09:00,071
+A voice activated trigger.
+
+186
+00:09:00,106 --> 00:09:02,240
+If he answers the riddle, the sword falls.
+
+187
+00:09:02,275 --> 00:09:05,109
+Ooh, you're smarter than he looks.
+
+188
+00:09:05,144 --> 00:09:06,678
+So, let me get this straight.
+
+189
+00:09:06,713 --> 00:09:09,213
+All I need to do is not answer the riddle?
+
+190
+00:09:09,248 --> 00:09:13,752
+That's right. Easy peasy lemon squeezy.
+
+191
+00:09:15,555 --> 00:09:17,956
+(CHUCKLES) I won't say a word.
+
+192
+00:09:17,991 --> 00:09:19,724
+Then by all means,
+
+193
+00:09:19,759 --> 00:09:21,092
+don't answer it.
+
+194
+00:09:21,894 --> 00:09:22,994
+I won't.
+
+195
+00:09:23,663 --> 00:09:25,263
+Oh, really?
+
+196
+00:09:25,298 --> 00:09:28,300
+You're not compelled to answer?
+
+197
+00:09:31,104 --> 00:09:32,403
+Well, that's fine.
+
+198
+00:09:32,438 --> 00:09:35,106
+You probably don't know the answer anyway.
+
+199
+00:09:38,945 --> 00:09:41,312
+You have to say it, Eddie. (CHUCKLES)
+
+200
+00:09:41,347 --> 00:09:42,514
+That is, if you know it,
+
+201
+00:09:43,650 --> 00:09:45,350
+which I doubt.
+
+202
+00:09:47,987 --> 00:09:50,588
+(GROANING) Mississippi!
+
+203
+00:09:50,623 --> 00:09:54,425
+Mississippi has four eyes, but doesn't see.
+
+204
+00:09:54,460 --> 00:09:55,727
+(BELL RINGS)
+
+205
+00:09:55,762 --> 00:09:57,996
+Made you talk! (LAUGHS MANIACALLY)
+
+206
+00:10:03,603 --> 00:10:04,636
+Whew. Hey!
+
+207
+00:10:04,671 --> 00:10:05,671
+(EXCLAIMING)
+
+208
+00:10:07,106 --> 00:10:08,273
+(JOKER GIGGLING)
+
+209
+00:10:13,980 --> 00:10:15,780
+GREEN ARROW: So, let me get this straight.
+
+210
+00:10:15,815 --> 00:10:18,983
+This whole time, Joker was using Batman to get to you?
+
+211
+00:10:19,018 --> 00:10:20,451
+What did you do to him?
+
+212
+00:10:20,486 --> 00:10:22,954
+That's the one riddle I haven't solved.
+
+213
+00:10:22,989 --> 00:10:26,024
+Ha! You know exactly what you did.
+
+214
+00:10:33,299 --> 00:10:34,999
+You did all this because he ate your donut?
+
+215
+00:10:35,034 --> 00:10:38,336
+(LAUGHING MANIACALLY)
+
+216
+00:10:39,906 --> 00:10:43,141
+Okay. We're gonna head back to the watch tower.
+
+217
+00:10:43,176 --> 00:10:46,010
+But, uh, hey, Nygma, you did good today.
+
+218
+00:10:46,045 --> 00:10:47,979
+I did, didn't I?
+
+219
+00:10:48,014 --> 00:10:50,782
+You two blockheads wouldn't have gotten anywhere without me.
+
+220
+00:10:50,817 --> 00:10:52,517
+(LAUGHS)
+
+221
+00:10:52,552 --> 00:10:54,652
+Riddle me this, Gotham.
+
+222
+00:10:54,687 --> 00:10:59,691
+Who's getting better and better every day in every way?
+
+223
+00:11:00,359 --> 00:11:01,393
+Me!
+
+224
+00:11:03,062 --> 00:11:06,498
+(THEME MUSIC PLAYING)
+

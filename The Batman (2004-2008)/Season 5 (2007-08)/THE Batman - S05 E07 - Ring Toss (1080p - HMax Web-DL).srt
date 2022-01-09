@@ -1,0 +1,956 @@
+﻿1
+00:00:08,028 --> 00:00:12,000
+Hey, Grayson. How about a little game of b-ball?
+
+2
+00:00:12,024 --> 00:00:13,034
+Yeah, sure.
+
+3
+00:00:18,036 --> 00:00:21,013
+- What's that? - My ride.
+
+4
+00:00:21,037 --> 00:00:25,011
+What do you do, work in a funeral home?
+
+5
+00:00:25,035 --> 00:00:26,677
+I'll never fit in if the other kids see me
+
+6
+00:00:27,028 --> 00:00:29,051
+riding in a limousine. It isn't normal.
+
+7
+00:00:30,030 --> 00:00:31,021
+You flit around the city every night
+
+8
+00:00:31,045 --> 00:00:33,055
+in tights and a cape. Is that normal?
+
+9
+00:00:34,034 --> 00:00:35,034
+I could have gotten home on my own.
+
+10
+00:00:35,058 --> 00:00:37,023
+'Not today, I'm afraid.'
+
+11
+00:00:37,047 --> 00:00:39,024
+'Remember, you and Master Bruce must attend'
+
+12
+00:00:39,048 --> 00:00:41,021
+'that charity party this evening.'
+
+13
+00:00:41,045 --> 00:00:43,026
+'I was hoping he'd be too busy.'
+
+14
+00:00:43,050 --> 00:00:45,092
+'Actually, he's in the Bat Cave at this very moment'
+
+15
+00:00:46,047 --> 00:00:48,071
+with one of those gents from the Justice Club.
+
+16
+00:00:49,050 --> 00:00:50,091
+You mean League? Which one?
+
+17
+00:00:51,051 --> 00:00:53,042
+- The green one. - Martian Manhunter?
+
+18
+00:00:53,066 --> 00:00:55,038
+- 'No.' - Green Arrow?
+
+19
+00:00:55,062 --> 00:00:58,039
+- No, the other chap. - Green Lantern?
+
+20
+00:00:58,063 --> 00:01:00,041
+Oh, man, floor it.
+
+21
+00:01:00,065 --> 00:01:01,071
+Whoosh.
+
+22
+00:01:03,079 --> 00:01:06,055
+- Have you found anything yet? - No.
+
+23
+00:01:06,079 --> 00:01:09,047
+My system is scanning the visual galaxy and there's no sign
+
+24
+00:01:09,071 --> 00:01:11,056
+of any unusual energy signatures out there.
+
+25
+00:01:11,080 --> 00:01:14,060
+- I wish we could be sure. - I <i>am sure.</i>
+
+26
+00:01:14,084 --> 00:01:16,058
+'The equipment is state-of-the-art.'
+
+27
+00:01:16,082 --> 00:01:17,074
+Maybe on Earth.
+
+28
+00:01:17,098 --> 00:01:20,064
+But we're not dealing with someone from Earth.
+
+29
+00:01:20,088 --> 00:01:23,079
+If only the watchtower sensors weren't offline for repairs.
+
+30
+00:01:23,103 --> 00:01:26,071
+Exactly who is this Sinestro?
+
+31
+00:01:26,095 --> 00:01:28,075
+He was a member of the Green Lantern Corps
+
+32
+00:01:28,099 --> 00:01:31,081
+'until he got power hungry and tried to wipe us out.'
+
+33
+00:01:31,105 --> 00:01:32,089
+We locked him away, but...
+
+34
+00:01:32,113 --> 00:01:34,117
+Sounds like it didn't take.
+
+35
+00:01:35,096 --> 00:01:36,086
+No.
+
+36
+00:01:36,110 --> 00:01:39,083
+Attention all Green Lanterns.
+
+37
+00:01:39,107 --> 00:01:43,081
+Sinestro of Korugar has escaped his stasis cell.
+
+38
+00:01:43,105 --> 00:01:46,089
+If you have any contact with him, notify..
+
+39
+00:01:46,113 --> 00:01:48,102
+Why do you think he's coming here?
+
+40
+00:01:48,126 --> 00:01:51,095
+Sinestro and I have a history.
+
+41
+00:01:51,119 --> 00:01:53,112
+Green lantern! You're really here.
+
+42
+00:01:53,136 --> 00:01:55,105
+I am such a fan.
+
+43
+00:01:55,129 --> 00:01:56,115
+- Dick. - Okay, I know.
+
+44
+00:01:56,139 --> 00:01:58,116
+People probably ask you this all the time..
+
+45
+00:01:58,140 --> 00:01:59,116
+Dick.
+
+46
+00:01:59,140 --> 00:02:01,099
+But like if you and Superman
+
+47
+00:02:01,123 --> 00:02:03,121
+were in a fight, which one would... 'Dick.'
+
+48
+00:02:03,145 --> 00:02:06,121
+Go get dressed.
+
+49
+00:02:06,145 --> 00:02:08,133
+Aww.
+
+50
+00:02:09,136 --> 00:02:10,122
+You know, I've gotta go, too.
+
+51
+00:02:10,146 --> 00:02:12,127
+I have to fly a plane home to Coast City.
+
+52
+00:02:12,151 --> 00:02:14,119
+Why are <i>you flying a plane?</i>
+
+53
+00:02:14,143 --> 00:02:17,144
+In my day job, I'm a test pilot.
+
+54
+00:02:18,155 --> 00:02:20,137
+Even your secret identity is cool.
+
+55
+00:02:20,161 --> 00:02:23,122
+Now!
+
+56
+00:02:23,146 --> 00:02:24,143
+Nice meeting you.
+
+57
+00:02:24,167 --> 00:02:25,168
+Nice kid.
+
+58
+00:02:26,146 --> 00:02:27,141
+I'll keep an eye out for your pal.
+
+59
+00:02:27,165 --> 00:02:29,148
+Thanks.
+
+60
+00:02:29,172 --> 00:02:33,148
+But, Bruce, if you see Sinestro coming, let me know.
+
+61
+00:02:33,172 --> 00:02:35,139
+Don't try to be a hero.
+
+62
+00:02:35,163 --> 00:02:37,168
+You'll be the first one I call.
+
+63
+00:02:51,182 --> 00:02:53,163
+Hmm, better dig out the lantern
+
+64
+00:02:53,187 --> 00:02:56,178
+and give this a charge before.. Uhh!
+
+65
+00:03:03,189 --> 00:03:05,188
+Surprise.
+
+66
+00:04:13,255 --> 00:04:15,240
+Hello, old friend.
+
+67
+00:04:15,264 --> 00:04:17,243
+I'm not your friend.
+
+68
+00:04:17,267 --> 00:04:19,282
+No, but you were my best student.
+
+69
+00:04:20,261 --> 00:04:21,249
+I even offered you a chance
+
+70
+00:04:21,273 --> 00:04:24,246
+to help me bring order to the universe.
+
+71
+00:04:24,270 --> 00:04:25,288
+But you defied me..
+
+72
+00:04:26,267 --> 00:04:27,265
+Rallied the other green lanterns
+
+73
+00:04:27,289 --> 00:04:29,258
+ruined everything.
+
+74
+00:04:29,282 --> 00:04:32,270
+Even so, you couldn't bring yourself to finish me off.
+
+75
+00:04:32,294 --> 00:04:34,270
+'You failed.'
+
+76
+00:04:34,294 --> 00:04:36,264
+Ugh!
+
+77
+00:04:36,288 --> 00:04:38,271
+Just as this planet's crude technology
+
+78
+00:04:38,295 --> 00:04:41,262
+failed to detect my arrival.
+
+79
+00:04:41,286 --> 00:04:43,278
+Now, give me your ring.
+
+80
+00:04:43,302 --> 00:04:46,269
+Why, tired of the one you've got?
+
+81
+00:04:46,293 --> 00:04:47,277
+Not at all.
+
+82
+00:04:47,301 --> 00:04:50,279
+However, with two rings and twice the power
+
+83
+00:04:50,303 --> 00:04:53,280
+I will destroy the Green Lantern Corps.
+
+84
+00:04:53,304 --> 00:04:55,274
+And then..
+
+85
+00:04:55,298 --> 00:04:57,293
+Well, you know the rest.
+
+86
+00:04:57,317 --> 00:05:00,303
+Yeah. I've heard it all before.
+
+87
+00:05:01,316 --> 00:05:09,315
+Ugh!
+
+88
+00:05:31,337 --> 00:05:34,347
+Thud Yaah!
+
+89
+00:05:51,359 --> 00:05:52,367
+Don't.
+
+90
+00:06:03,379 --> 00:06:06,366
+Haven't you forgotten something?
+
+91
+00:06:24,398 --> 00:06:26,383
+Find... Batman.
+
+92
+00:06:26,407 --> 00:06:29,390
+Safe with him.
+
+93
+00:06:31,391 --> 00:06:32,411
+'Come out, coward!'
+
+94
+00:06:38,404 --> 00:06:41,384
+My ring will find your ring.
+
+95
+00:06:41,408 --> 00:06:43,411
+You cannot hide.
+
+96
+00:07:04,446 --> 00:07:06,420
+- Having fun? - Tons.
+
+97
+00:07:06,444 --> 00:07:09,425
+And I just figured out why the Joker is such a nut job.
+
+98
+00:07:09,449 --> 00:07:12,451
+Because this much smiling drives you crazy.
+
+99
+00:07:17,455 --> 00:07:20,447
+That's it, girls. Just up ahead.
+
+100
+00:07:21,456 --> 00:07:23,426
+'Eh, careful, careful!'
+
+101
+00:07:23,450 --> 00:07:27,438
+Hmph. I tell you, the airlines these days.
+
+102
+00:07:27,462 --> 00:07:32,438
+Hmm. Bruce Wayne and his flock of fancy friends.
+
+103
+00:07:32,462 --> 00:07:36,459
+All that money just waiting to be taken!
+
+104
+00:07:40,467 --> 00:07:42,440
+What?
+
+105
+00:07:42,464 --> 00:07:43,473
+Huh?
+
+106
+00:07:44,472 --> 00:07:45,488
+Ahh.
+
+107
+00:07:46,467 --> 00:07:49,464
+Aah-aah-aah..
+
+108
+00:07:49,488 --> 00:07:52,459
+Aah! Stop!
+
+109
+00:07:52,483 --> 00:07:53,496
+Huh?
+
+110
+00:07:56,487 --> 00:07:57,494
+Well..
+
+111
+00:07:58,496 --> 00:08:00,492
+What have we here?
+
+112
+00:08:03,483 --> 00:08:05,488
+A perfect fit.
+
+113
+00:08:14,517 --> 00:08:16,502
+What the.. Aah, aah!
+
+114
+00:08:18,515 --> 00:08:20,483
+Okay, that's it.
+
+115
+00:08:20,507 --> 00:08:21,491
+Let me down!
+
+116
+00:08:21,515 --> 00:08:22,521
+Oof! Oh!
+
+117
+00:08:27,508 --> 00:08:29,491
+Hands up, Penguin!
+
+118
+00:08:29,515 --> 00:08:30,525
+Don't shoot!
+
+119
+00:08:35,538 --> 00:08:38,525
+Huh? Ahh.
+
+120
+00:08:39,542 --> 00:08:42,531
+Ohh! Aah!
+
+121
+00:08:43,544 --> 00:08:47,532
+Hmm. I could get used to this.
+
+122
+00:08:54,548 --> 00:08:56,527
+Oh, wouldn't you know it.
+
+123
+00:08:56,551 --> 00:09:00,541
+Another party where I wasn't invited.
+
+124
+00:09:01,545 --> 00:09:03,547
+Stop right there, Penguin.
+
+125
+00:09:04,545 --> 00:09:05,559
+What are you.. Mmph!
+
+126
+00:09:06,567 --> 00:09:10,533
+And now, as we say in the thievery biz
+
+127
+00:09:10,557 --> 00:09:12,574
+I'm gonna clean you out.
+
+128
+00:09:15,561 --> 00:09:18,567
+Eh... I said clean you out!
+
+129
+00:09:20,572 --> 00:09:21,557
+Huh?
+
+130
+00:09:21,581 --> 00:09:23,571
+Ah..
+
+131
+00:09:39,596 --> 00:09:42,566
+Guess I'd better be glowing.
+
+132
+00:09:42,590 --> 00:09:45,564
+Ha ha ha ha ha!
+
+133
+00:09:45,588 --> 00:09:48,582
+How did Penguin get Green Lantern's ring?
+
+134
+00:09:48,606 --> 00:09:51,572
+Still bored?
+
+135
+00:09:51,596 --> 00:09:54,578
+Don't worry, folks, it's gonna be okay.
+
+136
+00:09:54,602 --> 00:09:56,584
+Ah ha ha ha ha!
+
+137
+00:09:56,608 --> 00:09:58,603
+Ooh.
+
+138
+00:10:03,613 --> 00:10:04,596
+Hmph.
+
+139
+00:10:04,620 --> 00:10:07,627
+Alright, windbag, do your stuff.
+
+140
+00:10:12,633 --> 00:10:14,626
+Ahh..
+
+141
+00:10:20,624 --> 00:10:22,633
+Oh, what an artful thief.
+
+142
+00:10:37,660 --> 00:10:39,641
+What?
+
+143
+00:10:45,650 --> 00:10:48,640
+I'm tired of playing with your toys, boys.
+
+144
+00:10:48,664 --> 00:10:50,664
+How about we try mine?
+
+145
+00:10:51,669 --> 00:10:52,675
+A boot?
+
+146
+00:10:54,669 --> 00:10:57,662
+Wish this came with instructions.
+
+147
+00:10:59,681 --> 00:11:02,671
+Ah, this'll do.
+
+148
+00:11:13,692 --> 00:11:16,688
+So how are we supposed to get that ring away from him?
+
+149
+00:11:20,696 --> 00:11:22,686
+'I found another one!'
+
+150
+00:11:25,706 --> 00:11:27,709
+You'll be okay, ma'am.
+
+151
+00:11:34,707 --> 00:11:37,677
+What in blazes is Batman doing?
+
+152
+00:11:37,701 --> 00:11:39,681
+'All units near Moldoff and Adams'
+
+153
+00:11:39,705 --> 00:11:41,698
+'respond to a 10-10 in progress.'
+
+154
+00:11:41,722 --> 00:11:43,695
+'Suspect identified as the Penguin.'
+
+155
+00:11:43,719 --> 00:11:45,722
+'He's using a super-powered weapon.'
+
+156
+00:12:23,765 --> 00:12:26,734
+All done? Good.
+
+157
+00:12:26,758 --> 00:12:28,761
+Now it's my turn!
+
+158
+00:12:38,767 --> 00:12:39,750
+Aah!
+
+159
+00:12:39,774 --> 00:12:41,762
+Ow!
+
+160
+00:12:48,791 --> 00:12:51,761
+You're supposed to have my ring.
+
+161
+00:12:51,785 --> 00:12:53,751
+I never got it.
+
+162
+00:12:53,775 --> 00:12:54,787
+Guys..
+
+163
+00:13:00,803 --> 00:13:04,807
+You know, mister, you could get a ticket driving like that.
+
+164
+00:13:05,786 --> 00:13:07,791
+And I'm here to give it to you.
+
+165
+00:13:08,805 --> 00:13:10,786
+What is the deal with this thing?
+
+166
+00:13:10,810 --> 00:13:15,784
+The deal is, you lack the will power and the intellect
+
+167
+00:13:15,808 --> 00:13:17,808
+to operate it properly.
+
+168
+00:13:27,826 --> 00:13:29,788
+Now give me the ring
+
+169
+00:13:29,812 --> 00:13:31,802
+or suffer the consequences.
+
+170
+00:13:31,826 --> 00:13:35,807
+Can I take a sec to think it over?
+
+171
+00:13:35,831 --> 00:13:36,835
+No.
+
+172
+00:14:03,848 --> 00:14:06,865
+Whoosh We gotta get Batman.
+
+173
+00:14:17,865 --> 00:14:18,856
+There he is.
+
+174
+00:14:18,880 --> 00:14:21,845
+That's one tough guy you work for.
+
+175
+00:14:21,869 --> 00:14:22,876
+Tell me about it.
+
+176
+00:14:27,879 --> 00:14:28,887
+Phew.
+
+177
+00:14:31,874 --> 00:14:33,876
+Aah! Aah!
+
+178
+00:14:40,897 --> 00:14:42,889
+Huh?
+
+179
+00:14:49,889 --> 00:14:50,890
+Uhh!
+
+180
+00:15:05,924 --> 00:15:07,917
+Oh.
+
+181
+00:15:08,923 --> 00:15:09,899
+Aah!
+
+182
+00:15:09,923 --> 00:15:11,902
+You put on quite a show, Oswald.
+
+183
+00:15:11,926 --> 00:15:13,910
+Shh! Can you keep it down?
+
+184
+00:15:13,934 --> 00:15:16,901
+There's an alien maniac out there looking for me.
+
+185
+00:15:16,925 --> 00:15:18,941
+Which is why I suggest you give me the ring
+
+186
+00:15:19,920 --> 00:15:20,915
+while you still have your fingers.
+
+187
+00:15:20,939 --> 00:15:23,903
+Yeah... never!
+
+188
+00:15:23,927 --> 00:15:25,921
+'Show yourself, parasite!'
+
+189
+00:15:25,945 --> 00:15:28,935
+Please take it, take it, take it, take it!
+
+190
+00:15:40,950 --> 00:15:41,956
+There!
+
+191
+00:15:47,948 --> 00:15:48,959
+Argh!
+
+192
+00:16:00,980 --> 00:16:03,944
+'Batman. Still in one piece?'
+
+193
+00:16:03,968 --> 00:16:05,952
+Yeah. Penguin's out cold.
+
+194
+00:16:05,976 --> 00:16:06,988
+Get the ring to me.
+
+195
+00:16:11,983 --> 00:16:12,995
+Here goes.
+
+196
+00:16:20,980 --> 00:16:21,961
+No!
+
+197
+00:16:21,985 --> 00:16:23,967
+It's okay. He can handle himself.
+
+198
+00:16:23,991 --> 00:16:24,972
+That's not the point.
+
+199
+00:16:24,996 --> 00:16:25,982
+I haven't charged the ring.
+
+200
+00:16:26,006 --> 00:16:27,996
+It's gonna run out of power.
+
+201
+00:16:31,004 --> 00:16:33,978
+Well, that isn't what I had in mind.
+
+202
+00:16:34,002 --> 00:16:34,982
+Uhh!
+
+203
+00:16:35,006 --> 00:16:37,986
+Not as easy as it looks, is it?
+
+204
+00:16:38,010 --> 00:16:40,001
+Nothing ever is.
+
+205
+00:16:45,011 --> 00:16:47,011
+Now we do this my way.
+
+206
+00:16:51,026 --> 00:16:54,035
+Ah, here you see the major flaw
+
+207
+00:16:55,014 --> 00:16:56,014
+in a Green Lantern Ring.
+
+208
+00:16:56,038 --> 00:17:00,033
+They stop working at the most awkward times.
+
+209
+00:17:01,023 --> 00:17:02,031
+Ah!
+
+210
+00:17:27,047 --> 00:17:29,058
+- Get out of there! - Too late.
+
+211
+00:17:31,065 --> 00:17:33,053
+Ugh!
+
+212
+00:17:41,081 --> 00:17:44,062
+I want the power ring now!
+
+213
+00:17:44,086 --> 00:17:47,089
+In all the excitement, I seem to have lost track of it.
+
+214
+00:17:48,068 --> 00:17:50,062
+Apparently, your life means as little to you
+
+215
+00:17:50,086 --> 00:17:52,080
+as it does to me.
+
+216
+00:17:53,088 --> 00:17:56,060
+Now, where is it?
+
+217
+00:17:56,084 --> 00:17:57,090
+'Right here.'
+
+218
+00:18:00,091 --> 00:18:02,066
+Let's settle this.
+
+219
+00:18:02,090 --> 00:18:03,105
+With pleasure.
+
+220
+00:18:22,105 --> 00:18:23,116
+Uhh!
+
+221
+00:18:46,139 --> 00:18:48,129
+Need a hand?
+
+222
+00:18:49,143 --> 00:18:51,131
+Aargh!
+
+223
+00:18:52,154 --> 00:18:55,113
+I have had enough of your antics
+
+224
+00:18:55,137 --> 00:18:57,122
+you insignificant..
+
+225
+00:18:57,146 --> 00:18:58,152
+Huh?
+
+226
+00:19:06,150 --> 00:19:09,136
+I must admit, I underestimated you.
+
+227
+00:19:09,160 --> 00:19:10,144
+Really?
+
+228
+00:19:10,168 --> 00:19:13,147
+As a matter of fact, I think we're a lot alike.
+
+229
+00:19:13,171 --> 00:19:14,176
+You mean stubborn?
+
+230
+00:19:15,155 --> 00:19:17,143
+I was going to say we have enormous will power
+
+231
+00:19:17,167 --> 00:19:19,145
+but stubborn works, too.
+
+232
+00:19:19,169 --> 00:19:20,154
+Now, if you'll excuse me
+
+233
+00:19:20,178 --> 00:19:23,185
+I'd better take Sinestro back to his stasis cell.
+
+234
+00:19:24,164 --> 00:19:25,163
+Does he need a roommate?
+
+235
+00:19:25,187 --> 00:19:27,161
+I think we'll pass.
+
+236
+00:19:27,185 --> 00:19:29,160
+Nice working with you.
+
+237
+00:19:29,184 --> 00:19:30,190
+Likewise.
+
+238
+00:19:41,185 --> 00:19:43,194
+So how was it, using that ring?
+
+239
+00:19:44,194 --> 00:19:46,193
+Not my style.
+

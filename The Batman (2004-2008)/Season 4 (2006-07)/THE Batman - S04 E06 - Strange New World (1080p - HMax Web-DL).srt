@@ -1,0 +1,880 @@
+﻿1
+00:00:10,023 --> 00:00:12,035
+<i>Combat log, final entry.</i>
+
+2
+00:00:13,014 --> 00:00:15,003
+<i>Should I fail, let this be a record</i>
+
+3
+00:00:15,027 --> 00:00:17,002
+<i>for those who come after me.</i>
+
+4
+00:00:17,026 --> 00:00:20,042
+<i>Two nights ago, a madman unleashed a plague on Gotham</i>
+
+5
+00:00:21,021 --> 00:00:24,006
+<i>turning the infected into what I can only describe</i>
+
+6
+00:00:24,030 --> 00:00:25,014
+<i>as zombies.</i>
+
+7
+00:00:25,038 --> 00:00:28,013
+<i>Mindless drones at his command.</i>
+
+8
+00:00:28,037 --> 00:00:30,023
+<i>I'd say it's a nightmare..</i>
+
+9
+00:00:30,047 --> 00:00:31,028
+<i>But it can't be</i>
+
+10
+00:00:31,052 --> 00:00:34,043
+<i>because I haven't slept in days.</i>
+
+11
+00:00:39,043 --> 00:00:41,041
+<i>The pieces are now in place.</i>
+
+12
+00:00:56,057 --> 00:00:58,078
+<i>I have one chance to save this city.</i>
+
+13
+00:01:01,072 --> 00:01:03,071
+'No!'
+
+14
+00:02:38,170 --> 00:02:41,184
+<i>Hard to believe this all started 48 hours ago.</i>
+
+15
+00:02:43,185 --> 00:02:46,160
+'"I am proud to accept this award on behalf of all'
+
+16
+00:02:46,184 --> 00:02:49,192
+"who work to ensure that Gotham will once again stand proud
+
+17
+00:02:50,171 --> 00:02:52,194
+as a shining beacon to a brighter future."
+
+18
+00:02:53,173 --> 00:02:54,173
+- What do you think, Dick? - Sure.
+
+19
+00:02:54,197 --> 00:02:56,160
+You could give that speech..
+
+20
+00:02:56,184 --> 00:02:58,157
+Or to save time
+
+21
+00:02:58,181 --> 00:02:59,168
+I could fly over in the Batwing
+
+22
+00:02:59,192 --> 00:03:02,166
+and drop knock-out gas on the crowd.
+
+23
+00:03:02,190 --> 00:03:04,204
+I for one, hung on every word.
+
+24
+00:03:06,193 --> 00:03:08,167
+Still, I'll see to it that pillows and blankets
+
+25
+00:03:08,191 --> 00:03:11,181
+are available for those who may require them.
+
+26
+00:03:11,205 --> 00:03:13,189
+Don't worry, sir, we still have two more days
+
+27
+00:03:13,213 --> 00:03:16,174
+to work on the speech before Gotham honors
+
+28
+00:03:16,198 --> 00:03:18,184
+the good works of Bruce Wayne.
+
+29
+00:03:18,208 --> 00:03:20,178
+And speaking of good works
+
+30
+00:03:20,202 --> 00:03:23,208
+it seems the city requires some from the Batman.
+
+31
+00:03:26,226 --> 00:03:30,195
+'Dr. Hugo Strange is requesting to see you. He won't say why.'
+
+32
+00:03:30,219 --> 00:03:33,226
+'I doubt it's to thank me for the new accommodations.'
+
+33
+00:03:36,217 --> 00:03:38,059
+Be careful what you say in front of him, Robin.
+
+34
+00:03:38,219 --> 00:03:39,205
+Strange may be a madman
+
+35
+00:03:39,229 --> 00:03:41,211
+but he's also a brilliant psychiatrist.
+
+36
+00:03:41,235 --> 00:03:44,238
+If he finds an opening, he'll mess with your head.
+
+37
+00:04:00,252 --> 00:04:03,236
+I don't usually make house calls, doctor.
+
+38
+00:04:03,260 --> 00:04:07,233
+- What do you want? - Thank you for coming, Batman.
+
+39
+00:04:07,257 --> 00:04:09,245
+And what I want is your help
+
+40
+00:04:09,269 --> 00:04:12,251
+with an experiment I'm conducting.
+
+41
+00:04:12,275 --> 00:04:14,244
+You see, I'm going to release
+
+42
+00:04:14,268 --> 00:04:18,236
+a toxic agent into Gotham's air.
+
+43
+00:04:18,260 --> 00:04:21,251
+It's odorless, invisible, and extremely fast-acting.
+
+44
+00:04:21,275 --> 00:04:24,243
+<i>It will twist the body and weaken the mind</i>
+
+45
+00:04:24,267 --> 00:04:28,261
+<i>turning those infected into monstrous living drones.</i>
+
+46
+00:04:28,285 --> 00:04:32,270
+<i>Zombies, answerable only to me.</i>
+
+47
+00:04:32,294 --> 00:04:34,272
+<i>Each victim, in turn</i>
+
+48
+00:04:34,296 --> 00:04:38,301
+<i>will become a carrier, infecting others.</i>
+
+49
+00:04:39,280 --> 00:04:41,280
+<i>Sadly, if the antidote isn't administered</i>
+
+50
+00:04:41,304 --> 00:04:45,277
+<i>within 48 hours of infection</i>
+
+51
+00:04:45,301 --> 00:04:48,310
+the condition becomes irreversible.
+
+52
+00:04:51,305 --> 00:04:53,315
+If the toxin is being released everywhere
+
+53
+00:04:54,294 --> 00:04:55,289
+why won't you be affected, Strange?
+
+54
+00:04:55,313 --> 00:04:59,285
+I've already taken the antidote
+
+55
+00:04:59,309 --> 00:05:03,309
+which I'm sure could be very useful to you.
+
+56
+00:05:04,322 --> 00:05:06,310
+Oops.
+
+57
+00:05:09,325 --> 00:05:12,307
+Oh, that would mean the toxin is being dispersed
+
+58
+00:05:12,331 --> 00:05:16,322
+throughout Gotham as we speak.
+
+59
+00:05:19,342 --> 00:05:21,342
+Robin, filter on.
+
+60
+00:05:23,342 --> 00:05:26,318
+And now that you're safe from the toxin
+
+61
+00:05:26,342 --> 00:05:29,349
+perhaps we'll watch Gotham go down together.
+
+62
+00:05:30,352 --> 00:05:33,346
+Let the games begin.
+
+63
+00:05:50,354 --> 00:05:51,369
+Get them!
+
+64
+00:06:03,375 --> 00:06:04,387
+This isn't over, Strange.
+
+65
+00:06:05,366 --> 00:06:09,383
+You're right, Batman. It's just beginning.
+
+66
+00:06:18,382 --> 00:06:20,385
+'Collecting air sample.'
+
+67
+00:06:30,399 --> 00:06:32,391
+How did Strange pull it off?
+
+68
+00:06:32,415 --> 00:06:34,381
+With clinical precision.
+
+69
+00:06:34,405 --> 00:06:36,384
+- I wanna know why. - 'Sir?'
+
+70
+00:06:36,408 --> 00:06:38,383
+Hugo Strange has released a toxic agent
+
+71
+00:06:38,407 --> 00:06:40,393
+into the city's air. Stay in the cave.
+
+72
+00:06:40,417 --> 00:06:43,383
+The filter system should keep you safe.
+
+73
+00:06:43,407 --> 00:06:45,427
+And notify Barbara. We'll need back-up.
+
+74
+00:06:46,406 --> 00:06:47,410
+'Straight away, sir.'
+
+75
+00:06:49,411 --> 00:06:51,412
+'Analysis complete.'
+
+76
+00:06:52,422 --> 00:06:54,437
+The chemical analysis shows nothing weird.
+
+77
+00:06:55,416 --> 00:06:56,405
+The air is safe to breathe.
+
+78
+00:06:56,429 --> 00:06:58,402
+The toxin must have dispersed quickly
+
+79
+00:06:58,426 --> 00:07:01,436
+after doing its damage. But the drones are carriers.
+
+80
+00:07:13,439 --> 00:07:14,444
+Commissioner?
+
+81
+00:07:21,442 --> 00:07:22,450
+No!
+
+82
+00:07:38,478 --> 00:07:39,481
+Orders.
+
+83
+00:07:40,460 --> 00:07:41,446
+Arkham.
+
+84
+00:07:41,470 --> 00:07:42,481
+Batman.
+
+85
+00:07:53,475 --> 00:07:55,462
+Batgirl, I'll totally deny I said this
+
+86
+00:07:55,486 --> 00:07:57,495
+'but having you here doesn't completely..'
+
+87
+00:07:59,479 --> 00:08:00,489
+stink?
+
+88
+00:08:01,495 --> 00:08:03,483
+Aah!
+
+89
+00:08:09,508 --> 00:08:11,499
+Aa-aa-aa!
+
+90
+00:09:00,549 --> 00:09:04,546
+I know. We'll get them back, Dick. I promise.
+
+91
+00:09:15,569 --> 00:09:16,545
+'Hair?'
+
+92
+00:09:16,569 --> 00:09:18,538
+Whatever toxin Strange used
+
+93
+00:09:18,562 --> 00:09:19,556
+if it's in the victims tissues
+
+94
+00:09:19,580 --> 00:09:21,558
+'we can identify it from this.'
+
+95
+00:09:21,582 --> 00:09:23,571
+You help Alfred research.
+
+96
+00:09:26,570 --> 00:09:27,584
+'Alfred?'
+
+97
+00:09:30,578 --> 00:09:31,588
+Sick.
+
+98
+00:09:49,612 --> 00:09:51,609
+Rest easy, old friend.
+
+99
+00:09:53,609 --> 00:09:55,589
+How'd he get infected down here?
+
+100
+00:09:55,613 --> 00:09:58,617
+I don't know. But I intend to find out.
+
+101
+00:10:09,622 --> 00:10:10,604
+Combat log.
+
+102
+00:10:10,628 --> 00:10:11,909
+I've checked against every known
+
+103
+00:10:12,613 --> 00:10:14,602
+infectious agent and toxic compound.
+
+104
+00:10:14,626 --> 00:10:17,632
+No match. There has to be a variable we're not seeing.
+
+105
+00:10:20,630 --> 00:10:22,602
+No!
+
+106
+00:10:22,626 --> 00:10:27,606
+You, help... Stop it! Stop it!
+
+107
+00:10:27,630 --> 00:10:28,623
+Dick, I need you to focus.
+
+108
+00:10:28,647 --> 00:10:31,615
+It's not fair. We're all alone.
+
+109
+00:10:31,639 --> 00:10:34,618
+Alfred, Batgirl, the whole city's infected
+
+110
+00:10:34,642 --> 00:10:36,643
+and we don't even know why.
+
+111
+00:10:38,641 --> 00:10:40,649
+But there's one man who does.
+
+112
+00:10:53,664 --> 00:10:56,679
+Tell me, Batman, what do you see?
+
+113
+00:11:02,684 --> 00:11:05,654
+That you're still crazy about me, Strange.
+
+114
+00:11:05,678 --> 00:11:07,680
+Now, how do I save everyone?
+
+115
+00:11:09,669 --> 00:11:12,659
+And rob myself of the chance to peer behind the mask
+
+116
+00:11:12,683 --> 00:11:16,672
+at the moment of the Batman's greatest defeat?
+
+117
+00:11:16,696 --> 00:11:18,666
+You wanna see behind the mask?
+
+118
+00:11:18,690 --> 00:11:21,668
+Give me the antidote, and I'll remove it.
+
+119
+00:11:21,692 --> 00:11:24,688
+Of course. You first.
+
+120
+00:11:27,710 --> 00:11:33,677
+The truth is, you saw me spill my last sample.
+
+121
+00:11:33,701 --> 00:11:35,686
+Sample? Then there's more antidote.
+
+122
+00:11:35,710 --> 00:11:37,676
+Where is it, Strange?
+
+123
+00:11:37,700 --> 00:11:39,695
+It's true, I wanted a small quantity of it
+
+124
+00:11:39,719 --> 00:11:42,685
+stashed away for my experiments.
+
+125
+00:11:42,709 --> 00:11:45,727
+Sadly, last week an orderly found it.
+
+126
+00:11:46,706 --> 00:11:49,707
+I believe it is in police custody now.
+
+127
+00:11:49,731 --> 00:11:52,691
+Feel free to borrow it.
+
+128
+00:11:52,715 --> 00:11:55,713
+Of course, with all those zombies running round
+
+129
+00:11:55,737 --> 00:11:58,703
+I don't think I'd feel comfortable
+
+130
+00:11:58,727 --> 00:12:02,726
+going into that neighborhood alone.
+
+131
+00:12:05,740 --> 00:12:09,707
+- Robin. - We are finished here, Batman.
+
+132
+00:12:09,731 --> 00:12:12,749
+Guards, there is a bat in my belfry.
+
+133
+00:12:36,778 --> 00:12:39,739
+Combat log. Second night.
+
+134
+00:12:39,763 --> 00:12:41,753
+Robin's gone. I'm alone.
+
+135
+00:12:41,777 --> 00:12:43,762
+'And I have less than a day to distribute'
+
+136
+00:12:43,786 --> 00:12:46,778
+'Strange's antidote to the entire city.'
+
+137
+00:12:51,785 --> 00:12:54,755
+I'm being tracked by the Batwave transponder.
+
+138
+00:12:54,779 --> 00:12:55,765
+Not for long.
+
+139
+00:12:55,789 --> 00:12:57,771
+Priority one, Batwave override.
+
+140
+00:12:57,795 --> 00:12:59,784
+Power down.
+
+141
+00:13:00,803 --> 00:13:02,764
+Batman.
+
+142
+00:13:02,788 --> 00:13:04,793
+Stop you.
+
+143
+00:13:06,795 --> 00:13:08,798
+Poison you.
+
+144
+00:13:33,813 --> 00:13:35,803
+Stop you.
+
+145
+00:13:35,827 --> 00:13:37,831
+Poison you.
+
+146
+00:13:42,830 --> 00:13:44,815
+'Destroy.'
+
+147
+00:13:44,839 --> 00:13:46,816
+Priority one, Batwave override.
+
+148
+00:13:46,840 --> 00:13:48,831
+Autopilot, engage.
+
+149
+00:13:54,843 --> 00:13:55,854
+Argh!
+
+150
+00:14:22,874 --> 00:14:25,853
+Batgirl, Robin not sure you can understand me
+
+151
+00:14:25,877 --> 00:14:27,871
+but this will help you.
+
+152
+00:14:37,877 --> 00:14:39,158
+<i>Alfred's cure will have to wait.</i>
+
+153
+00:14:39,880 --> 00:14:40,877
+<i>With Batgirl and Robin infected</i>
+
+154
+00:14:40,901 --> 00:14:43,893
+<i>returning to the mansion and the cave is too risky.</i>
+
+155
+00:14:45,892 --> 00:14:48,891
+<i>Fortunately, I have other resources.</i>
+
+156
+00:14:50,893 --> 00:14:52,899
+<i>A home away from home.</i>
+
+157
+00:14:57,918 --> 00:14:59,922
+Built in case Bruce Wayne and the Batman
+
+158
+00:15:00,901 --> 00:15:02,903
+ever needed to go off the grid.
+
+159
+00:15:17,919 --> 00:15:19,919
+<i>Only 17 hours left.</i>
+
+160
+00:15:21,921 --> 00:15:23,916
+<i>Strange's antidote is concentrated.</i>
+
+161
+00:15:23,940 --> 00:15:25,919
+<i>To get it to work over a large area</i>
+
+162
+00:15:25,943 --> 00:15:27,947
+<i>the antidote must be vaporized.</i>
+
+163
+00:15:31,945 --> 00:15:32,955
+<i>Thermo charges.</i>
+
+164
+00:15:36,941 --> 00:15:39,947
+<i>A lot of 'em, wired to pick up the Batwave signal.</i>
+
+165
+00:15:40,955 --> 00:15:42,950
+<i>Everything is ready.</i>
+
+166
+00:16:37,011 --> 00:16:39,990
+"Bruce Wayne, Gotham's White Knight."
+
+167
+00:16:40,014 --> 00:16:42,001
+We'll see.
+
+168
+00:16:44,015 --> 00:16:45,999
+All that's left is to transmit the signal.
+
+169
+00:16:46,023 --> 00:16:49,011
+For that, I'll need to get to higher ground.
+
+170
+00:16:57,029 --> 00:17:00,041
+I have one chance to save this city.
+
+171
+00:17:01,020 --> 00:17:02,029
+No!
+
+172
+00:17:32,068 --> 00:17:33,075
+Clank.
+
+173
+00:17:40,077 --> 00:17:43,078
+Grab. Hold.
+
+174
+00:17:47,079 --> 00:17:51,093
+- Hurt you. - Mess ahead.
+
+175
+00:17:58,079 --> 00:18:00,078
+Mess ahead!
+
+176
+00:18:00,102 --> 00:18:02,102
+Whoosh.
+
+177
+00:18:36,121 --> 00:18:38,099
+Mess ahead.
+
+178
+00:18:38,123 --> 00:18:39,114
+<i>Strange may be a madman</i>
+
+179
+00:18:39,138 --> 00:18:42,110
+<i>but he's also a brilliant psychiatrist.</i>
+
+180
+00:18:42,134 --> 00:18:44,130
+He'll mess with your head.
+
+181
+00:18:47,147 --> 00:18:51,109
+<i>Robin and I were hit with Strange's antidote.</i>
+
+182
+00:18:51,133 --> 00:18:53,122
+<i>Moments later we were attacked.</i>
+
+183
+00:18:53,146 --> 00:18:55,125
+<i>The air was safe to breathe.</i>
+
+184
+00:18:55,149 --> 00:18:58,121
+The chemical analysis shows nothing weird.
+
+185
+00:18:58,145 --> 00:19:01,122
+<i>There was no trace of toxin in Gordon's hair.</i>
+
+186
+00:19:01,146 --> 00:19:03,138
+<i>Strange virtually sent me to the police station</i>
+
+187
+00:19:03,162 --> 00:19:06,142
+<i>as if he wanted me to get the antidote.</i>
+
+188
+00:19:06,166 --> 00:19:08,153
+<i>But why?</i>
+
+189
+00:19:10,172 --> 00:19:12,131
+What if..
+
+190
+00:19:12,155 --> 00:19:14,152
+What if this isn't the antidote?
+
+191
+00:19:14,176 --> 00:19:16,166
+What if this is the toxin?
+
+192
+00:19:19,176 --> 00:19:23,162
+Boom Arkham. Batman.
+
+193
+00:19:48,191 --> 00:19:52,191
+If this is a mistake, it's my last.
+
+194
+00:20:01,216 --> 00:20:05,225
+No more. Mess ahead.
+
+195
+00:20:19,235 --> 00:20:22,234
+- You okay? - That depends.
+
+196
+00:20:24,246 --> 00:20:27,228
+Were you a zombie ten seconds ago?
+
+197
+00:20:28,245 --> 00:20:30,214
+You were under Strange's influence
+
+198
+00:20:30,238 --> 00:20:32,227
+the moment he spilled that vial and infected us.
+
+199
+00:20:32,251 --> 00:20:35,233
+'That's why he was moved upstairs to maximum security.'
+
+200
+00:20:35,257 --> 00:20:37,228
+Then there were no traces of the toxin
+
+201
+00:20:37,252 --> 00:20:39,221
+in anything we tested.
+
+202
+00:20:39,245 --> 00:20:42,231
+'Because there was no toxin there.'
+
+203
+00:20:42,255 --> 00:20:44,223
+And when I captured Robin
+
+204
+00:20:44,247 --> 00:20:45,238
+doctors were able to take a sample
+
+205
+00:20:45,262 --> 00:20:47,238
+of the real toxin from his tissues
+
+206
+00:20:47,262 --> 00:20:49,230
+and quickly synthesize an antidote.
+
+207
+00:20:49,254 --> 00:20:51,230
+Two more seconds, and you would've delivered.
+
+208
+00:20:51,254 --> 00:20:54,232
+Strange's real toxin to the crowd.
+
+209
+00:20:54,256 --> 00:20:56,240
+For future reference, there are easier ways
+
+210
+00:20:56,264 --> 00:20:58,268
+to duck out of giving a speech.
+
+211
+00:21:05,270 --> 00:21:07,260
+I was this close to hurting all the people
+
+212
+00:21:07,284 --> 00:21:09,258
+I try to protect, Alfred.
+
+213
+00:21:09,282 --> 00:21:11,256
+What if I'm not as lucky next time?
+
+214
+00:21:11,280 --> 00:21:13,252
+If you'll forgive my saying so
+
+215
+00:21:13,276 --> 00:21:15,253
+luck had nothing to do with it.
+
+216
+00:21:15,277 --> 00:21:16,271
+Even under a madman's influence
+
+217
+00:21:16,295 --> 00:21:19,256
+and believing himself to be alone
+
+218
+00:21:19,280 --> 00:21:21,268
+the Batman fought his way to the truth.
+
+219
+00:21:21,292 --> 00:21:25,268
+That's who he is. It's who you are.
+
+220
+00:21:25,292 --> 00:21:30,310
+'And now Gotham's very own white knight, Mr. Bruce Wayne.
+

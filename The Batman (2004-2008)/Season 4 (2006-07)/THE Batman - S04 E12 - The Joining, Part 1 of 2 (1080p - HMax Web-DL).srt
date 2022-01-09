@@ -1,0 +1,1208 @@
+﻿1
+00:00:06,026 --> 00:00:14,034
+Clang clang clang whirr.
+
+2
+00:00:16,039 --> 00:00:18,000
+Hey, Chris, you get a haircut?
+
+3
+00:00:18,024 --> 00:00:19,011
+Yeah, I figured it's the only thing
+
+4
+00:00:19,035 --> 00:00:21,000
+he'll see from up there.
+
+5
+00:00:21,024 --> 00:00:24,028
+'Oh, yeah. The big boss is visiting today.'
+
+6
+00:00:26,034 --> 00:00:29,012
+You have a great view from your office, Mr. Fox.
+
+7
+00:00:29,036 --> 00:00:31,023
+Call me Lucius. And I agree.
+
+8
+00:00:31,047 --> 00:00:33,032
+I never get tired of watching the process.
+
+9
+00:00:33,056 --> 00:00:35,031
+Everyone working together like that
+
+10
+00:00:35,055 --> 00:00:38,031
+all those people. It's like a giant machine.
+
+11
+00:00:38,055 --> 00:00:40,030
+More like an efficient team
+
+12
+00:00:40,054 --> 00:00:42,030
+one Bruce hardly needs to worry about.
+
+13
+00:00:42,054 --> 00:00:46,031
+It's what makes the other part of his life possible.
+
+14
+00:00:46,055 --> 00:00:48,026
+You mean the other part of his life
+
+15
+00:00:48,050 --> 00:00:51,040
+in which he appears at museum dedications and fashion shows.
+
+16
+00:00:51,064 --> 00:00:54,039
+I mean, fighting crime.
+
+17
+00:00:54,063 --> 00:00:56,068
+You mean, fighting crimes of fashion.
+
+18
+00:00:57,067 --> 00:01:00,065
+Dick, he knows I'm The Batman.
+
+19
+00:01:03,083 --> 00:01:06,055
+I was a close friend of Bruce's father.
+
+20
+00:01:06,079 --> 00:01:08,055
+After the tragedy, I was happy to offer
+
+21
+00:01:08,079 --> 00:01:09,092
+what little help I could.
+
+22
+00:01:10,071 --> 00:01:11,055
+It was more than a little.
+
+23
+00:01:11,079 --> 00:01:13,062
+Lucius helped construct the Batcave.
+
+24
+00:01:13,086 --> 00:01:15,068
+And on the rare occasions he lets me
+
+25
+00:01:15,092 --> 00:01:18,057
+I get to lend a hand with some of the Bat-gadgets.
+
+26
+00:01:18,081 --> 00:01:21,074
+I do love tinkering with the Bat's Shadow Tek.
+
+27
+00:01:21,098 --> 00:01:23,077
+Oh! Well, then, yay!
+
+28
+00:01:23,101 --> 00:01:24,462
+So we're just throwing around words
+
+29
+00:01:25,086 --> 00:01:27,110
+that start with Bat now. That's fun.
+
+30
+00:01:28,089 --> 00:01:30,069
+Lucius, you clearly have the factory running
+
+31
+00:01:30,093 --> 00:01:31,078
+as smoothly as ever.
+
+32
+00:01:31,102 --> 00:01:33,083
+I don't know why I even bother with these visits.
+
+33
+00:01:33,107 --> 00:01:36,092
+Maybe you just come by to see an old friend.
+
+34
+00:01:36,116 --> 00:01:38,112
+Hm, it doesn't sound like me.
+
+35
+00:01:48,108 --> 00:01:49,096
+So who else knows?
+
+36
+00:01:49,120 --> 00:01:51,092
+Is there a list or something?
+
+37
+00:01:51,116 --> 00:01:52,106
+Is it on the Internet
+
+38
+00:01:52,130 --> 00:01:54,101
+brucewayneisbatman.org?
+
+39
+00:01:54,125 --> 00:01:56,096
+Lucius Fox is the only one
+
+40
+00:01:56,120 --> 00:01:57,321
+you didn't already know about.
+
+41
+00:01:58,119 --> 00:01:59,100
+And he'll be the last.
+
+42
+00:01:59,124 --> 00:02:00,113
+I try not to make a habit of having
+
+43
+00:02:00,137 --> 00:02:02,108
+to rely on other people
+
+44
+00:02:02,132 --> 00:02:04,144
+especially to keep my secrets.
+
+45
+00:02:14,143 --> 00:02:16,123
+What? Who are you?
+
+46
+00:02:16,147 --> 00:02:18,149
+Wait.. A-ah!
+
+47
+00:03:34,215 --> 00:03:35,201
+Can't ID 'em from here.
+
+48
+00:03:35,225 --> 00:03:37,202
+ID them? I can do that.
+
+49
+00:03:37,226 --> 00:03:40,219
+Bad guys. And pretty ordinary ones, too.
+
+50
+00:03:40,243 --> 00:03:42,201
+We can handle this.
+
+51
+00:03:42,225 --> 00:03:43,219
+Uh, didn't we just get in trouble
+
+52
+00:03:43,243 --> 00:03:45,210
+last week for freelancing?
+
+53
+00:03:45,234 --> 00:03:46,221
+The boss was very clear.
+
+54
+00:03:46,245 --> 00:03:49,211
+He said to wait while he scoped out the situation.
+
+55
+00:03:49,235 --> 00:03:50,244
+Okay.
+
+56
+00:03:51,242 --> 00:03:52,248
+We waited.
+
+57
+00:04:03,262 --> 00:04:05,246
+Hey! Uh..
+
+58
+00:04:11,265 --> 00:04:13,231
+Well, I'm already bored.
+
+59
+00:04:13,255 --> 00:04:14,248
+Any way to make this more interesting?
+
+60
+00:04:14,272 --> 00:04:15,834
+'We could take them down while reciting'
+
+61
+00:04:16,256 --> 00:04:18,271
+the alphabet backwards. Aahh!
+
+62
+00:04:21,283 --> 00:04:23,286
+Gotcha, birdbrains.
+
+63
+00:04:24,265 --> 00:04:25,268
+Whoosh
+
+64
+00:04:41,285 --> 00:04:42,299
+thud.
+
+65
+00:04:47,293 --> 00:04:49,275
+Guess they weren't so ordinary after all.
+
+66
+00:04:49,299 --> 00:04:52,273
+Maybe they were those superstrong zombie thugs.
+
+67
+00:04:52,297 --> 00:04:55,283
+We would have had them if you'd waited!
+
+68
+00:04:55,307 --> 00:04:58,283
+Look, I know being a costumed crime fighter means
+
+69
+00:04:58,307 --> 00:05:00,286
+never having to say I'm sorry.
+
+70
+00:05:00,310 --> 00:05:02,301
+But, yeah, we're sorry.
+
+71
+00:05:02,325 --> 00:05:04,288
+No, it's my fault.
+
+72
+00:05:04,312 --> 00:05:07,286
+Maybe I've been relying on you two more than I should.
+
+73
+00:05:07,310 --> 00:05:09,324
+This never happened when I worked alone.
+
+74
+00:05:24,330 --> 00:05:26,349
+Detective John Jones. I'm new to the force.
+
+75
+00:05:27,328 --> 00:05:28,308
+I've heard about you and your mission
+
+76
+00:05:28,332 --> 00:05:30,349
+to protect Gotham. Admirable.
+
+77
+00:05:39,360 --> 00:05:42,354
+Did you see what these guys were stealing?
+
+78
+00:05:44,356 --> 00:05:47,351
+The shipment belonged to your company.
+
+79
+00:05:48,349 --> 00:05:49,329
+My company?
+
+80
+00:05:49,353 --> 00:05:50,332
+Wayne Industries has had
+
+81
+00:05:50,356 --> 00:05:51,341
+an unusually high volume
+
+82
+00:05:51,365 --> 00:05:52,343
+of shipments going in and out
+
+83
+00:05:52,367 --> 00:05:54,333
+of the city this week.
+
+84
+00:05:54,357 --> 00:05:56,343
+It's no surprise that someone with sticky fingers
+
+85
+00:05:56,367 --> 00:05:57,353
+finally took notice.
+
+86
+00:05:57,377 --> 00:05:59,343
+Mind if I inspect this property
+
+87
+00:05:59,367 --> 00:06:00,348
+back at my headquarters?
+
+88
+00:06:00,372 --> 00:06:01,350
+Fine by me, but you'll need
+
+89
+00:06:01,374 --> 00:06:02,356
+Bruce Wayne's permission.
+
+90
+00:06:02,380 --> 00:06:04,349
+I can secure it.
+
+91
+00:06:04,373 --> 00:06:06,368
+I'll bet you can.
+
+92
+00:06:13,390 --> 00:06:15,353
+It's a new project.
+
+93
+00:06:15,377 --> 00:06:17,368
+WayneTech research really paid off this time.
+
+94
+00:06:17,392 --> 00:06:20,369
+We've developed whole new metals, hybrids.
+
+95
+00:06:20,393 --> 00:06:23,365
+It's pretty exciting if you're into metallurgy.
+
+96
+00:06:23,389 --> 00:06:25,374
+That's the reason for the extra shipping.
+
+97
+00:06:25,398 --> 00:06:27,366
+I thought that project was still
+
+98
+00:06:27,390 --> 00:06:28,377
+at the development stage.
+
+99
+00:06:28,401 --> 00:06:30,374
+It is, but the development
+
+100
+00:06:30,398 --> 00:06:31,387
+is requiring some supplies.
+
+101
+00:06:31,411 --> 00:06:33,391
+Really, there's nothing you need to worry about.
+
+102
+00:06:33,415 --> 00:06:36,395
+'You should have those crates sent back here unopened.'
+
+103
+00:06:36,419 --> 00:06:38,395
+Send them back unopened?
+
+104
+00:06:38,419 --> 00:06:41,403
+I see. Well, thank you.
+
+105
+00:06:42,423 --> 00:06:44,418
+Keep working.
+
+106
+00:07:05,433 --> 00:07:08,406
+Commissioner Gordon vouched for Detective Jones.
+
+107
+00:07:08,430 --> 00:07:09,911
+And his records from Denver check out.
+
+108
+00:07:11,433 --> 00:07:14,426
+Clang 'Wow!'
+
+109
+00:07:14,450 --> 00:07:16,430
+But there's nothing before Denver
+
+110
+00:07:16,454 --> 00:07:18,424
+like he didn't exist.
+
+111
+00:07:18,448 --> 00:07:21,445
+Hey! Uh, a-a-ah..
+
+112
+00:07:22,452 --> 00:07:24,467
+Okay, it is so my turn.
+
+113
+00:07:25,446 --> 00:07:26,435
+This is so cool!
+
+114
+00:07:26,459 --> 00:07:29,448
+I didn't know Wayne Industries made anything like this.
+
+115
+00:07:29,472 --> 00:07:32,439
+We don't, and if Detective Jones is right
+
+116
+00:07:32,463 --> 00:07:34,436
+my company's been shipping things like this
+
+117
+00:07:34,460 --> 00:07:35,443
+all over the world.
+
+118
+00:07:35,467 --> 00:07:37,456
+Clearly, this is part of some alien conspiracy
+
+119
+00:07:37,480 --> 00:07:39,454
+to mass-produce these babies
+
+120
+00:07:39,478 --> 00:07:40,457
+ship 'em all over the world
+
+121
+00:07:40,481 --> 00:07:42,441
+where they await their signal
+
+122
+00:07:42,465 --> 00:07:45,486
+to take over the human ra-a-ace!
+
+123
+00:07:46,477 --> 00:07:48,475
+Whoa! Unh!
+
+124
+00:07:50,476 --> 00:07:51,493
+Crash.
+
+125
+00:07:53,491 --> 00:07:56,463
+New project, huh?
+
+126
+00:07:56,487 --> 00:07:58,462
+What's it for?
+
+127
+00:07:58,486 --> 00:07:59,477
+We'll keep an eye on Lucius
+
+128
+00:07:59,501 --> 00:08:02,470
+but I wanna find out if Jones knows more than he's letting on
+
+129
+00:08:02,494 --> 00:08:04,483
+about whatever's going on at Wayne Industries.
+
+130
+00:08:04,507 --> 00:08:06,509
+Then let's pay the detective a visit.
+
+131
+00:08:07,488 --> 00:08:08,483
+I'll pay him a visit..
+
+132
+00:08:08,507 --> 00:08:10,503
+Alone.
+
+133
+00:09:17,559 --> 00:09:19,552
+- Uh, Batman... - Don't bother.
+
+134
+00:09:19,576 --> 00:09:22,562
+I know you're not human.
+
+135
+00:09:36,581 --> 00:09:39,560
+- I suppose this changes things. - Not really.
+
+136
+00:09:39,584 --> 00:09:42,575
+Click You're coming with me.
+
+137
+00:09:42,599 --> 00:09:45,603
+I have some questions for you detective.
+
+138
+00:09:50,602 --> 00:09:51,611
+Bam.
+
+139
+00:09:55,617 --> 00:09:56,592
+Humans.
+
+140
+00:09:56,616 --> 00:09:57,595
+You act like you've never seen
+
+141
+00:09:57,619 --> 00:09:59,613
+a shape-shifter before.
+
+142
+00:10:04,608 --> 00:10:05,625
+Tell that to Clayface.
+
+143
+00:10:15,616 --> 00:10:16,628
+Crash.
+
+144
+00:10:45,652 --> 00:10:47,634
+He flies, too.
+
+145
+00:10:47,658 --> 00:10:48,666
+Great.
+
+146
+00:10:52,654 --> 00:10:53,633
+Huh?
+
+147
+00:10:53,657 --> 00:10:55,664
+Let's see if you can keep up.
+
+148
+00:11:55,725 --> 00:11:56,734
+Bang.
+
+149
+00:12:04,725 --> 00:12:06,718
+I can dance all night. Ugh!
+
+150
+00:12:06,742 --> 00:12:09,715
+- 'So can I.' - So it would seem.
+
+151
+00:12:09,739 --> 00:12:11,722
+But why waste time? Who are you?
+
+152
+00:12:11,746 --> 00:12:14,718
+My name is John Jones, I'm a detective
+
+153
+00:12:14,742 --> 00:12:15,758
+just like you..
+
+154
+00:12:16,737 --> 00:12:17,740
+Bruce.
+
+155
+00:12:18,739 --> 00:12:20,753
+I'm one of the good guys.
+
+156
+00:12:25,758 --> 00:12:26,762
+Thanks.
+
+157
+00:12:28,757 --> 00:12:30,737
+So. Alien.
+
+158
+00:12:30,761 --> 00:12:32,760
+All my life.
+
+159
+00:12:34,756 --> 00:12:36,749
+Telekinesis. Neat party trick.
+
+160
+00:12:36,773 --> 00:12:38,738
+How heavy can the object be?
+
+161
+00:12:38,762 --> 00:12:40,738
+I could lift you and your best friend
+
+162
+00:12:40,762 --> 00:12:42,773
+that is, if you have one.
+
+163
+00:12:49,787 --> 00:12:51,766
+You miss being back home on Mars?
+
+164
+00:12:51,790 --> 00:12:53,760
+I never said I was a Martian.
+
+165
+00:12:53,784 --> 00:12:56,758
+Never had to. Martians hate fire.
+
+166
+00:12:56,782 --> 00:12:58,766
+How do you know anything about Martians?
+
+167
+00:12:58,790 --> 00:13:00,767
+I've dedicated my life to studying all fields
+
+168
+00:13:00,791 --> 00:13:02,771
+of knowledge, no matter how obscure
+
+169
+00:13:02,795 --> 00:13:05,037
+including thousands of years of recorded human encounters
+
+170
+00:13:05,785 --> 00:13:06,781
+with extraterrestrials, the Mayans
+
+171
+00:13:06,805 --> 00:13:08,782
+ancient Egyptians, crop circles.
+
+172
+00:13:08,806 --> 00:13:10,813
+I could teach a college course on Martians
+
+173
+00:13:11,792 --> 00:13:13,834
+except I always filed them away under urban legends.
+
+174
+00:13:14,795 --> 00:13:15,794
+Like alligators in the sewers.
+
+175
+00:13:15,818 --> 00:13:18,787
+I've fought them, too. Why'd you run?
+
+176
+00:13:18,811 --> 00:13:20,779
+You might have exposed me
+
+177
+00:13:20,803 --> 00:13:21,796
+turned me over to the authorities.
+
+178
+00:13:21,820 --> 00:13:23,791
+I can't allow that, not now.
+
+179
+00:13:23,815 --> 00:13:25,804
+Guess we both guard our secrets fiercely.
+
+180
+00:13:25,828 --> 00:13:28,819
+- Coffee? - We're fine, thanks.
+
+181
+00:13:29,828 --> 00:13:32,801
+So how'd you figure out Batman was Bruce Wayne?
+
+182
+00:13:32,825 --> 00:13:34,803
+- Read your mind. - Hm.
+
+183
+00:13:34,827 --> 00:13:37,796
+- Something wrong? - No, it's just..
+
+184
+00:13:37,820 --> 00:13:39,842
+That's cheating. Read my mind now.
+
+185
+00:13:40,821 --> 00:13:42,824
+- What? - You heard me.
+
+186
+00:13:45,827 --> 00:13:47,818
+You're thinking of a dog you owned as a boy.
+
+187
+00:13:47,842 --> 00:13:50,819
+- Location of the Batcave. - I distinctly saw...
+
+188
+00:13:50,843 --> 00:13:53,819
+A mental image I conjured up to block my real thoughts.
+
+189
+00:13:53,843 --> 00:13:55,831
+Trick I picked up from some Tibetan monks.
+
+190
+00:13:55,855 --> 00:13:58,825
+Anyone ever tell you you're a little paranoid?
+
+191
+00:13:58,849 --> 00:13:59,838
+My partners, all the time.
+
+192
+00:13:59,862 --> 00:14:02,826
+I'm stunned. You have partners?
+
+193
+00:14:02,850 --> 00:14:04,828
+I do, though sometimes I wonder
+
+194
+00:14:04,852 --> 00:14:06,838
+if things might be easier without them.
+
+195
+00:14:06,862 --> 00:14:10,838
+You may need all the help you can get with what's coming.
+
+196
+00:14:10,862 --> 00:14:13,837
+'And I've done my homework, Bruce, it is coming.'
+
+197
+00:14:13,861 --> 00:14:15,845
+- Make no mistake. - What is?
+
+198
+00:14:15,869 --> 00:14:19,848
+Something big, maybe too big for The Batman to handle alone.
+
+199
+00:14:19,872 --> 00:14:21,843
+Why don't you just tell me what you know and let me
+
+200
+00:14:21,867 --> 00:14:23,843
+decide what The Batman can handle alone?
+
+201
+00:14:23,867 --> 00:14:24,862
+I'm not the only thing from outer space
+
+202
+00:14:24,886 --> 00:14:26,865
+that's come to Gotham, but right now
+
+203
+00:14:26,889 --> 00:14:28,865
+I'm the only thing that can stop it.
+
+204
+00:14:28,889 --> 00:14:32,851
+- Stop what? - Invasion.
+
+205
+00:14:32,875 --> 00:14:33,890
+Alien invasion..
+
+206
+00:14:36,879 --> 00:14:38,886
+The end of your world.
+
+207
+00:14:40,898 --> 00:14:42,901
+Can I get you anything else?
+
+208
+00:14:48,902 --> 00:14:49,910
+Hm..
+
+209
+00:15:00,910 --> 00:15:02,899
+'They're called The Joining'
+
+210
+00:15:02,923 --> 00:15:04,890
+a synthetic alien race
+
+211
+00:15:04,914 --> 00:15:06,899
+that's ravaged over half the galaxy
+
+212
+00:15:06,923 --> 00:15:08,900
+like some plague of locusts
+
+213
+00:15:08,924 --> 00:15:10,908
+devouring and incorporating the technologies
+
+214
+00:15:10,932 --> 00:15:12,910
+of every world they encounter.
+
+215
+00:15:12,934 --> 00:15:14,911
+And they leave nothing in their wake
+
+216
+00:15:14,935 --> 00:15:17,898
+but empty husks of planets.
+
+217
+00:15:17,922 --> 00:15:20,908
+Synthetic race. The Joining are robots.
+
+218
+00:15:20,932 --> 00:15:23,901
+Mm-hmm, built by a long-forgotten race
+
+219
+00:15:23,925 --> 00:15:25,903
+who became their first victims.
+
+220
+00:15:25,927 --> 00:15:26,924
+'And they feed off technology?'
+
+221
+00:15:26,948 --> 00:15:28,950
+Anything industrial, mechanical
+
+222
+00:15:29,929 --> 00:15:30,920
+they simply take it and use it.
+
+223
+00:15:30,944 --> 00:15:34,914
+It becomes a part of them, it's how they evolve.
+
+224
+00:15:34,938 --> 00:15:36,930
+That's why they were targeting Wayne Industries.
+
+225
+00:15:36,954 --> 00:15:38,920
+You're responsible for developing
+
+226
+00:15:38,944 --> 00:15:41,964
+some of the most advanced technologies on this world.
+
+227
+00:15:42,943 --> 00:15:44,952
+By the way, nice car.
+
+228
+00:15:55,963 --> 00:15:57,968
+Rang it with my mind.
+
+229
+00:15:59,966 --> 00:16:01,960
+Batman? What.. Is something wrong?
+
+230
+00:16:01,984 --> 00:16:04,986
+I need to ask you some questions about those shipments.
+
+231
+00:16:05,965 --> 00:16:07,952
+- Who's this? - This is Detective Jones.
+
+232
+00:16:07,976 --> 00:16:08,987
+- He's here to.. - Hah!
+
+233
+00:16:19,988 --> 00:16:20,975
+'I knew it was a replicant'
+
+234
+00:16:20,999 --> 00:16:22,969
+'because I didn't get a reading off him.'
+
+235
+00:16:22,993 --> 00:16:25,972
+- 'No emotions.' - 'So you kicked his head off.'
+
+236
+00:16:25,996 --> 00:16:26,981
+Yes.
+
+237
+00:16:27,005 --> 00:16:29,978
+Perhaps I should have mentioned I was going to do that.
+
+238
+00:16:30,002 --> 00:16:30,981
+Perhaps.
+
+239
+00:16:31,005 --> 00:16:32,974
+This is part of the standard MO
+
+240
+00:16:32,998 --> 00:16:33,978
+of The Joining.
+
+241
+00:16:34,002 --> 00:16:35,978
+Seems pretty complicated.
+
+242
+00:16:36,002 --> 00:16:38,993
+Not for them, they're a linked system, a network
+
+243
+00:16:39,017 --> 00:16:40,999
+parts of one big machine, really
+
+244
+00:16:41,023 --> 00:16:44,002
+like one huge robot as big as a city.
+
+245
+00:16:44,026 --> 00:16:48,006
+You know, Batman, most humans would be pretty thrown by this.
+
+246
+00:16:48,030 --> 00:16:50,030
+I'm not most humans.
+
+247
+00:16:53,032 --> 00:16:55,995
+If there's any chance that Lucius is still alive
+
+248
+00:16:56,019 --> 00:16:57,004
+we have to find him.
+
+249
+00:16:57,028 --> 00:17:00,026
+Then let's ask someone who knows.
+
+250
+00:17:04,046 --> 00:17:06,035
+Great danger.
+
+251
+00:17:08,042 --> 00:17:11,029
+- I can't believe this. - Really? Because robotheads..
+
+252
+00:17:11,053 --> 00:17:14,013
+Well, that's totally what I'm expecting on a Wednesday.
+
+253
+00:17:14,037 --> 00:17:17,032
+And this guy, just some guy waltzing into the Batcave
+
+254
+00:17:17,056 --> 00:17:19,037
+didn't have a blindfold on or anything!
+
+255
+00:17:19,061 --> 00:17:23,026
+Robin, I think we should be focused on the robothead.
+
+256
+00:17:23,050 --> 00:17:25,067
+Lucius is still alive. You're certain?
+
+257
+00:17:28,052 --> 00:17:31,034
+If you're trying to nod, you need a neck.
+
+258
+00:17:31,058 --> 00:17:32,036
+He's alive.
+
+259
+00:17:32,060 --> 00:17:33,049
+The real Lucius is being held
+
+260
+00:17:33,073 --> 00:17:35,046
+at the Wayne Industries factory.
+
+261
+00:17:35,070 --> 00:17:37,049
+'We are using him for information'
+
+262
+00:17:37,073 --> 00:17:40,078
+'but soon, he will no longer be helpful.'
+
+263
+00:17:57,088 --> 00:17:59,060
+- Ready? - Find Lucius.
+
+264
+00:17:59,084 --> 00:18:01,077
+Stop alien invasion, save world.
+
+265
+00:18:01,101 --> 00:18:03,087
+Sounds easy enough.
+
+266
+00:18:09,101 --> 00:18:10,108
+'Lucius!'
+
+267
+00:18:11,104 --> 00:18:12,106
+Follow me!
+
+268
+00:18:14,113 --> 00:18:17,098
+How about first one to Lucius wins?
+
+269
+00:18:21,119 --> 00:18:24,084
+Fine time for him to leave us out of things.
+
+270
+00:18:24,108 --> 00:18:28,089
+Robots. This is like the biggest case we've ever faced!
+
+271
+00:18:28,113 --> 00:18:29,103
+Good robots, too!
+
+272
+00:18:29,127 --> 00:18:31,103
+That thing looks just like a real person!
+
+273
+00:18:31,127 --> 00:18:34,096
+I know! Anyone we know could be a robot.
+
+274
+00:18:34,120 --> 00:18:37,095
+Oh, it wouldn't fool us if we knew the person.
+
+275
+00:18:37,119 --> 00:18:39,099
+- Would it? - Maybe not.
+
+276
+00:18:39,123 --> 00:18:41,107
+They'd probably be a little roboty
+
+277
+00:18:41,131 --> 00:18:45,146
+detached, unemotional mechanical.
+
+278
+00:18:49,146 --> 00:18:52,114
+- Kick his head off. - You kick his head off.
+
+279
+00:18:52,138 --> 00:18:54,123
+Attempt to do any such thing, and I assure you
+
+280
+00:18:54,147 --> 00:18:56,126
+there will be no hot, buttered raisin scones
+
+281
+00:18:56,150 --> 00:18:58,130
+for either of you for a year.
+
+282
+00:18:58,154 --> 00:19:01,129
+Only Alfred sounds that much like Alfred.
+
+283
+00:19:01,153 --> 00:19:02,154
+Yup.
+
+284
+00:19:27,176 --> 00:19:28,181
+It knows we're here.
+
+285
+00:19:42,195 --> 00:19:46,197
+Ping ping ping tzing tzing tzing
+
+286
+00:19:53,197 --> 00:20:01,205
+thud.
+
+287
+00:20:20,225 --> 00:20:22,231
+Let's call it a tie.
+
+288
+00:20:32,240 --> 00:20:34,221
+Lucius?
+
+289
+00:20:34,245 --> 00:20:36,221
+I knew you'd come.
+
+290
+00:20:36,245 --> 00:20:38,230
+- What.. - He's with me, Lucius.
+
+291
+00:20:38,254 --> 00:20:39,455
+We're getting you out of here.
+
+292
+00:20:40,240 --> 00:20:42,226
+No, forget me. I'm not important.
+
+293
+00:20:42,250 --> 00:20:44,253
+You don't have much time to..
+
+294
+00:20:56,259 --> 00:20:57,268
+We're too late.
+
+295
+00:21:06,279 --> 00:21:08,265
+Told you I could float you and your best friend.
+
+296
+00:21:08,289 --> 00:21:10,262
+Faster, we don't know how much longer
+
+297
+00:21:10,286 --> 00:21:12,293
+these things are just gonna sit here.
+
+298
+00:21:14,290 --> 00:21:15,291
+Bang.
+
+299
+00:21:17,280 --> 00:21:18,287
+It's begun.
+
+300
+00:21:42,308 --> 00:21:45,291
+- Where are they going? - Anywhere.
+
+301
+00:21:45,315 --> 00:21:47,328
+Everywhere that's vulnerable..
+
+302
+00:21:48,307 --> 00:21:49,330
+Everywhere on earth.
+

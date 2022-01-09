@@ -1,0 +1,796 @@
+﻿1
+00:00:01,034 --> 00:00:03,068
+(THEME MUSIC PLAYING)
+
+2
+00:00:22,589 --> 00:00:24,122
+(EXPLOSION)
+
+3
+00:00:24,157 --> 00:00:26,058
+(LASERS FIRING)
+
+4
+00:00:26,093 --> 00:00:28,226
+<i>Free will is a disease.</i>
+
+5
+00:00:28,261 --> 00:00:31,263
+<i>New social behavior is the only true hierarchy.</i>
+
+6
+00:00:31,298 --> 00:00:35,467
+<i>Submit to cooperation. Submit to the H.I.V.E.</i>
+
+7
+00:00:36,770 --> 00:00:37,803
+(GRUNTING)
+
+8
+00:00:37,838 --> 00:00:39,038
+Do you remember when we fought
+
+9
+00:00:39,062 --> 00:00:40,362
+villains who weren't weird?
+
+10
+00:00:42,075 --> 00:00:43,776
+(MEN GROANING)
+
+11
+00:00:44,377 --> 00:00:45,444
+No.
+
+12
+00:00:47,914 --> 00:00:49,214
+Give it up, H.I.V.E. Master.
+
+13
+00:00:49,249 --> 00:00:50,849
+We're shutting this operation down.
+
+14
+00:00:50,884 --> 00:00:54,319
+<i>Haven't you ever seen a colony defend itself, Wonder Whelp?</i>
+
+15
+00:00:55,088 --> 00:00:56,688
+(BEEPING)
+
+16
+00:01:05,832 --> 00:01:07,933
+Booster, the device!
+
+17
+00:01:07,968 --> 00:01:11,503
+No worries, Bats. Booster Gold is on the job.
+
+18
+00:01:11,538 --> 00:01:12,638
+Huh?
+
+19
+00:01:13,940 --> 00:01:15,574
+No!
+
+20
+00:01:15,609 --> 00:01:16,675
+(GROANING)
+
+21
+00:01:20,013 --> 00:01:21,213
+(BEEPS)
+
+22
+00:01:29,022 --> 00:01:30,288
+(ALL SCREAMING)
+
+23
+00:01:30,323 --> 00:01:31,790
+Not so fast, boys.
+
+24
+00:01:33,827 --> 00:01:36,261
+(SIGHS) Whoo! Ah.
+
+25
+00:01:36,296 --> 00:01:37,629
+- What was that? - What?
+
+26
+00:01:37,664 --> 00:01:39,531
+So now it's my fault I got barbecued?
+
+27
+00:01:39,566 --> 00:01:42,834
+It's never your fault. It wasn't with Grodd or Luthor.
+
+28
+00:01:42,869 --> 00:01:45,704
+Or when you got Guy Gardner stuck in the space elevator.
+
+29
+00:01:45,739 --> 00:01:48,874
+(CHUCKLING) Okay. In my defense, that was sort of funny.
+
+30
+00:01:48,909 --> 00:01:50,208
+This isn't a game.
+
+31
+00:01:50,243 --> 00:01:51,877
+People could have gotten hurt.
+
+32
+00:01:51,912 --> 00:01:54,379
+Fine, I messed up. No big deal, right?
+
+33
+00:01:54,414 --> 00:01:56,615
+Not once. Repeatedly.
+
+34
+00:01:56,650 --> 00:01:58,650
+It's a pattern of behavior. You're lazy.
+
+35
+00:01:58,685 --> 00:02:00,886
+You're unprofessional, unfocused.
+
+36
+00:02:02,322 --> 00:02:03,822
+(TYPING ON PHONE)
+
+37
+00:02:03,857 --> 00:02:06,425
+Sorry, what? I was posting this conversation.
+
+38
+00:02:07,160 --> 00:02:09,694
+Hashtag, "Bat time".
+
+39
+00:02:09,729 --> 00:02:12,130
+Bats, come on. I'll do better next time.
+
+40
+00:02:12,165 --> 00:02:16,268
+Booster! You're the worst crime fighter I've ever known.
+
+41
+00:02:16,303 --> 00:02:18,871
+- Ouch. Huh? - (BEEPING)
+
+42
+00:02:27,514 --> 00:02:29,915
+- What happened? - I've seen this before.
+
+43
+00:02:29,950 --> 00:02:31,149
+It's called a time fissure.
+
+44
+00:02:31,184 --> 00:02:33,218
+A disruption in the normal flow of time.
+
+45
+00:02:36,122 --> 00:02:37,622
+Why aren't we frozen?
+
+46
+00:02:37,657 --> 00:02:40,058
+I have a 10-foot temporal bubble around me at all times.
+
+47
+00:02:40,093 --> 00:02:42,227
+You must have been inside it when the causality broke.
+
+48
+00:02:42,262 --> 00:02:44,129
+(TAPPING)
+
+49
+00:02:44,164 --> 00:02:47,666
+Man, I wonder if now's a good time to get that 10-spot she owes me?
+
+50
+00:02:49,035 --> 00:02:50,569
+The fire hydrant!
+
+51
+00:02:51,304 --> 00:02:52,938
+Excuse me.
+
+52
+00:02:52,973 --> 00:02:55,607
+During the fight, I saw a fire hydrant vanish.
+
+53
+00:02:55,642 --> 00:02:59,144
+Deleted objects are often a sign of the time stream trying to repair damage.
+
+54
+00:02:59,179 --> 00:03:00,312
+Should I be worried?
+
+55
+00:03:00,347 --> 00:03:02,347
+Normally, no...
+
+56
+00:03:02,382 --> 00:03:05,262
+But this doesn't seem like a normal time fissure. The epicenter's too big.
+
+57
+00:03:05,352 --> 00:03:07,185
+Are those normal?
+
+58
+00:03:07,220 --> 00:03:10,556
+- (SCREECHING) - Run! Ahh!
+
+59
+00:03:12,726 --> 00:03:14,960
+- What are these things? - Antibodies.
+
+60
+00:03:14,995 --> 00:03:17,128
+Think of them like time's immune system.
+
+61
+00:03:17,163 --> 00:03:19,883
+They can't tell the difference between us and whatever's causing this.
+
+62
+00:03:19,907 --> 00:03:21,174
+(BOTH GRUNTING)
+
+63
+00:03:29,743 --> 00:03:31,944
+Hello! Hold up. Temporal bubble, remember? (GRUNTS)
+
+64
+00:03:33,013 --> 00:03:34,613
+(SCREECHING)
+
+65
+00:03:36,116 --> 00:03:37,682
+(GRUNTS)
+
+66
+00:03:37,717 --> 00:03:39,684
+So, we have to stay within 10 feet of each other?
+
+67
+00:03:39,719 --> 00:03:41,063
+Only if you want to help me solve this.
+
+68
+00:03:41,087 --> 00:03:42,632
+Otherwise, you'll have to rubber-band back
+
+69
+00:03:42,656 --> 00:03:44,189
+to the moment just before your fissure
+
+70
+00:03:44,224 --> 00:03:45,544
+and you won't remember being here.
+
+71
+00:03:47,861 --> 00:03:49,227
+(METAL CLANKING)
+
+72
+00:03:49,262 --> 00:03:50,462
+(SCREECHING)
+
+73
+00:03:51,464 --> 00:03:52,731
+Through here!
+
+74
+00:03:55,068 --> 00:03:56,268
+(PORTAL OPENING)
+
+75
+00:03:56,870 --> 00:03:57,936
+(GROANING)
+
+76
+00:03:58,738 --> 00:04:00,205
+Oh, ho-ho, easy.
+
+77
+00:04:00,240 --> 00:04:01,840
+Chronal nausea. It'll pass.
+
+78
+00:04:01,875 --> 00:04:04,009
+Hey, look to your right.
+
+79
+00:04:04,044 --> 00:04:05,911
+- (CLICKING) - (WHIRRING)
+
+80
+00:04:09,115 --> 00:04:10,148
+Where are we?
+
+81
+00:04:10,183 --> 00:04:12,350
+Somewhere safe, my headquarters.
+
+82
+00:04:12,385 --> 00:04:15,487
+A citadel overlooking both time and space.
+
+83
+00:04:15,522 --> 00:04:16,921
+I calls it...
+
+84
+00:04:16,956 --> 00:04:18,390
+The Booster Cave.
+
+85
+00:04:21,995 --> 00:04:23,361
+The Hall of Booster?
+
+86
+00:04:23,396 --> 00:04:25,130
+Boost Tower!
+
+87
+00:04:25,165 --> 00:04:27,032
+The Boosty-ay-hizza!
+
+88
+00:04:27,067 --> 00:04:29,334
+The Secret Boost Sanctuary.
+
+89
+00:04:30,970 --> 00:04:33,271
+All right, fine. It's called Vanishing Point.
+
+90
+00:04:33,306 --> 00:04:36,041
+- (BEEPING RHYTHMICALLY) - You built all this yourself?
+
+91
+00:04:36,076 --> 00:04:37,996
+Sure, protecting time is sort of a hobby with me.
+
+92
+00:04:38,020 --> 00:04:40,478
+I find time between missions, put in a little monitor duty,
+
+93
+00:04:40,513 --> 00:04:43,048
+fix what needs fixing, you know.
+
+94
+00:04:43,083 --> 00:04:44,949
+Ah. There's your problem.
+
+95
+00:04:44,984 --> 00:04:47,052
+BOOSTER GOLD: A Chronovore. It feeds on time energy.
+
+96
+00:04:47,087 --> 00:04:49,888
+It stores it all in a crystal located inside of its belly.
+
+97
+00:04:50,323 --> 00:04:51,389
+Whoa.
+
+98
+00:04:51,424 --> 00:04:53,358
+Never seen one this big.
+
+99
+00:04:53,393 --> 00:04:55,260
+(KEYBOARD CLACKING)
+
+100
+00:04:55,295 --> 00:04:57,362
+How long have you been doing this?
+
+101
+00:04:57,397 --> 00:04:59,698
+Whenever I'm not around.
+
+102
+00:04:59,733 --> 00:05:03,068
+I just assumed you were off playing foosball somewhere.
+
+103
+00:05:03,103 --> 00:05:05,103
+Oh, I totally do that too.
+
+104
+00:05:05,138 --> 00:05:07,306
+First to three?
+
+105
+00:05:09,976 --> 00:05:11,643
+No, you know what? Not a good time.
+
+106
+00:05:12,145 --> 00:05:13,211
+What now?
+
+107
+00:05:13,246 --> 00:05:14,813
+Simple. We find the Chronovore,
+
+108
+00:05:14,848 --> 00:05:17,916
+remove the crystal from inside, and it's all good.
+
+109
+00:05:17,951 --> 00:05:20,518
+Just one problem. We can't make contact with it.
+
+110
+00:05:20,553 --> 00:05:22,521
+Unless you want to age 100 years in a few seconds.
+
+111
+00:05:24,824 --> 00:05:26,524
+Here. This should allow you to touch it
+
+112
+00:05:26,559 --> 00:05:28,759
+without every molecule of your chronology disintegrating.
+
+113
+00:05:29,195 --> 00:05:30,662
+Thanks.
+
+114
+00:05:30,697 --> 00:05:31,997
+Ain't nothing but a thing.
+
+115
+00:05:40,306 --> 00:05:42,207
+Where are we now?
+
+116
+00:05:42,242 --> 00:05:45,176
+According to the time sphere, right before our battle with H.I.V.E.
+
+117
+00:05:45,211 --> 00:05:46,444
+Whoa!
+
+118
+00:05:46,479 --> 00:05:48,380
+- What are you doing? - Shh!
+
+119
+00:05:48,415 --> 00:05:50,982
+Bats, I'm totally bored.
+
+120
+00:05:51,017 --> 00:05:53,084
+Where are these weirdos supposed to be, anyway?
+
+121
+00:05:53,119 --> 00:05:54,152
+Close.
+
+122
+00:05:54,187 --> 00:05:55,754
+Word on the street is,
+
+123
+00:05:55,789 --> 00:05:58,029
+H.I.V.E. is recruiting out of a youth center in the area.
+
+124
+00:05:58,053 --> 00:06:00,291
+Hey, you ever tried touching your nose with your tongue?
+
+125
+00:06:00,326 --> 00:06:02,227
+(BOOSTER GOLD STRAINING)
+
+126
+00:06:02,262 --> 00:06:04,996
+Do you remember seeing our future selves in the bushes six hours ago?
+
+127
+00:06:05,031 --> 00:06:09,067
+No? Then let's not create a paradox by doing that now, okay?
+
+128
+00:06:09,102 --> 00:06:11,936
+Why didn't you tell anyone this is how you spend your time?
+
+129
+00:06:11,971 --> 00:06:14,072
+I guess I never saw the big deal.
+
+130
+00:06:14,107 --> 00:06:16,074
+It's like... Have you ever
+
+131
+00:06:16,109 --> 00:06:18,276
+had rats in your attic?
+
+132
+00:06:18,311 --> 00:06:19,511
+So you need a rat guy, right?
+
+133
+00:06:19,546 --> 00:06:22,580
+But nobody ever sets out to be the rat guy.
+
+134
+00:06:22,615 --> 00:06:25,617
+But somebody's got to do it. And I do it.
+
+135
+00:06:25,652 --> 00:06:27,619
+I'm time's rat guy.
+
+136
+00:06:28,822 --> 00:06:33,191
+For the last time, be quiet or leave!
+
+137
+00:06:33,226 --> 00:06:36,461
+Man! Bats, you don't have to come down so hard on a guy.
+
+138
+00:06:37,297 --> 00:06:39,297
+(EXPLOSION)
+
+139
+00:06:39,332 --> 00:06:40,766
+(LASERS FIRING)
+
+140
+00:06:41,267 --> 00:06:42,467
+Get down!
+
+141
+00:06:44,471 --> 00:06:45,904
+Right on time. This way!
+
+142
+00:06:49,476 --> 00:06:51,910
+(SCREECHES)
+
+143
+00:06:51,945 --> 00:06:53,711
+Ten seconds. That's how long you can be
+
+144
+00:06:53,746 --> 00:06:56,815
+outside the temporal bubble without becoming untethered.
+
+145
+00:06:56,850 --> 00:06:58,650
+BATMAN: More than enough.
+
+146
+00:06:58,685 --> 00:07:00,886
+Okay, ugly, let's dance.
+
+147
+00:07:01,855 --> 00:07:02,855
+(GRUNTING)
+
+148
+00:07:10,263 --> 00:07:11,463
+(GROANS)
+
+149
+00:07:19,372 --> 00:07:20,638
+(GROANING)
+
+150
+00:07:20,673 --> 00:07:22,908
+You're a big girl, aren't ya?
+
+151
+00:07:27,180 --> 00:07:29,915
+Batman, a little... Help!
+
+152
+00:07:36,789 --> 00:07:39,491
+-(GROANS IN PAIN) Hey, thanks. - Don't mention it.
+
+153
+00:07:44,230 --> 00:07:45,630
+(BLADE SWISHING)
+
+154
+00:07:47,333 --> 00:07:48,533
+(SHRIEKING)
+
+155
+00:07:51,538 --> 00:07:53,037
+BATMAN: I'm open to suggestions.
+
+156
+00:07:53,072 --> 00:07:54,873
+(LAUGHING) Right.
+
+157
+00:07:58,244 --> 00:08:01,913
+Me? You want my advice? But, you're Batman.
+
+158
+00:08:01,948 --> 00:08:06,050
+Actually, in case you haven't noticed, I'm a little out of my depth here.
+
+159
+00:08:06,085 --> 00:08:07,085
+You're the expert.
+
+160
+00:08:11,929 --> 00:08:13,769
+We've been fighting like two separate entities,
+
+161
+00:08:13,793 --> 00:08:15,953
+but we're at a disadvantage. We should do the opposite.
+
+162
+00:08:15,988 --> 00:08:17,988
+Get in close, back to back. Make it a street fight.
+
+163
+00:08:18,023 --> 00:08:20,498
+- Right. Good plan. - But, Bats...
+
+164
+00:08:20,533 --> 00:08:22,701
+It's okay. I trust you.
+
+165
+00:08:23,937 --> 00:08:25,237
+Yes!
+
+166
+00:08:29,108 --> 00:08:30,108
+(SCREECHING)
+
+167
+00:08:37,717 --> 00:08:39,450
+(GROANS AND PANTS)
+
+168
+00:08:39,485 --> 00:08:41,753
+It's not enough. We're not gonna make it.
+
+169
+00:08:41,788 --> 00:08:44,255
+- I don't accept that. - (GRUNTING)
+
+170
+00:08:44,290 --> 00:08:46,758
+You said you've beaten creatures like this before?
+
+171
+00:08:46,793 --> 00:08:48,560
+Yeah, but never this big.
+
+172
+00:08:48,595 --> 00:08:53,164
+Still, you fought them. What's different this time? Why now?
+
+173
+00:08:53,199 --> 00:08:56,267
+There's two of us. That's twice the drain on my power cells.
+
+174
+00:08:56,302 --> 00:08:57,769
+I'm only half as effective.
+
+175
+00:08:59,772 --> 00:09:01,306
+What are you doing?
+
+176
+00:09:01,341 --> 00:09:04,208
+I'm sorry, Bats. I have to push you outside the time stream.
+
+177
+00:09:04,243 --> 00:09:05,643
+Just trust me.
+
+178
+00:09:05,678 --> 00:09:09,514
+Booster, do that, and I'll be returned to just before we left.
+
+179
+00:09:09,549 --> 00:09:11,116
+I won't remember any of this.
+
+180
+00:09:12,685 --> 00:09:14,953
+That's okay, Bats. I will.
+
+181
+00:09:15,655 --> 00:09:17,355
+I was wrong about you.
+
+182
+00:09:17,390 --> 00:09:20,491
+You're a better person than anybody gives you credit for.
+
+183
+00:09:20,526 --> 00:09:22,627
+Maybe one day, I'll find that out.
+
+184
+00:09:25,531 --> 00:09:27,098
+Round two.
+
+185
+00:09:38,044 --> 00:09:39,344
+(GRUNTING)
+
+186
+00:09:51,724 --> 00:09:53,258
+(SCREAMING)
+
+187
+00:09:55,261 --> 00:09:56,928
+Not once. Repeatedly.
+
+188
+00:09:56,963 --> 00:09:59,263
+It's a pattern of behavior. You're lazy.
+
+189
+00:09:59,298 --> 00:10:01,366
+You're unprofessional, unfocused.
+
+190
+00:10:01,401 --> 00:10:04,669
+Booster! You're the worst crime fighter I've ever known.
+
+191
+00:10:06,873 --> 00:10:08,673
+You know what?
+
+192
+00:10:10,410 --> 00:10:12,777
+(SIGHING)
+
+193
+00:10:12,812 --> 00:10:17,015
+Nothing. Nothing. Just, you know, never mind.
+
+194
+00:10:17,050 --> 00:10:19,351
+You're right, Bats. You're always right.
+
+195
+00:10:23,923 --> 00:10:25,456
+Sure you weren't too hard on him?
+
+196
+00:10:25,491 --> 00:10:27,792
+No. He needs this.
+
+197
+00:10:37,737 --> 00:10:39,737
+(SIGHS) Yeah.
+
+198
+00:10:39,772 --> 00:10:40,972
+Better times.
+
+199
+00:10:43,643 --> 00:10:46,645
+(THEME MUSIC PLAYING)
+

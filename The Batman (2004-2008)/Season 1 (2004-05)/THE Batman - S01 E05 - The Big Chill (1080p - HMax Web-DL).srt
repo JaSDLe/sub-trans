@@ -1,0 +1,844 @@
+﻿1
+00:00:05,021 --> 00:00:07,986
+'And now for the weather. Hot, hot, hot.'
+
+2
+00:00:08,010 --> 00:00:09,572
+'Gotham City is sizzling in a heat wave'
+
+3
+00:00:10,011 --> 00:00:12,023
+'and there's no end in sight.'
+
+4
+00:00:20,040 --> 00:00:23,030
+Sweltering weather we're having tonight.
+
+5
+00:00:27,035 --> 00:00:31,023
+Uh, Skipper, what's our procedure in case of an iceberg?
+
+6
+00:00:31,047 --> 00:00:34,026
+An iceberg in Gotham Bay in this heat?
+
+7
+00:00:34,050 --> 00:00:38,055
+Little buddy, I guarantee you, we don't have a procedure for..
+
+8
+00:00:43,064 --> 00:00:45,066
+Mayday! Mayday!
+
+9
+00:00:54,060 --> 00:00:57,038
+Weather's a bit... muggy.
+
+10
+00:00:57,062 --> 00:00:59,050
+You are not welcome here, mister..
+
+11
+00:00:59,074 --> 00:01:01,083
+Uh, mister..
+
+12
+00:01:03,085 --> 00:01:06,073
+Freeze will do.
+
+13
+00:01:07,089 --> 00:01:11,072
+Mr. Freeze, you do not have permission...
+
+14
+00:01:13,089 --> 00:01:16,067
+Aah! What do you want?
+
+15
+00:01:16,091 --> 00:01:18,063
+Ice.
+
+16
+00:01:18,087 --> 00:01:19,101
+I-I don't understand.
+
+17
+00:01:20,080 --> 00:01:22,060
+Think about it.
+
+18
+00:01:22,084 --> 00:01:24,090
+Think fast.
+
+19
+00:01:45,127 --> 00:01:48,130
+Have an ice evening.
+
+20
+00:02:43,178 --> 00:02:46,167
+♪ The Batman ♪
+
+21
+00:02:59,191 --> 00:03:01,169
+'All crime-fighting and no play'
+
+22
+00:03:01,193 --> 00:03:04,182
+make Master Bruce an extremely dull boy.
+
+23
+00:03:04,206 --> 00:03:08,180
+Even the Batman deserves to go on a holiday once in a while
+
+24
+00:03:08,204 --> 00:03:10,171
+'wouldn't you say?'
+
+25
+00:03:10,195 --> 00:03:13,184
+Alfred, you know how stir-crazy I'd be lying on some beach?
+
+26
+00:03:13,208 --> 00:03:16,192
+Which is why I've arranged for an athletic retreat
+
+27
+00:03:16,216 --> 00:03:19,196
+a way to hone the Batman's body and reflexes.
+
+28
+00:03:19,220 --> 00:03:22,182
+Not to mention escape this heat wave.
+
+29
+00:03:22,206 --> 00:03:25,211
+You've booked reservations, haven't you?
+
+30
+00:03:26,228 --> 00:03:30,213
+If I go, it's only to make you happy.
+
+31
+00:03:31,220 --> 00:03:32,205
+'The Batwave.'
+
+32
+00:03:32,229 --> 00:03:34,198
+The mind-boggling jewelry
+
+33
+00:03:34,222 --> 00:03:35,213
+theft here at Gotham Harbor
+
+34
+00:03:35,237 --> 00:03:38,201
+has left one man frozen solid
+
+35
+00:03:38,225 --> 00:03:41,243
+not to mention an actual iceberg floating in Gotham Bay.
+
+36
+00:03:42,222 --> 00:03:44,206
+'Little is known about the bizarre perpetrator'
+
+37
+00:03:44,230 --> 00:03:46,224
+'calling himself Mr. Freeze.'
+
+38
+00:03:46,248 --> 00:03:48,226
+There, you see? It's a sign.
+
+39
+00:03:48,250 --> 00:03:51,236
+A winter retreat is in your future.
+
+40
+00:04:28,271 --> 00:04:30,280
+What is that?
+
+41
+00:04:36,286 --> 00:04:38,260
+Will my husband be alright?
+
+42
+00:04:38,284 --> 00:04:40,303
+He's hypothermic, ma'am, but he'll pull through.
+
+43
+00:04:42,284 --> 00:04:46,275
+No thanks to that m-maniac.
+
+44
+00:04:46,299 --> 00:04:47,285
+So how'd he do it?
+
+45
+00:04:47,309 --> 00:04:51,275
+Not sure, but the victim seems to have been..
+
+46
+00:04:51,299 --> 00:04:52,305
+Flash-frozen.
+
+47
+00:04:53,310 --> 00:04:55,290
+He walked on water?
+
+48
+00:04:55,314 --> 00:04:57,280
+Froze it first.
+
+49
+00:04:57,304 --> 00:05:00,307
+Made a path of solid ice straight to the shore.
+
+50
+00:05:01,323 --> 00:05:04,285
+Well, no sign of that now.
+
+51
+00:05:04,309 --> 00:05:05,317
+Trail went cold.
+
+52
+00:05:06,322 --> 00:05:08,287
+Uh, so to speak.
+
+53
+00:05:08,311 --> 00:05:10,291
+'Trail wasn't quite cold enough..'
+
+54
+00:05:10,315 --> 00:05:12,312
+'Not in this weather.'
+
+55
+00:05:14,318 --> 00:05:16,302
+Not cold enough to the naked eye
+
+56
+00:05:16,326 --> 00:05:18,322
+but in infrared..
+
+57
+00:05:21,329 --> 00:05:24,324
+'Freeze's trail is a clear as crystal.'
+
+58
+00:05:29,342 --> 00:05:32,346
+'And his trail leads clear across Gotham.'
+
+59
+00:05:41,356 --> 00:05:44,332
+'Mind if I help myself?'
+
+60
+00:05:44,356 --> 00:05:46,361
+I didn't think so.
+
+61
+00:05:48,355 --> 00:05:50,334
+The choice cuts..
+
+62
+00:05:50,358 --> 00:05:52,373
+Must be in the icebox.
+
+63
+00:06:02,382 --> 00:06:04,387
+Ah.
+
+64
+00:06:05,366 --> 00:06:07,386
+Lovely little glaciers.
+
+65
+00:06:17,393 --> 00:06:19,361
+The Batman.
+
+66
+00:06:19,385 --> 00:06:21,402
+I thought you would never arrive.
+
+67
+00:06:26,392 --> 00:06:30,372
+I have been looking forward to our reunion.
+
+68
+00:06:30,396 --> 00:06:31,411
+Reunion?
+
+69
+00:06:38,402 --> 00:06:42,408
+Exercise will keep you warm for only so long.
+
+70
+00:07:02,436 --> 00:07:04,440
+Slowing, aren't we?
+
+71
+00:07:06,431 --> 00:07:09,426
+That would be the hypothermia setting in.
+
+72
+00:07:09,450 --> 00:07:11,429
+We both recognize the symptoms.
+
+73
+00:07:11,453 --> 00:07:15,430
+Reaction time slows, reflexes grow sluggish.
+
+74
+00:07:15,454 --> 00:07:17,459
+'Next come the hallucinations'
+
+75
+00:07:18,438 --> 00:07:20,430
+lack of consciousness, and finally..
+
+76
+00:07:20,454 --> 00:07:22,452
+The big chill.
+
+77
+00:07:28,461 --> 00:07:30,450
+Uhh!
+
+78
+00:07:34,460 --> 00:07:36,469
+You keep talking as if we've met, mister.
+
+79
+00:07:38,470 --> 00:07:40,441
+Victor Freeze?
+
+80
+00:07:40,465 --> 00:07:41,474
+But you're..
+
+81
+00:07:43,479 --> 00:07:45,468
+Uhh!
+
+82
+00:07:46,487 --> 00:07:49,464
+If I'm no longer living, Batman
+
+83
+00:07:49,488 --> 00:07:52,454
+you are the one who iced me.
+
+84
+00:07:52,478 --> 00:07:54,494
+Allow me to return the favor.
+
+85
+00:08:05,505 --> 00:08:07,475
+You, you..
+
+86
+00:08:07,499 --> 00:08:08,483
+I've had a makeover
+
+87
+00:08:08,507 --> 00:08:11,499
+'since our paths last crossed.'
+
+88
+00:08:17,501 --> 00:08:22,503
+<i>I was just Victor Freeze then, common bank robber.</i>
+
+89
+00:08:26,521 --> 00:08:30,490
+<i>But I'd hit the big time. Diamonds!</i>
+
+90
+00:08:30,514 --> 00:08:35,498
+<i>The biggest score of my, uh, former life.</i>
+
+91
+00:08:35,522 --> 00:08:39,504
+No way I'm letting some bat creep throw me in the cooler.
+
+92
+00:08:39,528 --> 00:08:40,537
+Wha..
+
+93
+00:09:04,553 --> 00:09:06,555
+Ahh-uhh!
+
+94
+00:09:18,562 --> 00:09:22,572
+<i>The icy hand of fate led me to that cryonics lab.</i>
+
+95
+00:09:35,596 --> 00:09:37,582
+Uhh!
+
+96
+00:09:46,597 --> 00:09:48,595
+Huh? Uhh!
+
+97
+00:09:53,601 --> 00:09:56,604
+- My diamonds! - Freeze, no!
+
+98
+00:10:01,623 --> 00:10:03,615
+No!
+
+99
+00:10:07,616 --> 00:10:09,604
+<i>I was electrocuted.</i>
+
+100
+00:10:09,628 --> 00:10:14,616
+<i>At the same instant the blood froze in my veins.</i>
+
+101
+00:10:20,642 --> 00:10:24,617
+<i>Was I still among the living?</i>
+
+102
+00:10:24,641 --> 00:10:27,615
+<i>Presumably, the experts will determine that</i>
+
+103
+00:10:27,639 --> 00:10:30,643
+<i>but I made their job easy for them.</i>
+
+104
+00:10:35,639 --> 00:10:37,625
+<i>My body had mutated.</i>
+
+105
+00:10:37,649 --> 00:10:39,635
+<i>Neither living nor dead.</i>
+
+106
+00:10:39,659 --> 00:10:42,630
+<i>I was a walking cryonic miracle.</i>
+
+107
+00:10:42,654 --> 00:10:46,638
+<i>Though some might consider me a monstrosity.</i>
+
+108
+00:10:46,662 --> 00:10:50,641
+<i>It didn't take much for me to motivate an expert in the field</i>
+
+109
+00:10:50,665 --> 00:10:55,642
+<i>to produce a suit to contain my frosty disposition..</i>
+
+110
+00:10:55,666 --> 00:10:58,657
+<i>Until I so choose to disperse it.</i>
+
+111
+00:10:58,681 --> 00:11:02,647
+Thank you for creating me, Batman.
+
+112
+00:11:02,671 --> 00:11:03,677
+Now..
+
+113
+00:11:05,672 --> 00:11:07,657
+Good-bye.
+
+114
+00:11:07,681 --> 00:11:09,684
+Police! Freeze!
+
+115
+00:11:10,690 --> 00:11:12,683
+As you wish.
+
+116
+00:11:14,683 --> 00:11:16,677
+- Uhh! - Uhh!
+
+117
+00:11:19,685 --> 00:11:22,667
+Another time, then, Batman..
+
+118
+00:11:22,691 --> 00:11:25,696
+Unless you catch your death of cold.
+
+119
+00:11:34,703 --> 00:11:37,707
+- Huh! He's gone. - But he left us a present.
+
+120
+00:11:39,699 --> 00:11:41,700
+Bennett here. Need paramedics... fast.
+
+121
+00:11:41,724 --> 00:11:44,700
+Hey, while we're waiting, we can take a peek.
+
+122
+00:11:44,724 --> 00:11:46,691
+Whoa. Hold up.
+
+123
+00:11:46,715 --> 00:11:48,686
+Can't say I'm not curious, Yin
+
+124
+00:11:48,710 --> 00:11:50,722
+but somehow, it doesn't seem right.
+
+125
+00:11:52,729 --> 00:11:54,694
+Hey, bats got into this pickle
+
+126
+00:11:54,718 --> 00:11:56,119
+'cause he was trying to stop Freeze.
+
+127
+00:11:56,717 --> 00:11:57,714
+I'm sure that Batman means well
+
+128
+00:11:57,738 --> 00:11:59,710
+but he's still a vigilante
+
+129
+00:11:59,734 --> 00:12:01,706
+and according to the law, Batman
+
+130
+00:12:01,730 --> 00:12:02,771
+that makes you a criminal.
+
+131
+00:12:03,724 --> 00:12:05,717
+'Just like the rest.'
+
+132
+00:12:05,741 --> 00:12:07,744
+Yin, hold up. What's that?
+
+133
+00:12:37,771 --> 00:12:40,777
+Something cold to drink, Master Bruce?
+
+134
+00:12:43,786 --> 00:12:45,775
+Master Bruce!
+
+135
+00:12:52,792 --> 00:12:54,772
+One hundred four point eight.
+
+136
+00:12:54,796 --> 00:12:56,762
+It's official, Master Bruce.
+
+137
+00:12:56,786 --> 00:12:57,775
+You are running a fever.
+
+138
+00:12:57,799 --> 00:12:59,766
+Freeze..
+
+139
+00:12:59,790 --> 00:13:00,778
+This earl grey will warm you.
+
+140
+00:13:00,802 --> 00:13:02,777
+No.
+
+141
+00:13:02,801 --> 00:13:04,775
+Freeze.
+
+142
+00:13:04,799 --> 00:13:07,772
+It's my fault he's what he is.
+
+143
+00:13:07,796 --> 00:13:08,779
+Master Bruce?
+
+144
+00:13:08,803 --> 00:13:10,772
+Yin was right.
+
+145
+00:13:10,796 --> 00:13:13,800
+I'm not helping the law. I'm just breaking it.
+
+146
+00:13:14,813 --> 00:13:17,780
+Master Bruce, you really must rest.
+
+147
+00:13:17,804 --> 00:13:19,777
+Right, Alfred.
+
+148
+00:13:19,801 --> 00:13:22,812
+Maybe it is time for the Batman to take a vacation.
+
+149
+00:13:23,826 --> 00:13:25,822
+A permanent one.
+
+150
+00:13:36,828 --> 00:13:40,830
+Baby, it's cold outside.
+
+151
+00:13:47,834 --> 00:13:49,836
+You there! Freeze!
+
+152
+00:13:57,859 --> 00:13:59,857
+Wha..
+
+153
+00:14:06,848 --> 00:14:07,863
+Uhh!
+
+154
+00:14:26,879 --> 00:14:28,864
+'I'm a criminal..'
+
+155
+00:14:28,888 --> 00:14:30,862
+like the rest.
+
+156
+00:14:30,886 --> 00:14:32,864
+I should give it up.
+
+157
+00:14:32,888 --> 00:14:34,859
+Sir, I would be more than delighted
+
+158
+00:14:34,883 --> 00:14:36,858
+to encourage you to hang up the cape and cowl
+
+159
+00:14:36,882 --> 00:14:39,861
+out of concern for your general health and welfare
+
+160
+00:14:39,885 --> 00:14:42,878
+but you would only hold it against me once your fever broke
+
+161
+00:14:42,902 --> 00:14:45,887
+and you came to your senses.
+
+162
+00:14:49,910 --> 00:14:53,904
+'Master Bruce?'
+
+163
+00:15:36,947 --> 00:15:37,956
+Alfred?
+
+164
+00:15:43,945 --> 00:15:44,932
+Alfred.
+
+165
+00:15:44,956 --> 00:15:48,934
+Ah. Regained some of our fire, have we?
+
+166
+00:15:48,958 --> 00:15:50,940
+The Batman's needed.
+
+167
+00:15:50,964 --> 00:15:51,950
+I thought as much.
+
+168
+00:15:51,974 --> 00:15:53,937
+That's why I've taken the liberty
+
+169
+00:15:53,961 --> 00:15:55,960
+of weatherproofing your suit.
+
+170
+00:15:58,965 --> 00:16:01,940
+The crime spree of Mr. Freeze continues.
+
+171
+00:16:01,964 --> 00:16:04,945
+He was last scene entering Gotham Municipal Park
+
+172
+00:16:04,969 --> 00:16:06,961
+but the police, who entered in pursuit
+
+173
+00:16:06,985 --> 00:16:08,982
+have yet to emerge.
+
+174
+00:16:14,978 --> 00:16:16,967
+Let it snow.
+
+175
+00:16:16,991 --> 00:16:19,980
+Now don't forget your cough syrup.
+
+176
+00:16:26,987 --> 00:16:27,982
+We're gonna need arctic survival gear
+
+177
+00:16:28,006 --> 00:16:31,007
+if we want to get our men any closer to that dome.
+
+178
+00:16:35,006 --> 00:16:37,003
+Getting warm.
+
+179
+00:16:38,010 --> 00:16:39,017
+Vroom.
+
+180
+00:16:54,024 --> 00:16:56,010
+'It was all too easy.'
+
+181
+00:16:56,034 --> 00:16:58,011
+The diamonds. The police.
+
+182
+00:16:58,035 --> 00:17:01,009
+Challenges for an ordinary criminal.
+
+183
+00:17:01,033 --> 00:17:04,046
+It's clear now that I'm destined for more than this.
+
+184
+00:17:05,025 --> 00:17:08,010
+After all, you've made me more than human.
+
+185
+00:17:08,034 --> 00:17:12,015
+Sorry, Vic, but I'm done taking credit for your handiwork.
+
+186
+00:17:12,039 --> 00:17:14,055
+We both know you put yourself on ice.
+
+187
+00:17:15,034 --> 00:17:17,027
+I'm here to bring on the thaw.
+
+188
+00:17:17,051 --> 00:17:19,027
+Go on, then.
+
+189
+00:17:19,051 --> 00:17:20,061
+Bring it.
+
+190
+00:17:25,057 --> 00:17:26,065
+Ugh!
+
+191
+00:17:34,054 --> 00:17:36,052
+Wha.. Slick as ice, Batman
+
+192
+00:17:36,076 --> 00:17:38,050
+but I won't need to see you
+
+193
+00:17:38,074 --> 00:17:40,080
+when you're buried!
+
+194
+00:18:16,102 --> 00:18:18,113
+You're finished, Batman.
+
+195
+00:18:20,101 --> 00:18:21,094
+I'm king of the mountain.
+
+196
+00:18:21,118 --> 00:18:24,106
+The new emperor of Gotham.
+
+197
+00:18:25,125 --> 00:18:28,097
+So get used to the weather.
+
+198
+00:18:28,121 --> 00:18:33,114
+No, Freeze, this is my mountain.
+
+199
+00:18:48,137 --> 00:18:51,151
+Cold always triumphs over heat.
+
+200
+00:19:01,159 --> 00:19:06,146
+Two words, Batman, snow tires.
+
+201
+00:19:10,166 --> 00:19:11,172
+Aah!
+
+202
+00:19:12,151 --> 00:19:14,162
+Ugh!
+
+203
+00:19:19,159 --> 00:19:20,173
+Let's go.
+
+204
+00:19:31,190 --> 00:19:33,194
+Bats may be a criminal
+
+205
+00:19:34,173 --> 00:19:36,176
+but he's my kind of criminal.
+
+206
+00:19:44,195 --> 00:19:46,180
+Hot tea and a lozenge, sir?
+
+207
+00:19:46,204 --> 00:19:48,208
+Cold drink on a warm beach?
+
+208
+00:19:50,212 --> 00:19:52,187
+'The Batwave.'
+
+209
+00:19:52,211 --> 00:19:54,209
+Another time, then.
+
+210
+00:19:55,211 --> 00:19:57,212
+Tahiti will have to wait.
+
+211
+00:20:25,227 --> 00:20:28,232
+♪ The Batman ♪
+

@@ -1,0 +1,1176 @@
+﻿1
+00:00:14,022 --> 00:00:15,997
+We're through. We found it.
+
+2
+00:00:16,021 --> 00:00:19,040
+We found a cave, Moira, not necessarily the cave.
+
+3
+00:00:25,025 --> 00:00:27,038
+This is it. You know it is.
+
+4
+00:00:39,052 --> 00:00:40,054
+Beep.
+
+5
+00:00:41,050 --> 00:00:43,056
+We found the Batcave.
+
+6
+00:00:48,056 --> 00:00:51,040
+Archeological log, Gray reporting.
+
+7
+00:00:51,064 --> 00:00:53,050
+We seem to have found definitive proof
+
+8
+00:00:53,074 --> 00:00:56,079
+that ancient Gotham's legendary Batman
+
+9
+00:00:57,058 --> 00:01:00,044
+long thought to be a myth, actually existed.
+
+10
+00:01:00,068 --> 00:01:02,057
+The time is exactly 1900 hours.
+
+11
+00:01:02,081 --> 00:01:06,080
+The date is August 8th, 3027.
+
+12
+00:01:33,107 --> 00:01:34,113
+Vroom
+
+13
+00:01:37,120 --> 00:01:38,121
+ka-ching
+
+14
+00:01:51,132 --> 00:01:53,116
+vroom.
+
+15
+00:02:21,148 --> 00:02:23,135
+Remember, don't disturb any artifacts
+
+16
+00:02:23,159 --> 00:02:26,143
+until your recorder's taken a complete 3-D scan.
+
+17
+00:02:26,167 --> 00:02:28,165
+'Gray, over here!'
+
+18
+00:02:31,152 --> 00:02:34,134
+We think this was some kind of primitive computer, but...
+
+19
+00:02:34,158 --> 00:02:36,144
+This was just the user interface, Moira.
+
+20
+00:02:36,168 --> 00:02:38,179
+The memory anagrams may still be preserved.
+
+21
+00:02:43,164 --> 00:02:44,172
+Rizz rizz.
+
+22
+00:02:45,177 --> 00:02:47,147
+If the data we need is lost
+
+23
+00:02:47,171 --> 00:02:49,151
+all of New Gotham will be destroyed.
+
+24
+00:02:49,175 --> 00:02:51,164
+You need to get this machine on line.
+
+25
+00:02:51,188 --> 00:02:53,155
+Do you know how old this tech is?
+
+26
+00:02:53,179 --> 00:02:55,164
+What you're asking is impossible!
+
+27
+00:02:55,188 --> 00:02:56,170
+Find a way.
+
+28
+00:02:56,194 --> 00:02:59,195
+And remember, time is not a luxury we have.
+
+29
+00:03:01,193 --> 00:03:03,181
+Whoosh
+
+30
+00:03:03,205 --> 00:03:06,177
+I still can't believe we found the place.
+
+31
+00:03:06,201 --> 00:03:07,242
+You know, when I was a kid
+
+32
+00:03:08,188 --> 00:03:09,185
+my father read "Tales Of The Bat" to me
+
+33
+00:03:09,209 --> 00:03:11,175
+every night before bed.
+
+34
+00:03:11,199 --> 00:03:13,179
+He always said the stories were true.
+
+35
+00:03:13,203 --> 00:03:15,180
+Smart man, your father.
+
+36
+00:03:15,204 --> 00:03:16,207
+Beep.
+
+37
+00:03:24,205 --> 00:03:25,227
+Full scan complete?
+
+38
+00:03:26,206 --> 00:03:28,188
+It's the Batmobile, isn't it?
+
+39
+00:03:28,212 --> 00:03:29,223
+Let's find out.
+
+40
+00:03:39,232 --> 00:03:41,243
+It's exactly how I imagined it.
+
+41
+00:03:49,236 --> 00:03:51,224
+'Batman, confirm sighting.'
+
+42
+00:03:51,248 --> 00:03:53,218
+'He's at Gotham Airport.'
+
+43
+00:03:53,242 --> 00:03:54,225
+'Batman?'
+
+44
+00:03:54,249 --> 00:03:56,241
+'Batman, do you read?'
+
+45
+00:03:57,239 --> 00:03:58,231
+'What do you read, anyway?'
+
+46
+00:03:58,255 --> 00:04:00,236
+'After all these years, I never thought to ask.'
+
+47
+00:04:00,260 --> 00:04:03,230
+'Mystery stories, romance novels?'
+
+48
+00:04:03,254 --> 00:04:04,237
+' "The Sunday Comics?"'
+
+49
+00:04:04,261 --> 00:04:06,268
+I read, Oracle, loud and clear.
+
+50
+00:04:08,253 --> 00:04:09,334
+I'm heading to the airport.
+
+51
+00:04:11,253 --> 00:04:13,251
+It's the headaches again, isn't it?
+
+52
+00:04:13,275 --> 00:04:16,234
+Ever think that's Mother Nature's way of telling you
+
+53
+00:04:16,258 --> 00:04:18,241
+that you should be playing Bingo right now?
+
+54
+00:04:18,265 --> 00:04:20,254
+I'm fine. Today it ends.
+
+55
+00:04:20,278 --> 00:04:22,269
+This dance can't go on forever.
+
+56
+00:04:24,264 --> 00:04:25,271
+Swoosh.
+
+57
+00:04:40,290 --> 00:04:42,281
+'Are you sure this homemade anti-Freeze is gonna work?'
+
+58
+00:04:42,305 --> 00:04:45,283
+I've spent years studying Freeze's cryogenic biology
+
+59
+00:04:45,307 --> 00:04:48,278
+and how to neutralize it. It'll work.
+
+60
+00:04:48,302 --> 00:04:51,311
+'It better, because you know I am not a fan of plan B.'
+
+61
+00:04:54,305 --> 00:04:55,312
+bang.
+
+62
+00:05:05,319 --> 00:05:07,314
+Try again, Batman.
+
+63
+00:05:08,315 --> 00:05:10,301
+We didn't pierce the exosuit.
+
+64
+00:05:10,325 --> 00:05:12,309
+Guess it's time for plan B.
+
+65
+00:05:12,333 --> 00:05:14,317
+Great.
+
+66
+00:05:16,318 --> 00:05:18,318
+Swoosh
+
+67
+00:05:28,331 --> 00:05:30,331
+clang.
+
+68
+00:05:40,362 --> 00:05:43,361
+The Dark Knight returns.
+
+69
+00:06:02,370 --> 00:06:04,356
+'Batman, I've tapped into Air Traffic Control.'
+
+70
+00:06:04,380 --> 00:06:07,349
+'Gotham Tower has rerouted all flights.'
+
+71
+00:06:07,373 --> 00:06:09,369
+Good. Hm..
+
+72
+00:06:10,391 --> 00:06:11,393
+You'd think so
+
+73
+00:06:12,372 --> 00:06:13,357
+but a cargo plane from Africa
+
+74
+00:06:13,381 --> 00:06:14,582
+was already on final approach.
+
+75
+00:06:15,375 --> 00:06:17,363
+'It's out of fuel and its wings are icing over.'
+
+76
+00:06:17,387 --> 00:06:20,397
+'The pilot's issued a Mayday. He has to land now.'
+
+77
+00:06:35,397 --> 00:06:36,415
+Oracle, the Batmobile.
+
+78
+00:06:43,420 --> 00:06:44,427
+Swish swish swish.
+
+79
+00:06:49,418 --> 00:06:51,422
+When did this get so hard?
+
+80
+00:07:07,438 --> 00:07:10,450
+Thump crash.
+
+81
+00:07:28,462 --> 00:07:31,434
+Time, Batman, has made you weak
+
+82
+00:07:31,458 --> 00:07:33,447
+slow, irrelevant.
+
+83
+00:07:33,471 --> 00:07:36,453
+Facts you refuse to accept.
+
+84
+00:07:36,477 --> 00:07:38,440
+'Pathetic.'
+
+85
+00:07:38,464 --> 00:07:41,449
+Freeze, a man's life is at stake.
+
+86
+00:07:41,473 --> 00:07:43,442
+'That plane needs to land.'
+
+87
+00:07:43,466 --> 00:07:47,471
+And land it will crash-land.
+
+88
+00:08:04,502 --> 00:08:06,466
+Do it.
+
+89
+00:08:06,490 --> 00:08:07,494
+Beep.
+
+90
+00:08:11,508 --> 00:08:13,497
+That's more like it.
+
+91
+00:08:15,497 --> 00:08:17,476
+No wonder this place is still standing.
+
+92
+00:08:17,500 --> 00:08:20,478
+It's been secured with titanium reinforcements.
+
+93
+00:08:20,502 --> 00:08:23,482
+This much titanium in the 21st century?
+
+94
+00:08:23,506 --> 00:08:24,627
+It must have cost a fortune!
+
+95
+00:08:25,506 --> 00:08:26,494
+Who was this Batman?
+
+96
+00:08:26,518 --> 00:08:27,559
+We'll probably never know.
+
+97
+00:08:28,508 --> 00:08:29,869
+The details have been lost to time.
+
+98
+00:08:30,510 --> 00:08:31,493
+'Maybe not.'
+
+99
+00:08:31,517 --> 00:08:33,492
+According to records we found
+
+100
+00:08:33,516 --> 00:08:34,513
+the estate that was once above this cave
+
+101
+00:08:34,537 --> 00:08:37,498
+was owned by a Dr. Thomas Wayne.
+
+102
+00:08:37,522 --> 00:08:38,515
+We can't be certain
+
+103
+00:08:38,539 --> 00:08:40,511
+but I bet he was The Batman
+
+104
+00:08:40,535 --> 00:08:43,515
+which means his wife, Martha, may have been the Batwoman
+
+105
+00:08:43,539 --> 00:08:46,510
+and their young son, Bruce, the Red Robin.
+
+106
+00:08:46,534 --> 00:08:49,535
+- The Red what? - I'll show you.
+
+107
+00:08:56,555 --> 00:08:58,525
+The Batsuit.
+
+108
+00:08:58,549 --> 00:09:00,519
+Vacuum sealed.
+
+109
+00:09:00,543 --> 00:09:02,522
+Perfectly preserved.
+
+110
+00:09:02,546 --> 00:09:04,567
+'Look how small the Red Robin's uniform is.'
+
+111
+00:09:05,546 --> 00:09:07,567
+'I never realized Batman's partner was so young.'
+
+112
+00:09:19,560 --> 00:09:21,542
+The upgraded Freeze 2.0
+
+113
+00:09:21,566 --> 00:09:23,550
+comes complete with flame-proof cybernetics
+
+114
+00:09:23,574 --> 00:09:27,551
+and a shatter-proof, internal liquid nitrogen supply.
+
+115
+00:09:27,575 --> 00:09:31,563
+It's why your cold medicine didn't work.
+
+116
+00:09:31,587 --> 00:09:33,554
+'Oracle, the plane!'
+
+117
+00:09:33,578 --> 00:09:35,557
+Chill, Batman. I sent up a flare.
+
+118
+00:09:35,581 --> 00:09:37,582
+'Robin's on his way.'
+
+119
+00:09:41,582 --> 00:09:43,576
+Maybe you didn't get the memo, Oracle
+
+120
+00:09:43,600 --> 00:09:45,569
+but I've been going by Nightwing
+
+121
+00:09:45,593 --> 00:09:48,573
+for, oh, about a decade or so.
+
+122
+00:09:48,597 --> 00:09:51,583
+Oh, yeah! I don't know why I can't remember that.
+
+123
+00:09:51,607 --> 00:09:54,573
+'Maybe I should try saying it ten times in a row.'
+
+124
+00:09:54,597 --> 00:09:55,592
+'Nightwing, Nightwing, Nightwing.'
+
+125
+00:09:55,616 --> 00:09:57,591
+'Wing de-icers are at maximum capacity'
+
+126
+00:09:57,615 --> 00:10:00,590
+and still losing ground. Oracle, take control.
+
+127
+00:10:00,614 --> 00:10:02,600
+'Why? You got something better to do?'
+
+128
+00:10:02,624 --> 00:10:04,614
+Kinda. Yeah.
+
+129
+00:10:07,628 --> 00:10:09,621
+Mayday! Mayday!
+
+130
+00:10:19,627 --> 00:10:22,634
+Please stow all tray tables and unfasten your seat belt.
+
+131
+00:10:23,643 --> 00:10:25,644
+What are you doing? Whoa!
+
+132
+00:10:32,651 --> 00:10:34,635
+Boom.
+
+133
+00:10:38,639 --> 00:10:39,651
+Whoa!
+
+134
+00:10:57,661 --> 00:10:58,672
+Get out of here!
+
+135
+00:10:59,670 --> 00:11:00,651
+Whoa.
+
+136
+00:11:00,675 --> 00:11:02,659
+- Oracle. - 'Way ahead of you, wing gnat.'
+
+137
+00:11:02,683 --> 00:11:04,687
+'I've alerted Commissioner Yin and Chief Bennett'
+
+138
+00:11:05,666 --> 00:11:06,653
+'that the pilot's headed their way.'
+
+139
+00:11:06,677 --> 00:11:07,664
+'They've evacuated the airport'
+
+140
+00:11:07,688 --> 00:11:09,664
+'and their men have the place surrounded.'
+
+141
+00:11:09,688 --> 00:11:11,654
+Which means they're still waiting for us
+
+142
+00:11:11,678 --> 00:11:14,686
+to do the heavy lifting, right, Batman? Batman?
+
+143
+00:11:20,684 --> 00:11:23,690
+Sit this one out. I can handle Freeze.
+
+144
+00:11:24,691 --> 00:11:27,673
+Maybe it's time to pass the torch.
+
+145
+00:11:27,697 --> 00:11:30,676
+I'll pass the torch when the mission's over.
+
+146
+00:11:30,700 --> 00:11:32,714
+We both know the mission will never be over.
+
+147
+00:11:36,696 --> 00:11:38,700
+Where is it? Ugh!
+
+148
+00:11:44,726 --> 00:11:48,699
+Ah, the African Star.
+
+149
+00:11:48,723 --> 00:11:50,702
+A diamond, Freeze?
+
+150
+00:11:50,726 --> 00:11:53,707
+You brought that plane down for a diamond?
+
+151
+00:11:53,731 --> 00:11:56,739
+Diamonds are the hardest substance in the world, Batman.
+
+152
+00:11:57,718 --> 00:11:58,712
+I knew it was the only thing
+
+153
+00:11:58,736 --> 00:12:01,699
+that could survive the crash.
+
+154
+00:12:01,723 --> 00:12:04,706
+After all these years you're still nothing but a cheap crook.
+
+155
+00:12:04,730 --> 00:12:06,749
+As I've been trying to tell Batman
+
+156
+00:12:07,728 --> 00:12:08,751
+things change.
+
+157
+00:12:15,753 --> 00:12:17,718
+You see, Batman
+
+158
+00:12:17,742 --> 00:12:20,733
+the African Star is no ordinary diamond.
+
+159
+00:12:20,757 --> 00:12:22,727
+Its uniquely perfect structure
+
+160
+00:12:22,751 --> 00:12:24,741
+will allow it to act as an energy amplifier
+
+161
+00:12:24,765 --> 00:12:27,746
+for my cryo-cabin a machine with the power
+
+162
+00:12:27,770 --> 00:12:31,741
+to alter this city's weather forever!
+
+163
+00:12:31,765 --> 00:12:32,771
+Beep.
+
+164
+00:12:35,757 --> 00:12:37,735
+You think you got one more in you, old man?
+
+165
+00:12:37,759 --> 00:12:40,766
+I'm just hoping you can keep up, Robin.
+
+166
+00:12:41,775 --> 00:12:44,750
+It's almost poetic, don't you think
+
+167
+00:12:44,774 --> 00:12:48,747
+that that which is most precious to me, diamonds
+
+168
+00:12:48,771 --> 00:12:51,757
+'will allow me to achieve my ultimate dream'
+
+169
+00:12:51,781 --> 00:12:53,772
+turning Gotham into a frozen kingdom
+
+170
+00:12:53,796 --> 00:12:56,791
+over which I will rule.
+
+171
+00:13:31,828 --> 00:13:33,831
+'It's over, Batman.'
+
+172
+00:13:34,836 --> 00:13:39,798
+You've given this city all you have to give.
+
+173
+00:13:39,822 --> 00:13:41,831
+Now, it's time to sleep.
+
+174
+00:13:45,838 --> 00:13:48,840
+<i>So what was it that finally defeated The Bat?</i>
+
+175
+00:13:51,834 --> 00:13:53,825
+That's something probably lost to history.
+
+176
+00:13:53,849 --> 00:13:55,841
+I'd like to think, old age.
+
+177
+00:13:57,854 --> 00:14:00,836
+- 'Gray, progress report.' - Uh, yes, commissioner.
+
+178
+00:14:00,860 --> 00:14:04,831
+We've made a number of important historical discoveries.
+
+179
+00:14:04,855 --> 00:14:07,839
+Forget history. Have you found what we need today?
+
+180
+00:14:07,863 --> 00:14:09,848
+No, sir, nothing yet
+
+181
+00:14:09,872 --> 00:14:12,832
+nothing that will solve our problem.
+
+182
+00:14:12,856 --> 00:14:14,848
+'Gray, it's not a problem, it's a crisis.'
+
+183
+00:14:14,872 --> 00:14:17,841
+<i>Find something and find it fast</i>
+
+184
+00:14:17,865 --> 00:14:19,880
+<i>before New Gotham enters another ice age.</i>
+
+185
+00:14:33,885 --> 00:14:36,854
+- Somehow, this Dr. Frost... - Mr. Frost...
+
+186
+00:14:36,878 --> 00:14:37,867
+- Freeze. - Whatever!
+
+187
+00:14:37,891 --> 00:14:40,877
+Somehow, this 1000-year-old monster is destroying our city
+
+188
+00:14:40,901 --> 00:14:42,879
+and we can't seem to stop him!
+
+189
+00:14:42,903 --> 00:14:45,897
+Everyone is depending on you and your team, Gray!
+
+190
+00:14:47,894 --> 00:14:49,891
+What's the status of that computer?
+
+191
+00:14:50,905 --> 00:14:52,885
+We found data storage.
+
+192
+00:14:52,909 --> 00:14:53,889
+Huh.
+
+193
+00:14:53,913 --> 00:14:55,874
+If the code's recoverable
+
+194
+00:14:55,898 --> 00:14:57,894
+we'll have it online in a matter of minutes.
+
+195
+00:14:57,918 --> 00:14:59,922
+An antique wheelchair.
+
+196
+00:15:00,901 --> 00:15:01,898
+The Waynes employed an Alfred Pennyworth
+
+197
+00:15:01,922 --> 00:15:04,927
+for decades who would've been quite old near the end.
+
+198
+00:15:05,906 --> 00:15:07,147
+This must have belonged to him.
+
+199
+00:15:10,928 --> 00:15:13,935
+Batman, come in. Come in, Nightwing.
+
+200
+00:15:14,914 --> 00:15:17,897
+There's still no answer, Alfred. Radio must be down.
+
+201
+00:15:17,921 --> 00:15:19,913
+He's always seemed to think he wasn't doing his job
+
+202
+00:15:19,937 --> 00:15:22,908
+unless he worried me half to death.
+
+203
+00:15:22,932 --> 00:15:24,941
+I'm certain he's fine, Oracle.
+
+204
+00:15:40,943 --> 00:15:42,931
+Lopez Hair Removal, this is Jose.
+
+205
+00:15:42,955 --> 00:15:45,943
+It's dad, Barbara, just wanted to check in on you
+
+206
+00:15:45,967 --> 00:15:48,927
+you know, with everything that's going on.
+
+207
+00:15:48,951 --> 00:15:50,553
+'There's nothing for you to worry about.'
+
+208
+00:15:50,951 --> 00:15:51,947
+'And I am kind of busy right now.'
+
+209
+00:15:51,971 --> 00:15:53,939
+Well, if you weren't so mysterious
+
+210
+00:15:53,963 --> 00:15:55,935
+about that job of yours maybe I wouldn't
+
+211
+00:15:55,959 --> 00:15:57,957
+have to worry about you so much.
+
+212
+00:15:58,981 --> 00:16:02,975
+You never stood a chance against me, Batman.
+
+213
+00:16:10,973 --> 00:16:12,953
+Sorry, dad. I gotta go. Love you. See you tomorrow.
+
+214
+00:16:12,977 --> 00:16:15,958
+'Okay. Goodnight, Barbara. Love you, too.'
+
+215
+00:16:15,982 --> 00:16:17,957
+Batman's remotely ordered the Batwing
+
+216
+00:16:17,981 --> 00:16:19,961
+to fire on his position.
+
+217
+00:16:19,985 --> 00:16:21,966
+I can't override it.
+
+218
+00:16:21,990 --> 00:16:24,964
+Fire on himself? Oh, dear.
+
+219
+00:16:24,988 --> 00:16:27,001
+Senility has finally set in.
+
+220
+00:16:35,001 --> 00:16:36,008
+Huh?
+
+221
+00:16:37,007 --> 00:16:40,008
+Boom boom boom.
+
+222
+00:16:46,009 --> 00:16:48,008
+- Huh? - Ah..
+
+223
+00:16:51,022 --> 00:16:53,000
+Thanks for the ice pack, Freeze.
+
+224
+00:16:53,024 --> 00:16:55,033
+All you did was numb the pain.
+
+225
+00:17:22,056 --> 00:17:25,029
+Diamonds cut even the hardest glass.
+
+226
+00:17:25,053 --> 00:17:28,027
+How's that for poetic justice?
+
+227
+00:17:28,051 --> 00:17:29,055
+No.
+
+228
+00:17:55,075 --> 00:17:56,079
+Oh, no!
+
+229
+00:18:13,094 --> 00:18:16,079
+Not bad, old man. No sign of Freeze.
+
+230
+00:18:16,103 --> 00:18:19,114
+Which means the mission isn't over.
+
+231
+00:18:35,123 --> 00:18:38,108
+The cryo-chamber.
+
+232
+00:18:38,132 --> 00:18:41,110
+Cold enough to put me on ice..
+
+233
+00:18:41,134 --> 00:18:44,117
+Until someone wakes me up
+
+234
+00:18:44,141 --> 00:18:48,124
+and puts me back together in a future
+
+235
+00:18:48,148 --> 00:18:51,134
+without The Batman.
+
+236
+00:19:03,161 --> 00:19:06,134
+Still can't believe some fool woke Frost up
+
+237
+00:19:06,158 --> 00:19:07,140
+and put him back together.
+
+238
+00:19:07,164 --> 00:19:09,129
+It's not all bad.
+
+239
+00:19:09,153 --> 00:19:11,148
+Freeze's revival forced us to look for Batman
+
+240
+00:19:11,172 --> 00:19:13,130
+and we found him.
+
+241
+00:19:13,154 --> 00:19:14,140
+We didn't find Batman
+
+242
+00:19:14,164 --> 00:19:17,147
+we found artifacts, lots of pretty things
+
+243
+00:19:17,171 --> 00:19:19,145
+but unless we recover that data
+
+244
+00:19:19,169 --> 00:19:20,181
+nothing of substance.
+
+245
+00:19:21,160 --> 00:19:22,142
+It's no use.
+
+246
+00:19:22,166 --> 00:19:23,158
+This machine just wasn't built
+
+247
+00:19:23,182 --> 00:19:25,187
+to hold code for a 1000 years!
+
+248
+00:19:26,166 --> 00:19:28,161
+The memory anagrams are hopelessly degraded.
+
+249
+00:19:28,185 --> 00:19:31,156
+Unacceptable! Get us access.
+
+250
+00:19:31,180 --> 00:19:33,164
+It can't be done, I'm sorry!
+
+251
+00:19:33,188 --> 00:19:34,196
+Gray, your hand.
+
+252
+00:19:35,175 --> 00:19:36,496
+It's nothing. It's just a scratch.
+
+253
+00:19:39,190 --> 00:19:41,193
+A scratch with a pattern.
+
+254
+00:19:44,197 --> 00:19:46,163
+The titanium!
+
+255
+00:19:46,187 --> 00:19:48,179
+- Gray, what are you... - Binary code.
+
+256
+00:19:48,203 --> 00:19:51,184
+The titanium's covered with binary code.
+
+257
+00:19:51,208 --> 00:19:53,177
+'Batman knew they couldn't survive'
+
+258
+00:19:53,201 --> 00:19:54,187
+'on his primitive computer'
+
+259
+00:19:54,211 --> 00:19:56,213
+'so he found another way!'
+
+260
+00:19:58,197 --> 00:19:59,184
+Have we scanned it all?
+
+261
+00:19:59,208 --> 00:20:00,191
+Can you translate it?
+
+262
+00:20:00,215 --> 00:20:02,208
+Yes. Yes!
+
+263
+00:20:08,215 --> 00:20:09,223
+Here we go.
+
+264
+00:20:12,223 --> 00:20:14,210
+Welcome. If you're viewing this message
+
+265
+00:20:14,234 --> 00:20:16,212
+I can only assume one thing
+
+266
+00:20:16,236 --> 00:20:19,202
+the mission isn't over.
+
+267
+00:20:19,226 --> 00:20:21,201
+'State the nature of the emergency.'
+
+268
+00:20:21,225 --> 00:20:22,210
+Dr. Frost.
+
+269
+00:20:22,234 --> 00:20:24,235
+- Mr. Freeze. - Mr. Freeze.
+
+270
+00:20:32,252 --> 00:20:34,248
+Beautiful.
+
+271
+00:20:37,242 --> 00:20:39,225
+I love the future
+
+272
+00:20:39,249 --> 00:20:43,239
+especially since it's 100% Bat-free.
+
+273
+00:20:43,263 --> 00:20:45,239
+'If you believe that, Freeze'
+
+274
+00:20:45,263 --> 00:20:48,232
+'the cold must be numbing your brain.'
+
+275
+00:20:48,256 --> 00:20:49,258
+What?
+
+276
+00:20:51,263 --> 00:20:54,235
+No, it's not possible.
+
+277
+00:20:54,259 --> 00:20:56,278
+There's nowhere you can run!
+
+278
+00:20:59,265 --> 00:21:01,282
+But I waited a 1000 years.
+
+279
+00:21:02,261 --> 00:21:04,261
+You can't still be here!
+
+280
+00:21:04,285 --> 00:21:06,259
+And yet I am here
+
+281
+00:21:06,283 --> 00:21:09,263
+and always will be here to stop you, Freeze
+
+282
+00:21:09,287 --> 00:21:10,289
+always.
+
+283
+00:21:11,280 --> 00:21:12,289
+No!
+
+284
+00:21:14,296 --> 00:21:17,258
+It can't be!
+
+285
+00:21:17,282 --> 00:21:18,284
+'Freeze.'
+
+286
+00:21:28,290 --> 00:21:31,293
+No-o-o!
+
+287
+00:21:42,311 --> 00:21:45,327
+Mission accomplished. We did it, Gray.
+
+288
+00:21:46,306 --> 00:21:48,308
+But not without The Batman.
+
+289
+00:21:49,316 --> 00:21:50,299
+<i>Even a 1000 years</i>
+
+290
+00:21:50,323 --> 00:21:52,298
+<i>into the future, he refused</i>
+
+291
+00:21:52,322 --> 00:21:54,324
+<i>to leave Gotham unprotected.</i>
+
+292
+00:22:03,325 --> 00:22:05,317
+<i>Time changes nearly everything</i>
+
+293
+00:22:05,341 --> 00:22:08,305
+<i>but the mission and the legend</i>
+
+294
+00:22:08,329 --> 00:22:10,336
+<i>of The Batman lives on.</i>
+

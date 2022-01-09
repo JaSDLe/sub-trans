@@ -1,0 +1,932 @@
+﻿1
+00:00:09,016 --> 00:00:10,999
+'I think it's time for practice.'
+
+2
+00:00:11,023 --> 00:00:14,033
+That must mean you've finished everything on your plate, Dick.
+
+3
+00:00:17,020 --> 00:00:18,037
+Chomp chomp.
+
+4
+00:00:20,032 --> 00:00:22,042
+Okay. Okay. Let's go.
+
+5
+00:00:29,037 --> 00:00:30,049
+Whoo-hoo!
+
+6
+00:00:34,038 --> 00:00:37,059
+I'm telling you, Mary, a leash is the only answer for that boy.
+
+7
+00:00:38,038 --> 00:00:39,055
+Wait for us, son.
+
+8
+00:00:43,044 --> 00:00:45,045
+Dick, your father said to wait.
+
+9
+00:00:51,060 --> 00:00:54,066
+Looks like the circus is in town.
+
+10
+00:00:57,072 --> 00:01:00,074
+Tony Zucco. Welcome to Gotham City.
+
+11
+00:01:04,069 --> 00:01:06,062
+John Grayson, the circus manager.
+
+12
+00:01:06,086 --> 00:01:09,050
+Can I help you?
+
+13
+00:01:09,074 --> 00:01:12,055
+I'd like to think I'm here to help <i>you, John.</i>
+
+14
+00:01:12,079 --> 00:01:15,071
+For a small fee my brothers and I
+
+15
+00:01:15,095 --> 00:01:20,081
+'we'll provide your circus with protection.'
+
+16
+00:01:23,091 --> 00:01:24,077
+Protection?
+
+17
+00:01:24,101 --> 00:01:26,068
+I'm not sure I understand why
+
+18
+00:01:26,092 --> 00:01:28,067
+we would need your protection.
+
+19
+00:01:28,091 --> 00:01:29,097
+Hmm.
+
+20
+00:01:30,100 --> 00:01:32,084
+I come from circus folk myself
+
+21
+00:01:32,108 --> 00:01:36,080
+so let me put this in terms you can understand.
+
+22
+00:01:36,104 --> 00:01:38,085
+You don't pay us, and you'll have to
+
+23
+00:01:38,109 --> 00:01:40,121
+deal with the strongman..
+
+24
+00:01:46,128 --> 00:01:48,130
+'...a lion tamer..'
+
+25
+00:01:52,122 --> 00:01:55,130
+thud '...and a juggler.'
+
+26
+00:01:57,129 --> 00:01:59,131
+bam bam
+
+27
+00:02:01,125 --> 00:02:02,141
+thud.
+
+28
+00:02:05,145 --> 00:02:07,109
+Stop!
+
+29
+00:02:07,133 --> 00:02:08,134
+Dick!
+
+30
+00:02:10,145 --> 00:02:14,121
+You've got quite a family here, John.
+
+31
+00:02:14,145 --> 00:02:16,124
+My pop's always said
+
+32
+00:02:16,148 --> 00:02:19,123
+family is the most important thing.
+
+33
+00:02:19,147 --> 00:02:22,128
+'I know my brothers mean the world to me.'
+
+34
+00:02:22,152 --> 00:02:26,160
+I'm not sure what I'd do if something happened to them.
+
+35
+00:03:00,193 --> 00:03:01,204
+Beep
+
+36
+00:03:15,202 --> 00:03:16,213
+boom
+
+37
+00:03:25,205 --> 00:03:26,214
+whoosh.
+
+38
+00:03:53,234 --> 00:03:55,220
+- Unh! - Let me be blunt, John.
+
+39
+00:03:55,244 --> 00:03:56,233
+I don't think this circus
+
+40
+00:03:56,257 --> 00:03:58,226
+or your family can afford
+
+41
+00:03:58,250 --> 00:04:00,224
+not having our protection.
+
+42
+00:04:00,248 --> 00:04:03,234
+Funny, because I think we can.
+
+43
+00:04:03,258 --> 00:04:08,239
+And what makes you so sure about that, sonny?
+
+44
+00:04:08,263 --> 00:04:11,252
+I called the police five minutes ago.
+
+45
+00:04:12,266 --> 00:04:14,276
+And guess who intercepted that call.
+
+46
+00:04:19,263 --> 00:04:22,263
+Aah! Ooh! Uhh!
+
+47
+00:04:25,286 --> 00:04:27,273
+Huh?
+
+48
+00:04:32,287 --> 00:04:34,288
+Come on! We got to go.
+
+49
+00:04:43,306 --> 00:04:45,291
+Swish.
+
+50
+00:05:09,326 --> 00:05:12,295
+Our family has been divided.
+
+51
+00:05:12,319 --> 00:05:15,317
+I think we should return the favor.
+
+52
+00:05:39,351 --> 00:05:44,324
+Chomp chomp Okay, Dick, come on out now.
+
+53
+00:05:44,348 --> 00:05:47,339
+'No. I look like a loser.'
+
+54
+00:05:47,363 --> 00:05:50,349
+Your mother put a lot of work into the new costumes.
+
+55
+00:05:50,373 --> 00:05:53,376
+'Well, are you gonna just stand there?'
+
+56
+00:05:57,379 --> 00:05:59,357
+Ah! Uh! Aah!
+
+57
+00:05:59,381 --> 00:06:03,378
+Is there a reason why this costume has to be so colorful?
+
+58
+00:06:06,367 --> 00:06:08,359
+Because when I see you up there, Richard
+
+59
+00:06:08,383 --> 00:06:11,371
+'you make me think of a little robin.'
+
+60
+00:06:12,380 --> 00:06:15,362
+Uh! A robin, like the bird.
+
+61
+00:06:15,386 --> 00:06:18,364
+You know, kids my age get beat up for nicknames like that.
+
+62
+00:06:18,388 --> 00:06:23,364
+How about if we call you our flying squirrel? Better?
+
+63
+00:06:23,388 --> 00:06:26,383
+You know, dad, I'm not the only one who looks like a loser.
+
+64
+00:06:26,407 --> 00:06:29,400
+Loser? I'll teach you!
+
+65
+00:06:31,403 --> 00:06:33,407
+- Oh, John. - Ha-ha.
+
+66
+00:06:36,399 --> 00:06:38,391
+Ladies and gentlemen, boys and girls
+
+67
+00:06:38,415 --> 00:06:40,398
+'children of all ages'
+
+68
+00:06:40,422 --> 00:06:42,388
+I present to you
+
+69
+00:06:42,412 --> 00:06:45,403
+the fearless Flying Graysons..
+
+70
+00:06:45,427 --> 00:06:49,390
+'...as always, performing their daring feats'
+
+71
+00:06:49,414 --> 00:06:51,433
+'without the safety of a net.'
+
+72
+00:07:04,440 --> 00:07:07,431
+Aren't they fantastic?
+
+73
+00:07:10,440 --> 00:07:11,446
+Clang.
+
+74
+00:07:41,464 --> 00:07:43,458
+'And now the youngest member'
+
+75
+00:07:43,482 --> 00:07:46,469
+'of this amazing family.'
+
+76
+00:08:01,485 --> 00:08:04,484
+ting ting Huh?
+
+77
+00:08:06,499 --> 00:08:08,471
+Dick!
+
+78
+00:08:08,495 --> 00:08:09,501
+No!
+
+79
+00:08:13,509 --> 00:08:15,494
+I think the Flying Graysons
+
+80
+00:08:15,518 --> 00:08:18,510
+might have to change their name.
+
+81
+00:08:48,536 --> 00:08:51,509
+Hello, Dick. I'm Bruce Wayne.
+
+82
+00:08:51,533 --> 00:08:53,519
+I'm sorry about your loss.
+
+83
+00:08:53,543 --> 00:08:56,533
+Thanks, Mr. Wayne, for everything.
+
+84
+00:08:56,557 --> 00:08:58,551
+I heard you paid for all this.
+
+85
+00:08:59,558 --> 00:09:02,538
+So how are you holding up?
+
+86
+00:09:02,562 --> 00:09:04,533
+I'll be okay
+
+87
+00:09:04,557 --> 00:09:07,552
+at least that's what everyone's been telling me.
+
+88
+00:09:14,574 --> 00:09:16,578
+I miss them.
+
+89
+00:09:17,557 --> 00:09:18,579
+It's just not fair.
+
+90
+00:09:35,576 --> 00:09:37,585
+'Anyway, thanks again.'
+
+91
+00:09:43,605 --> 00:09:47,569
+His parents were all the family that boy had.
+
+92
+00:09:47,593 --> 00:09:49,583
+That's why I've decided to take him in
+
+93
+00:09:49,607 --> 00:09:52,607
+as a foster son, if he'll have me.
+
+94
+00:09:53,607 --> 00:09:54,808
+I was lucky enough to have you
+
+95
+00:09:55,596 --> 00:09:57,605
+to guide me through those dark days, Alfred.
+
+96
+00:10:00,605 --> 00:10:02,602
+'Dick deserves the same.'
+
+97
+00:10:09,617 --> 00:10:10,630
+Welcome home, Dick.
+
+98
+00:10:20,626 --> 00:10:21,619
+Dinner is served.
+
+99
+00:10:21,643 --> 00:10:23,617
+I think this table might be bigger
+
+100
+00:10:23,641 --> 00:10:25,619
+than my family's entire trailer.
+
+101
+00:10:25,643 --> 00:10:29,620
+Indeed. It can seat 22 and sleep half that number.
+
+102
+00:10:29,644 --> 00:10:32,652
+Now, be sure you finish everything on your plate.
+
+103
+00:10:34,644 --> 00:10:36,643
+So where's Bruce?
+
+104
+00:10:37,648 --> 00:10:38,660
+He's never around, is he?
+
+105
+00:10:39,639 --> 00:10:42,655
+Unfortunately, his work demands much of his time.
+
+106
+00:10:46,661 --> 00:10:49,628
+Master Dick has been asking for you.
+
+107
+00:10:49,652 --> 00:10:50,646
+I can't sit back and wait for the police
+
+108
+00:10:50,670 --> 00:10:52,643
+to link the Zuccos to the crime.
+
+109
+00:10:52,667 --> 00:10:55,633
+Now that the boy is part of this family
+
+110
+00:10:55,657 --> 00:10:57,648
+I suspect he may need a father figure
+
+111
+00:10:57,672 --> 00:10:59,655
+more than he needs a crime fighter.
+
+112
+00:10:59,679 --> 00:11:02,640
+The criminal responsible for my parents death
+
+113
+00:11:02,664 --> 00:11:04,644
+was never brought to justice, Alfred.
+
+114
+00:11:04,668 --> 00:11:07,663
+That's a burden I won't let Dick carry.
+
+115
+00:11:07,687 --> 00:11:10,649
+Boss Zucco and his brothers have been harassing
+
+116
+00:11:10,673 --> 00:11:12,656
+Gotham business owners for years.
+
+117
+00:11:12,680 --> 00:11:14,672
+'So far, my only lead is a toothpick I found at the circus'
+
+118
+00:11:14,696 --> 00:11:17,656
+'carrying traces of Zucco's DNA.'
+
+119
+00:11:17,680 --> 00:11:20,668
+'That would seem to confirm what you already know'
+
+120
+00:11:20,692 --> 00:11:21,677
+'his involvement.'
+
+121
+00:11:21,701 --> 00:11:23,677
+This specific brand of toothpick is carried
+
+122
+00:11:23,701 --> 00:11:26,694
+in only two places in Gotham, Alfred.
+
+123
+00:11:28,708 --> 00:11:31,670
+Garrett's Family Restaurant
+
+124
+00:11:31,694 --> 00:11:33,703
+and the Ice Pick Club.
+
+125
+00:11:58,726 --> 00:11:59,732
+Password.
+
+126
+00:12:10,731 --> 00:12:11,752
+Tony Zucco..
+
+127
+00:12:12,751 --> 00:12:14,740
+Where is he?
+
+128
+00:12:16,756 --> 00:12:21,742
+You got a lot of guts coming onto our turf like this.
+
+129
+00:12:33,774 --> 00:12:35,757
+Ugh!
+
+130
+00:12:36,770 --> 00:12:38,778
+'Come on! Let's get out of here. Uh!'
+
+131
+00:12:49,781 --> 00:12:51,767
+- Where is Zucco? - I don't know.
+
+132
+00:12:51,791 --> 00:12:53,763
+He's laying low, but his brothers
+
+133
+00:12:53,787 --> 00:12:55,760
+they're still shaking down parts of Old Gotham.
+
+134
+00:12:55,784 --> 00:12:56,766
+You'll find him there.
+
+135
+00:12:56,790 --> 00:12:58,764
+Tell Zucco I'm coming.
+
+136
+00:12:58,788 --> 00:13:01,781
+Tell him I'm coming for all of them.
+
+137
+00:13:15,817 --> 00:13:18,793
+Master Dick, could I see you? Chop, chop.
+
+138
+00:13:18,817 --> 00:13:20,800
+Huh?
+
+139
+00:13:30,833 --> 00:13:33,832
+'I thought you might want to see this.'
+
+140
+00:13:37,824 --> 00:13:41,808
+One day, Alfred, Zucco's gonna have to pay for what he did.
+
+141
+00:13:41,832 --> 00:13:43,836
+I'm gonna make sure of that.
+
+142
+00:13:46,827 --> 00:13:47,823
+We should prepare for dinner.
+
+143
+00:13:47,847 --> 00:13:52,810
+Perhaps Master Bruce will even join us this evening.
+
+144
+00:13:52,834 --> 00:13:54,855
+And perhaps monkeys will fly out of my butt.
+
+145
+00:14:08,853 --> 00:14:09,865
+Chomp chomp.
+
+146
+00:14:12,853 --> 00:14:14,858
+And, uh, give me one of those.
+
+147
+00:14:17,857 --> 00:14:18,850
+Hmm? Huh!
+
+148
+00:14:18,874 --> 00:14:19,879
+Crash
+
+149
+00:14:21,872 --> 00:14:22,885
+swish
+
+150
+00:14:24,886 --> 00:14:26,874
+pow
+
+151
+00:14:31,893 --> 00:14:35,897
+splat - Huh? - I want answers.
+
+152
+00:14:36,877 --> 00:14:37,872
+Where is Zucco?
+
+153
+00:14:37,896 --> 00:14:40,882
+No way I rat out family.
+
+154
+00:14:44,899 --> 00:14:46,892
+You already have.
+
+155
+00:14:47,888 --> 00:14:48,910
+Pow
+
+156
+00:15:15,931 --> 00:15:16,939
+clack
+
+157
+00:15:26,933 --> 00:15:27,942
+click clack.
+
+158
+00:15:39,946 --> 00:15:43,959
+Wow! Wow! Wow! Wow! Wow!
+
+159
+00:15:58,961 --> 00:15:59,977
+Batman.
+
+160
+00:16:06,969 --> 00:16:07,978
+Uh-oh.
+
+161
+00:16:29,991 --> 00:16:31,002
+You're..
+
+162
+00:16:41,013 --> 00:16:41,997
+'Under the circumstances'
+
+163
+00:16:42,021 --> 00:16:43,982
+it was only a matter of time
+
+164
+00:16:44,006 --> 00:16:45,986
+before you learned my secret.
+
+165
+00:16:46,010 --> 00:16:48,030
+Okay, let's talk about what you saw.
+
+166
+00:16:49,009 --> 00:16:49,997
+You're the Batman, the Dark Knight
+
+167
+00:16:50,021 --> 00:16:51,262
+the world's greatest detective!
+
+168
+00:16:52,011 --> 00:16:52,998
+That's you!
+
+169
+00:16:53,022 --> 00:16:54,006
+And it's in large part
+
+170
+00:16:54,030 --> 00:16:57,038
+why you haven't seen a lot of me lately.
+
+171
+00:16:58,017 --> 00:17:00,179
+I don't want your childhood to be consumed by revenge..
+
+172
+00:17:02,029 --> 00:17:03,042
+Like mine was.
+
+173
+00:17:06,025 --> 00:17:08,032
+You're going after Zucco, aren't you?
+
+174
+00:17:12,038 --> 00:17:13,031
+No. That's for me.
+
+175
+00:17:13,055 --> 00:17:16,044
+I wanna make sure he gets what's coming to him.
+
+176
+00:17:18,040 --> 00:17:20,018
+Maybe we should finish this in the morning.
+
+177
+00:17:20,042 --> 00:17:21,048
+It's late.
+
+178
+00:17:24,044 --> 00:17:26,026
+Late for Bruce Wayne
+
+179
+00:17:26,050 --> 00:17:28,054
+'early for the Batman.'
+
+180
+00:17:33,069 --> 00:17:35,040
+Zucco..
+
+181
+00:17:35,064 --> 00:17:37,064
+I know you're here.
+
+182
+00:17:41,070 --> 00:17:42,073
+Boom.
+
+183
+00:17:46,078 --> 00:17:49,084
+If I find Batman, I find Zucco.
+
+184
+00:17:57,087 --> 00:17:59,067
+The circus.
+
+185
+00:17:59,091 --> 00:18:01,101
+But I can't go dressed like this.
+
+186
+00:18:13,097 --> 00:18:15,114
+Mornin', sunshine.
+
+187
+00:18:18,109 --> 00:18:22,090
+You know, being here has really brought back memories.
+
+188
+00:18:22,114 --> 00:18:23,125
+Believe it or not
+
+189
+00:18:24,104 --> 00:18:27,129
+once upon a time my pops and I were in the circus.
+
+190
+00:18:28,108 --> 00:18:29,097
+We were knife throwers.
+
+191
+00:18:29,121 --> 00:18:31,104
+'Well, I threw the knives'
+
+192
+00:18:31,128 --> 00:18:34,113
+and dad hoped I wouldn't hit him.
+
+193
+00:18:35,120 --> 00:18:37,125
+It was quite an act, really.
+
+194
+00:18:40,123 --> 00:18:41,110
+Zing.
+
+195
+00:18:41,134 --> 00:18:43,119
+We put him on a board just like the one you're on
+
+196
+00:18:43,143 --> 00:18:46,113
+and I'd say, "Ladies and gentlemen
+
+197
+00:18:46,137 --> 00:18:48,110
+"please don't try this at home.
+
+198
+00:18:48,134 --> 00:18:50,142
+I'm a trained professional."
+
+199
+00:18:51,153 --> 00:18:53,118
+'Then my dad would say'
+
+200
+00:18:53,142 --> 00:18:55,121
+'"I knew we should have given you'
+
+201
+00:18:55,145 --> 00:18:57,126
+piano lessons instead."
+
+202
+00:18:57,150 --> 00:18:58,128
+Ha-ha.
+
+203
+00:18:58,152 --> 00:19:01,129
+Always good for a laugh.
+
+204
+00:19:01,153 --> 00:19:03,127
+Zing ching ching ching.
+
+205
+00:19:03,151 --> 00:19:05,143
+Why'd you give up such a promising career?
+
+206
+00:19:05,167 --> 00:19:09,154
+Well, one day, I missed.
+
+207
+00:19:11,153 --> 00:19:14,159
+Swish clang.
+
+208
+00:19:15,164 --> 00:19:16,170
+Huh?
+
+209
+00:19:23,183 --> 00:19:26,156
+'So Batman's got family, too.'
+
+210
+00:19:26,180 --> 00:19:27,189
+Cute.
+
+211
+00:19:48,209 --> 00:19:52,200
+Didn't you parents ever teach you any manners?
+
+212
+00:20:11,227 --> 00:20:14,216
+Creak.
+
+213
+00:20:16,217 --> 00:20:19,208
+I watched you take down my brother, Batman.
+
+214
+00:20:19,232 --> 00:20:22,228
+Now it's your turn to watch.
+
+215
+00:20:28,227 --> 00:20:29,249
+Huh?
+
+216
+00:20:53,257 --> 00:20:55,242
+Huh? No.
+
+217
+00:20:55,266 --> 00:20:56,253
+A-a-aah!
+
+218
+00:20:56,277 --> 00:20:58,266
+Zucco!
+
+219
+00:21:03,270 --> 00:21:05,266
+Huh?
+
+220
+00:21:08,267 --> 00:21:09,268
+Ohh!
+
+221
+00:21:24,294 --> 00:21:26,263
+Nice save.
+
+222
+00:21:26,287 --> 00:21:29,271
+But I thought you wanted Zucco to get what was coming to him.
+
+223
+00:21:29,295 --> 00:21:31,275
+Well, he did, didn't he?
+
+224
+00:21:31,299 --> 00:21:32,310
+Justice.
+
+225
+00:21:35,295 --> 00:21:36,287
+I've been thinking, Dick.
+
+226
+00:21:36,311 --> 00:21:38,284
+I'm not sure Bruce Wayne has what it takes
+
+227
+00:21:38,308 --> 00:21:39,297
+to raise you properly.
+
+228
+00:21:39,321 --> 00:21:42,288
+Yeah, I kind of noticed he's never around.
+
+229
+00:21:42,312 --> 00:21:46,307
+But if not Bruce Wayne, what about the Batman?
+
+230
+00:21:47,306 --> 00:21:49,311
+We'd have to give you a name.
+
+231
+00:21:55,319 --> 00:21:57,305
+How about Robin?
+
+232
+00:21:57,329 --> 00:21:59,297
+Like the bird?
+
+233
+00:21:59,321 --> 00:22:00,341
+It's a family name.
+

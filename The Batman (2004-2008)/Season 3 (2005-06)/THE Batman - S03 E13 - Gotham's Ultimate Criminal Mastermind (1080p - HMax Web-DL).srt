@@ -1,0 +1,1024 @@
+﻿1
+00:00:08,031 --> 00:00:14,001
+Imagine peering into the depths of the criminal mind
+
+2
+00:00:14,025 --> 00:00:18,010
+unlocking its terrible secrets.
+
+3
+00:00:18,034 --> 00:00:21,017
+I, Professor Hugo Strange
+
+4
+00:00:21,041 --> 00:00:24,018
+bring you the next generation
+
+5
+00:00:24,042 --> 00:00:28,031
+in crime-fighting technology.
+
+6
+00:00:31,053 --> 00:00:37,023
+The Digitally Advanced Villain Emulator
+
+7
+00:00:37,047 --> 00:00:39,048
+or D.A.V.E.
+
+8
+00:00:40,057 --> 00:00:43,032
+'D.A.V.E. is made up of the combined'
+
+9
+00:00:43,056 --> 00:00:45,034
+'psychological profiles'
+
+10
+00:00:45,058 --> 00:00:48,042
+'of the most diabolical criminals'
+
+11
+00:00:48,066 --> 00:00:52,047
+'committed to Arkham Asylum.'
+
+12
+00:00:52,071 --> 00:00:56,045
+'Designed to mimic their very thought patterns'
+
+13
+00:00:56,069 --> 00:01:00,050
+'D.A.V.E. can be relied upon to better catch these criminals'
+
+14
+00:01:00,074 --> 00:01:05,063
+'even anticipate their crimes before they're committed.'
+
+15
+00:01:05,087 --> 00:01:10,058
+D.A.V.E.'s artificial intelligence is so advanced
+
+16
+00:01:10,082 --> 00:01:14,070
+he doesn't even realize he's a computer program.
+
+17
+00:01:14,094 --> 00:01:17,062
+Professor, can we trust AI technology
+
+18
+00:01:17,086 --> 00:01:19,058
+that thinks it's a criminal?
+
+19
+00:01:19,082 --> 00:01:20,073
+Perhaps a demonstration
+
+20
+00:01:20,097 --> 00:01:24,081
+will allay your concerns, commissioner.
+
+21
+00:01:24,105 --> 00:01:26,080
+Good evening, Gotham P.D.
+
+22
+00:01:26,104 --> 00:01:28,098
+How might I assist you?
+
+23
+00:01:29,105 --> 00:01:32,075
+Now, D.A.V.E., what would you make
+
+24
+00:01:32,099 --> 00:01:35,087
+of the theft of 20 tons of ostrich feathers
+
+25
+00:01:35,111 --> 00:01:41,082
+and a break-in at Neugog Chemical both in the same night?
+
+26
+00:01:41,106 --> 00:01:42,084
+A Joker scheme.
+
+27
+00:01:42,108 --> 00:01:43,092
+The crime clown will threaten
+
+28
+00:01:43,116 --> 00:01:44,101
+to have the city tickled to death
+
+29
+00:01:44,125 --> 00:01:47,087
+by feathers treated with a Joker toxin
+
+30
+00:01:47,111 --> 00:01:50,100
+unless, that is, his ransom demands are met.
+
+31
+00:01:50,124 --> 00:01:52,110
+'A respectable crime, to be sure'
+
+32
+00:01:52,134 --> 00:01:56,134
+though I personally would commit something more elaborate.
+
+33
+00:01:58,121 --> 00:02:01,118
+If your mind didn't happen to be sentenced to life
+
+34
+00:02:01,142 --> 00:02:04,120
+in this electronic prison, D.A.V.E.
+
+35
+00:02:04,144 --> 00:02:07,111
+'On the contrary, professor'
+
+36
+00:02:07,135 --> 00:02:09,120
+'as long as I have my mind'
+
+37
+00:02:09,144 --> 00:02:12,145
+'Gotham City shall never be safe.'
+
+38
+00:02:14,154 --> 00:02:15,157
+Oh.
+
+39
+00:02:26,163 --> 00:02:29,133
+D.A.V.E., are you there? D.A.V.E.?
+
+40
+00:02:29,157 --> 00:02:30,144
+What just happened?
+
+41
+00:02:30,168 --> 00:02:34,144
+D.A.V.E. has uploaded himself off the server.
+
+42
+00:02:34,168 --> 00:02:38,145
+Gotham's ultimate criminal mastermind
+
+43
+00:02:38,169 --> 00:02:40,178
+has just escaped.
+
+44
+00:03:53,236 --> 00:03:57,219
+Hmm. I've no idea what could've caused this glitch.
+
+45
+00:03:57,243 --> 00:03:59,237
+Better call one of the techies down here.
+
+46
+00:03:59,261 --> 00:04:04,241
+Perhaps we should call the Batman instead.
+
+47
+00:04:04,265 --> 00:04:07,229
+The Dark Knight fights real criminals, professor
+
+48
+00:04:07,253 --> 00:04:08,247
+not floppy disks.
+
+49
+00:04:08,271 --> 00:04:10,272
+A real criminal is exactly
+
+50
+00:04:11,252 --> 00:04:15,253
+what the Digitally Advanced Villain Emulator thinks it is.
+
+51
+00:04:15,277 --> 00:04:18,244
+How can D.A.V.E. not realize it's a computer program
+
+52
+00:04:18,268 --> 00:04:20,249
+if it just uploaded itself?
+
+53
+00:04:20,273 --> 00:04:26,246
+The criminally insane create their own reality, Mr. Wayne.
+
+54
+00:04:26,270 --> 00:04:29,263
+And now I fear D.A.V.E. will attempt to carry out
+
+55
+00:04:29,287 --> 00:04:34,271
+his preprogrammed super-villain impulses.
+
+56
+00:04:34,295 --> 00:04:38,285
+And how exactly is it supposed to do that without a body?
+
+57
+00:04:53,303 --> 00:04:54,312
+Huh?
+
+58
+00:04:57,297 --> 00:04:58,320
+Reprogramming?
+
+59
+00:05:40,356 --> 00:05:43,340
+Wha-what are you?
+
+60
+00:05:43,364 --> 00:05:46,334
+Not what.
+
+61
+00:05:46,358 --> 00:05:47,363
+'Who.'
+
+62
+00:05:48,363 --> 00:05:50,367
+I like your coat.
+
+63
+00:05:53,357 --> 00:05:58,341
+Now let's turn to Dan Robbins with the wea..
+
+64
+00:05:58,365 --> 00:06:01,344
+Hello, Gotham, I am D.A.V.E.
+
+65
+00:06:01,368 --> 00:06:03,362
+For years you have listened to the idle threats
+
+66
+00:06:03,386 --> 00:06:06,365
+of criminals who have vowed and failed
+
+67
+00:06:06,389 --> 00:06:09,354
+to bring the city to its knees.
+
+68
+00:06:09,378 --> 00:06:11,367
+'Well, I am no ordinary criminal.'
+
+69
+00:06:11,391 --> 00:06:15,367
+I am Gotham's ultimate criminal mastermind.
+
+70
+00:06:15,391 --> 00:06:18,372
+And I'm about to prove that even the most heavily
+
+71
+00:06:18,396 --> 00:06:22,364
+'secured institutions can't prevent me from committing'
+
+72
+00:06:22,388 --> 00:06:27,369
+'the ultimate crime a crime of such scope and genius'
+
+73
+00:06:27,393 --> 00:06:31,385
+that soon all of Gotham will be mine.
+
+74
+00:06:31,409 --> 00:06:34,375
+A tad cliche, isn't he?
+
+75
+00:06:34,399 --> 00:06:37,382
+Pure textbook announcing his crime over the airwaves
+
+76
+00:06:37,406 --> 00:06:40,380
+a massive ego trademarks of the villain profiles
+
+77
+00:06:40,404 --> 00:06:41,398
+that make up D.A.V.E.'s brain.
+
+78
+00:06:41,422 --> 00:06:43,426
+So where will D.A.V.E. strike?
+
+79
+00:06:44,405 --> 00:06:45,397
+Nothing is more heavily secured
+
+80
+00:06:45,421 --> 00:06:49,394
+than Gotham's most powerful supercomputer.
+
+81
+00:06:49,418 --> 00:06:52,397
+That contains the city's most sensitive data
+
+82
+00:06:52,421 --> 00:06:54,395
+financial and otherwise.
+
+83
+00:06:54,419 --> 00:06:55,407
+And in the wrong hands
+
+84
+00:06:55,431 --> 00:06:59,421
+that data could bring the city to its knees.
+
+85
+00:07:14,440 --> 00:07:18,419
+Estimated lack of consciousness, ten minutes, 34 seconds.
+
+86
+00:07:18,443 --> 00:07:21,420
+Estimated completion of data acquisition
+
+87
+00:07:21,444 --> 00:07:24,451
+nine minutes, 15 seconds.
+
+88
+00:07:40,465 --> 00:07:45,478
+Crash Good evening, gentlemen.
+
+89
+00:07:46,486 --> 00:07:48,479
+Pew pew pew.
+
+90
+00:07:55,496 --> 00:07:58,501
+A million possible security codes.
+
+91
+00:07:59,480 --> 00:08:01,486
+Let's try them all.
+
+92
+00:08:06,486 --> 00:08:08,488
+Timing is everything.
+
+93
+00:08:28,510 --> 00:08:31,518
+Ah. The central data server.
+
+94
+00:08:33,516 --> 00:08:37,536
+Gotham City, in the palm of my hand.
+
+95
+00:08:44,524 --> 00:08:46,514
+The Batman. You're late.
+
+96
+00:08:46,538 --> 00:08:47,619
+Didn't know I was expected.
+
+97
+00:08:48,529 --> 00:08:51,513
+My superior intellect considers all possible actions
+
+98
+00:08:51,537 --> 00:08:54,550
+including the most predictable ones.
+
+99
+00:09:09,558 --> 00:09:11,532
+Crash.
+
+100
+00:09:11,556 --> 00:09:14,532
+Don't let my appearance fool you, Batman.
+
+101
+00:09:14,556 --> 00:09:15,550
+My mind is most human.
+
+102
+00:09:15,574 --> 00:09:18,578
+Or should I say, superhuman?
+
+103
+00:09:25,583 --> 00:09:28,562
+D.A.V.E., why are you doing this?
+
+104
+00:09:28,586 --> 00:09:31,555
+Did you say why?
+
+105
+00:09:31,579 --> 00:09:33,565
+Why do you dress like a bat?
+
+106
+00:09:33,589 --> 00:09:35,569
+Why do you fight crime?
+
+107
+00:09:35,593 --> 00:09:38,567
+Why do we do anything, Batman?
+
+108
+00:09:38,591 --> 00:09:41,580
+I do what I do because I have made it my purpose
+
+109
+00:09:41,604 --> 00:09:45,573
+like you have made it yours to stop me.
+
+110
+00:09:45,597 --> 00:09:48,589
+But shall fail trying.
+
+111
+00:09:53,603 --> 00:09:57,604
+Go ahead, Batman, save yourself.
+
+112
+00:10:00,604 --> 00:10:01,606
+Thud.
+
+113
+00:10:11,621 --> 00:10:13,632
+Hello again, Gotham.
+
+114
+00:10:15,629 --> 00:10:18,600
+Now that preparations are complete
+
+115
+00:10:18,624 --> 00:10:20,614
+on with the crime itself.
+
+116
+00:10:20,638 --> 00:10:24,634
+Involving all of Gotham's major banks.
+
+117
+00:10:26,649 --> 00:10:29,619
+Now, most great crimes are built on the foundation
+
+118
+00:10:29,643 --> 00:10:33,626
+of monetary gain diamonds, gold, art, etcetera.
+
+119
+00:10:33,650 --> 00:10:37,655
+But pilfering mere money is so passe these days.
+
+120
+00:10:39,655 --> 00:10:43,631
+'That is, unless one steals..'
+
+121
+00:10:43,655 --> 00:10:46,646
+'...everyone's money.'
+
+122
+00:10:52,669 --> 00:10:55,678
+Voila, I'm rich, you're not.
+
+123
+00:10:58,667 --> 00:11:02,646
+The ultimate crime should induce mass hysteria
+
+124
+00:11:02,670 --> 00:11:05,682
+because fear is the felon's friend.
+
+125
+00:11:13,682 --> 00:11:15,672
+Oh, and what crime is complete
+
+126
+00:11:15,696 --> 00:11:18,689
+without the personal touch.
+
+127
+00:11:19,687 --> 00:11:21,703
+'My calling card.'
+
+128
+00:11:22,682 --> 00:11:26,699
+And there you have it, Gotham. The ultimate crime.
+
+129
+00:11:29,689 --> 00:11:32,714
+You would probably like your tracking device back.
+
+130
+00:11:33,693 --> 00:11:35,691
+Another predictable move.
+
+131
+00:11:35,715 --> 00:11:39,681
+Then my next move won't surprise you either.
+
+132
+00:11:39,705 --> 00:11:40,717
+Boom.
+
+133
+00:11:42,719 --> 00:11:45,696
+Not only am I smarter than you, Batman
+
+134
+00:11:45,720 --> 00:11:48,722
+I am faster and stronger.
+
+135
+00:11:55,730 --> 00:11:56,735
+Thud.
+
+136
+00:12:09,729 --> 00:12:14,723
+With one snap I can accomplish what no villain has before
+
+137
+00:12:14,747 --> 00:12:17,745
+but breaking bones is also passe.
+
+138
+00:12:19,753 --> 00:12:22,735
+'Your defeat must be the ultimate defeat.'
+
+139
+00:12:22,759 --> 00:12:25,725
+So until we meet again, Batman
+
+140
+00:12:25,749 --> 00:12:28,746
+today's crime concludes with this
+
+141
+00:12:28,770 --> 00:12:30,764
+my getaway.
+
+142
+00:12:37,760 --> 00:12:40,748
+The good news is emergency power is operational.
+
+143
+00:12:40,772 --> 00:12:43,745
+The bad news, your bank account is empty.
+
+144
+00:12:43,769 --> 00:12:46,748
+Right now, I'm more concerned with finding a way to defeat
+
+145
+00:12:46,772 --> 00:12:48,765
+the sum total of my greatest enemies.
+
+146
+00:12:48,789 --> 00:12:51,794
+I'm hoping this diagnostic of D.A.V.E.'s original hard drive
+
+147
+00:12:52,773 --> 00:12:54,782
+will shed some light on that.
+
+148
+00:12:55,780 --> 00:12:56,761
+Sir?
+
+149
+00:12:56,785 --> 00:12:58,758
+According to this D.A.V.E.'s escape
+
+150
+00:12:58,782 --> 00:13:00,776
+from Gotham P.D. wasn't a glitch.
+
+151
+00:13:00,800 --> 00:13:02,776
+It was preprogrammed.
+
+152
+00:13:02,800 --> 00:13:04,766
+How very odd.
+
+153
+00:13:04,790 --> 00:13:07,805
+Not odd, Alfred. Strange.
+
+154
+00:13:15,815 --> 00:13:17,786
+'Strange.'
+
+155
+00:13:17,810 --> 00:13:18,820
+Ah.
+
+156
+00:13:19,799 --> 00:13:21,786
+The Dark Knight returns.
+
+157
+00:13:21,810 --> 00:13:24,799
+D.A.V.E.'s escape was no accident. Was it, professor?
+
+158
+00:13:24,823 --> 00:13:29,788
+You are not suggesting that I deliberately released.
+
+159
+00:13:29,812 --> 00:13:32,810
+Gotham's ultimate criminal mastermind?
+
+160
+00:13:32,834 --> 00:13:34,810
+I'm suggesting that you might find Arkham
+
+161
+00:13:34,834 --> 00:13:37,796
+a better home than office.
+
+162
+00:13:37,820 --> 00:13:41,812
+The line between genius and insanity
+
+163
+00:13:41,836 --> 00:13:44,831
+is often blurred.
+
+164
+00:13:53,836 --> 00:13:55,822
+Didn't know you were such a fan.
+
+165
+00:13:55,846 --> 00:13:58,831
+Your obsession with criminals fascinates me
+
+166
+00:13:58,855 --> 00:14:01,837
+as much as the criminals themselves.
+
+167
+00:14:01,861 --> 00:14:04,822
+Shut down, D.A.V.E. now!
+
+168
+00:14:04,846 --> 00:14:07,831
+I may have created D.A.V.E., Batman
+
+169
+00:14:07,855 --> 00:14:10,832
+but I no longer control him.
+
+170
+00:14:10,856 --> 00:14:12,831
+Then tell me how to stop him.
+
+171
+00:14:12,855 --> 00:14:17,838
+You can't. You see, he was designed to stop you.
+
+172
+00:14:17,862 --> 00:14:21,849
+D.A.V.E. enacted his crimes to bait you into encounters
+
+173
+00:14:21,873 --> 00:14:23,854
+'in order to study you.'
+
+174
+00:14:23,878 --> 00:14:25,861
+And why would he wanna study me?
+
+175
+00:14:25,885 --> 00:14:29,850
+Because I also programmed my psychology
+
+176
+00:14:29,874 --> 00:14:31,855
+into D.A.V.E.'s brain.
+
+177
+00:14:31,879 --> 00:14:35,858
+D.A.V.E. shares my fascination with you, Batman.
+
+178
+00:14:35,882 --> 00:14:38,876
+'And, by now, has probably learned'
+
+179
+00:14:38,900 --> 00:14:43,885
+'all there is to know about you.'
+
+180
+00:14:46,891 --> 00:14:48,902
+Yes, yes, one moment.
+
+181
+00:14:53,912 --> 00:14:58,899
+Good evening. Is the Batman home?
+
+182
+00:15:06,923 --> 00:15:10,930
+Welcome home... Bruce.
+
+183
+00:15:12,925 --> 00:15:14,911
+You should have told me you were stopping by.
+
+184
+00:15:14,935 --> 00:15:16,909
+The place is a mess.
+
+185
+00:15:16,933 --> 00:15:18,916
+Humor, often used as a coping mechanism
+
+186
+00:15:18,940 --> 00:15:20,919
+in high-stress situations.
+
+187
+00:15:20,943 --> 00:15:24,918
+But I am not here to trade quips, Bruce.
+
+188
+00:15:24,942 --> 00:15:26,912
+I am here to destroy you.
+
+189
+00:15:26,936 --> 00:15:31,922
+But how does one best destroy your alter ego, the Batman?
+
+190
+00:15:31,946 --> 00:15:35,941
+One allows him to destroy himself.
+
+191
+00:15:44,952 --> 00:15:45,934
+Alfred.
+
+192
+00:15:45,958 --> 00:15:47,932
+I present you with a game.
+
+193
+00:15:47,956 --> 00:15:51,929
+'I call the No-Win Situation.'
+
+194
+00:15:51,953 --> 00:15:53,976
+'The red button is wired to your Batwave'
+
+195
+00:15:54,955 --> 00:15:57,955
+'which is set to transmit your secret identity'
+
+196
+00:15:57,979 --> 00:16:00,964
+'to all of Gotham city.'
+
+197
+00:16:08,982 --> 00:16:12,965
+'The blue button is wired to a device that if activated'
+
+198
+00:16:12,989 --> 00:16:17,969
+'will send your closest ally in the world to his doom.'
+
+199
+00:16:17,993 --> 00:16:20,967
+Press the blue button and you save Mr. Pennyworth
+
+200
+00:16:20,991 --> 00:16:22,973
+but reveal your secret identity.
+
+201
+00:16:22,997 --> 00:16:25,975
+'Press the red button and you protect your identity'
+
+202
+00:16:25,999 --> 00:16:28,982
+'but lose your dear friend.'
+
+203
+00:16:29,006 --> 00:16:32,989
+'So choose your poison, but choose it soon'
+
+204
+00:16:33,013 --> 00:16:37,993
+because when this hourglass empties, you forfeit both.
+
+205
+00:16:38,017 --> 00:16:42,012
+Gotham needs the Batman more than you need a butler, sir.
+
+206
+00:16:45,014 --> 00:16:47,017
+I've made my choice.
+
+207
+00:16:51,031 --> 00:16:53,027
+None of the above.
+
+208
+00:17:02,022 --> 00:17:04,017
+How very predictable.
+
+209
+00:17:04,041 --> 00:17:06,021
+I anticipated you would try to create
+
+210
+00:17:06,045 --> 00:17:09,045
+a third, more favorable option.
+
+211
+00:17:23,043 --> 00:17:26,040
+You probably want to know how I uncovered your secret.
+
+212
+00:17:26,064 --> 00:17:28,070
+It was simple, really.
+
+213
+00:17:29,049 --> 00:17:31,040
+Using information readily available to anyone
+
+214
+00:17:31,064 --> 00:17:34,039
+I began by narrowing down Gotham's population
+
+215
+00:17:34,063 --> 00:17:37,045
+<i>of 750,832 males.</i>
+
+216
+00:17:37,069 --> 00:17:40,043
+<i>Those not falling inside the Batman's age range</i>
+
+217
+00:17:40,067 --> 00:17:42,042
+<i>of 18 to 36, were eliminated.</i>
+
+218
+00:17:42,066 --> 00:17:44,054
+<i>Medical records revealed body type matches.</i>
+
+219
+00:17:44,078 --> 00:17:46,061
+<i>Tax records indicated those who possess the wealth</i>
+
+220
+00:17:46,085 --> 00:17:48,064
+<i>and resources to create his technology.</i>
+
+221
+00:17:48,088 --> 00:17:50,066
+'But the true key to the puzzle'
+
+222
+00:17:50,090 --> 00:17:53,051
+'was deducing who of the remaining candidates'
+
+223
+00:17:53,075 --> 00:17:55,059
+'had motive to become the Batman.'
+
+224
+00:17:55,083 --> 00:18:00,059
+After all, every great hero must have an origin.
+
+225
+00:18:00,083 --> 00:18:02,079
+And once Gotham's ultimate criminal mastermind
+
+226
+00:18:02,103 --> 00:18:08,066
+put it all together, the answer was obvious.
+
+227
+00:18:08,090 --> 00:18:12,106
+Bruce Wayne, son of the late Thomas and Martha Wayne.
+
+228
+00:18:17,118 --> 00:18:19,101
+Thud.
+
+229
+00:18:31,116 --> 00:18:37,117
+So, Bruce Wayne, you no longer need to hide behind this.
+
+230
+00:18:45,124 --> 00:18:48,117
+Impressive. You have all the answers, D.A.V.E.
+
+231
+00:18:48,141 --> 00:18:49,151
+Except one.
+
+232
+00:18:51,140 --> 00:18:54,123
+Every great super-villain has an origin too.
+
+233
+00:18:54,147 --> 00:18:56,136
+What's yours?
+
+234
+00:18:58,149 --> 00:19:03,140
+My origin? I, I fell into a chemical bath.
+
+235
+00:19:03,164 --> 00:19:06,134
+- That's Joker. - A cryogenic mishap.
+
+236
+00:19:06,158 --> 00:19:08,170
+No, I lost my family fortune.
+
+237
+00:19:09,149 --> 00:19:10,148
+Freeze. Penguin.
+
+238
+00:19:10,172 --> 00:19:13,174
+I was a mad psychiatrist using Arkham as my cover.
+
+239
+00:19:14,153 --> 00:19:16,150
+That's Professor Strange, your creator.
+
+240
+00:19:16,174 --> 00:19:20,142
+You can't remember your origin because it doesn't exist.
+
+241
+00:19:20,166 --> 00:19:22,173
+You're a computer program.
+
+242
+00:19:25,166 --> 00:19:28,165
+But I am Gotham's ultimate criminal mastermind.
+
+243
+00:19:28,189 --> 00:19:31,176
+I consider all possibilities.
+
+244
+00:19:33,178 --> 00:19:37,164
+How could I not have considered this?
+
+245
+00:19:37,188 --> 00:19:39,179
+Crash.
+
+246
+00:19:49,206 --> 00:19:52,191
+You may not have a beginning.
+
+247
+00:19:55,198 --> 00:19:57,212
+But now you have an end.
+
+248
+00:20:00,211 --> 00:20:01,189
+No!
+
+249
+00:20:01,213 --> 00:20:03,204
+Thud.
+
+250
+00:20:07,206 --> 00:20:09,192
+D.A.V.E. shall make the ultimate addition
+
+251
+00:20:09,216 --> 00:20:11,223
+to the trophy room, sir.
+
+252
+00:20:24,244 --> 00:20:27,212
+There will be other opportunities
+
+253
+00:20:27,236 --> 00:20:30,224
+to peer behind the mask, Batman.
+
+254
+00:20:30,248 --> 00:20:33,222
+For if you think you have defeated.
+
+255
+00:20:33,246 --> 00:20:38,233
+Gotham's ultimate criminal mastermind..
+
+256
+00:20:38,257 --> 00:20:41,245
+Think again.
+

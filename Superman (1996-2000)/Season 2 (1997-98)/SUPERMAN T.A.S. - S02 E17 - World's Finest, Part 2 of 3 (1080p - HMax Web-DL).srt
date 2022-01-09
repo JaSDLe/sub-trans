@@ -1,0 +1,808 @@
+﻿1
+00:01:04,715 --> 00:01:06,013
+<i>Previously on</i> Superman:
+
+2
+00:01:06,183 --> 00:01:08,709
+I just wanted to let you know I'll be in late tomorrow-
+
+3
+00:01:09,086 --> 00:01:10,714
+I'm having breakfast with Bruce-
+
+4
+00:01:10,888 --> 00:01:11,888
+Isn't that special-
+
+5
+00:01:12,189 --> 00:01:15,284
+He's very thoughtful and much deeper than the gossip mongers...
+
+6
+00:01:15,459 --> 00:01:16,950
+would lead you to believe-
+
+7
+00:01:17,361 --> 00:01:18,454
+You'd be surprised-
+
+8
+00:01:19,930 --> 00:01:21,296
+Where's The Joker?
+
+9
+00:01:21,799 --> 00:01:23,097
+Lexy, old kid-
+
+10
+00:01:23,534 --> 00:01:26,993
+Pay me one billion dollars, and I'll kill Superman-
+
+11
+00:01:29,874 --> 00:01:32,935
+The Joker has 20 pounds more where this came from-
+
+12
+00:01:33,277 --> 00:01:36,008
+You know I can't be connected to this in any way-
+
+13
+00:01:36,180 --> 00:01:37,180
+Deal?
+
+14
+00:01:37,548 --> 00:01:38,777
+Deal-
+
+15
+00:01:41,786 --> 00:01:44,449
+The senator...
+
+16
+00:01:44,855 --> 00:01:49,190
+declined comment-Done-
+
+17
+00:01:50,194 --> 00:01:51,753
+And not a moment too soon-
+
+18
+00:01:51,929 --> 00:01:53,329
+Bruce-When did you...?
+
+19
+00:01:53,497 --> 00:01:56,558
+About three paragraphs ago- I didn't wanna distract you-
+
+20
+00:01:56,734 --> 00:01:58,327
+Ready to do the town?
+
+21
+00:01:58,502 --> 00:02:02,269
+Give me a minute to see the chief, then I'm all yours-
+
+22
+00:02:04,442 --> 00:02:06,240
+Clark, keep an eye on Bruce, will you?
+
+23
+00:02:07,611 --> 00:02:08,611
+I'll be right back-
+
+24
+00:02:09,847 --> 00:02:12,373
+- Actually, Lois... - Don't be intimidated-
+
+25
+00:02:12,550 --> 00:02:16,009
+Regale him with madcap tales of the nightlife in Smallville-
+
+26
+00:02:17,588 --> 00:02:19,147
+She never stops, does she?
+
+27
+00:02:19,323 --> 00:02:22,691
+Not that I've noticed- Any luck finding the comedian?
+
+28
+00:02:23,227 --> 00:02:26,356
+Three nights, and not so much as a green hair-
+
+29
+00:02:26,664 --> 00:02:29,691
+Of course, you have been dividing your time between work and Lois-
+
+30
+00:02:29,867 --> 00:02:31,199
+Is that a problem?
+
+31
+00:02:31,669 --> 00:02:35,538
+Let's just say I'm concerned- Your reputation is dubious...
+
+32
+00:02:35,706 --> 00:02:37,231
+in and out of costume-
+
+33
+00:02:37,408 --> 00:02:41,243
+Don't worry- I'm taking Lois quite seriously-
+
+34
+00:02:41,412 --> 00:02:44,780
+Besides, it seems to me you had your chance-
+
+35
+00:02:45,516 --> 00:02:48,645
+So, Mr-Wayne, ready to sweep me off my feet?
+
+36
+00:02:50,955 --> 00:02:52,947
+Be seeing you-
+
+37
+00:03:06,504 --> 00:03:08,939
+This city is gorgeous at night-
+
+38
+00:03:09,106 --> 00:03:11,769
+Is it? I wasn't looking at the city-
+
+39
+00:03:14,912 --> 00:03:19,745
+Lois-About Clark Kent-Are you and he...?
+
+40
+00:03:19,917 --> 00:03:21,385
+I mean...
+
+41
+00:03:21,719 --> 00:03:25,952
+No, Bruce-Your only competition flew away some time ago-
+
+42
+00:03:27,992 --> 00:03:31,724
+My, you do live dangerously-
+
+43
+00:03:34,165 --> 00:03:37,966
+Don't you realize you're moving in on Superman's main squeeze?
+
+44
+00:03:38,169 --> 00:03:40,695
+And then I said...
+
+45
+00:03:43,641 --> 00:03:44,641
+They've got guns!
+
+46
+00:03:54,151 --> 00:03:55,744
+Take your hands off her, you...
+
+47
+00:04:09,867 --> 00:04:11,836
+See that he's street pizza-
+
+48
+00:04:12,002 --> 00:04:14,938
+In this town, some flying fool could have caught him-
+
+49
+00:04:47,371 --> 00:04:50,671
+Well, aren't we tenacious?
+
+50
+00:04:58,549 --> 00:05:00,541
+Catch you next time, Brucie-
+
+51
+00:05:07,992 --> 00:05:10,791
+Swell-Now Gotham's sending us their wackos-
+
+52
+00:05:10,961 --> 00:05:15,160
+Don't worry, Mr-Wayne-The SCU will get her back safe and sound-
+
+53
+00:05:15,666 --> 00:05:17,692
+Thank you, inspector-
+
+54
+00:05:19,270 --> 00:05:22,570
+- You realize she's just the bait- - I'll be careful-
+
+55
+00:05:22,740 --> 00:05:26,802
+Careful won't cut it- With Joker, expect the unexpected-
+
+56
+00:05:26,977 --> 00:05:29,071
+Maybe you should have remembered that-
+
+57
+00:05:35,352 --> 00:05:36,820
+Think of it, Miss Lane-
+
+58
+00:05:36,987 --> 00:05:39,547
+This rock is more precious than gold-
+
+59
+00:05:39,723 --> 00:05:43,990
+One teensy chip will go for thousands on the collectors' market...
+
+60
+00:05:44,461 --> 00:05:47,795
+after it kills your fly boy-
+
+61
+00:05:58,609 --> 00:06:02,011
+- You sick, demented, murdering freak! - How rude-
+
+62
+00:06:05,783 --> 00:06:08,719
+Half for now and half for later-
+
+63
+00:06:09,286 --> 00:06:13,121
+You've got a front row seat for the story of the century, my dear-
+
+64
+00:06:13,590 --> 00:06:16,754
+The death of Superman-
+
+65
+00:06:57,000 --> 00:06:58,093
+SCU, Turpin-
+
+66
+00:06:59,269 --> 00:07:02,762
+<i>Am-scray, turnip. I wanna talk to the boy in blue.</i>
+
+67
+00:07:02,939 --> 00:07:05,101
+You got something to say, clown, say it to...
+
+68
+00:07:05,275 --> 00:07:08,871
+I'm here, Joker-What have you done with Lois Lane?
+
+69
+00:07:09,045 --> 00:07:11,344
+<i>She's right here, Superman...</i>
+
+70
+00:07:11,548 --> 00:07:14,541
+<i>and she'd love to see you.</i>
+
+71
+00:07:14,718 --> 00:07:19,315
+<i>Want to know where here is? Don't blink.</i>
+
+72
+00:07:25,262 --> 00:07:28,721
+<i>Got the picture, Supey? Come alone.</i>
+
+73
+00:07:28,899 --> 00:07:32,597
+<i>No cops or little Lois dies laughing.</i>
+
+74
+00:07:34,838 --> 00:07:37,603
+Wait, what picture? What did he mean?
+
+75
+00:08:05,268 --> 00:08:07,931
+More powerful than a locomotive-
+
+76
+00:08:08,104 --> 00:08:09,629
+And just about as subtle-
+
+77
+00:08:12,742 --> 00:08:16,611
+I'm flattered you put on your Sunday best-
+
+78
+00:08:17,981 --> 00:08:19,609
+Where is she, Joker?
+
+79
+00:08:19,783 --> 00:08:22,343
+Forget about Lois-
+
+80
+00:08:22,986 --> 00:08:25,683
+Feast your eyes on this-
+
+81
+00:08:31,294 --> 00:08:33,422
+Now, I'll ask you once more-
+
+82
+00:08:40,570 --> 00:08:42,198
+I don't understand-
+
+83
+00:08:42,372 --> 00:08:45,968
+I had it all planned so perfectly-
+
+84
+00:08:50,480 --> 00:08:53,644
+- Oh, wait, that's it- - What?
+
+85
+00:08:53,817 --> 00:08:57,117
+Silly me-I forgot the acid-
+
+86
+00:09:10,900 --> 00:09:13,768
+What's the matter, Supey?
+
+87
+00:09:16,072 --> 00:09:18,735
+No steam left in the old locomotive?
+
+88
+00:09:46,503 --> 00:09:49,701
+I hope you're taking notes-
+
+89
+00:09:51,408 --> 00:09:53,741
+- Not now- <i>- But, pudding...</i>
+
+90
+00:09:53,910 --> 00:09:56,903
+<i>- Batman's headed your way.</i> - Get out-
+
+91
+00:10:02,419 --> 00:10:06,754
+Pardon my hasty exit- We have a pest control problem-
+
+92
+00:10:08,625 --> 00:10:11,857
+Feel free to expire any time-
+
+93
+00:10:44,694 --> 00:10:46,822
+I'll be back in a moment-
+
+94
+00:10:54,137 --> 00:10:56,971
+<i>Two for the price of one. I love it.</i>
+
+95
+00:10:57,140 --> 00:10:58,472
+<i>And the best part is...</i>
+
+96
+00:10:58,641 --> 00:11:01,509
+<i>you're all going out with a smile.</i>
+
+97
+00:11:01,678 --> 00:11:04,238
+<i>Have a happy...</i>
+
+98
+00:11:14,057 --> 00:11:18,461
+Hydrochloric acid-It would take a week to eat through the wall-
+
+99
+00:11:18,628 --> 00:11:24,130
+No-Wait-Kryp... Kryptonite-
+
+100
+00:11:42,118 --> 00:11:43,450
+Snap out of it, Kent-
+
+101
+00:11:43,720 --> 00:11:46,519
+Or Joker gets the last laugh-
+
+102
+00:11:51,561 --> 00:11:53,120
+Keep your heads down-
+
+103
+00:12:01,237 --> 00:12:03,138
+They're loose!
+
+104
+00:12:03,306 --> 00:12:05,502
+That's not fair-
+
+105
+00:12:10,280 --> 00:12:12,215
+It's over, Joker-
+
+106
+00:12:16,219 --> 00:12:19,417
+It hasn't begun, Supey-
+
+107
+00:12:20,757 --> 00:12:23,056
+He's gotta be kidding-
+
+108
+00:12:30,066 --> 00:12:34,130
+They're grenades- Expect the unexpected-
+
+109
+00:12:48,351 --> 00:12:51,287
+Thank you-I couldn't have saved Lois without your help-
+
+110
+00:12:51,454 --> 00:12:53,650
+I'm aware of that-
+
+111
+00:13:11,307 --> 00:13:14,106
+Bruce-Bruce Wayne- He was with me when Joker...
+
+112
+00:13:14,277 --> 00:13:16,143
+Is he all right? Do you know?
+
+113
+00:13:16,312 --> 00:13:19,281
+He's fine-Just fine-
+
+114
+00:13:27,956 --> 00:13:31,916
+I wish to assure all of Metropolis that this explosion was non-nuclear-
+
+115
+00:13:32,094 --> 00:13:33,995
+And presents no danger to the community-
+
+116
+00:13:34,362 --> 00:13:39,494
+- Now, if you'll excuse me- - Hey, what about The Joker, Mr-Luthor?
+
+117
+00:13:40,268 --> 00:13:42,430
+You heard the man-
+
+118
+00:13:45,540 --> 00:13:48,169
+What could have possessed me to trust that clown?
+
+119
+00:13:50,011 --> 00:13:54,608
+Hello, Mr-J-I'm Batman- Eat me, eat me, eat me!
+
+120
+00:13:56,585 --> 00:13:59,419
+I know you're trying to cheer me up, Harley-
+
+121
+00:13:59,654 --> 00:14:02,783
+But you see, any time I blow a billion-dollar deal...
+
+122
+00:14:02,958 --> 00:14:04,950
+it really kills my appetite!
+
+123
+00:14:24,246 --> 00:14:29,207
+Honestly, Lex, don't you think I feel bad enough already?
+
+124
+00:14:29,384 --> 00:14:31,615
+You maniac! You idiot!
+
+125
+00:14:31,786 --> 00:14:34,485
+How dare you use one of my laboratories...
+
+126
+00:14:34,497 --> 00:14:35,052
+Harley?
+
+127
+00:14:37,325 --> 00:14:40,659
+- Put him down, baldy- - Mercy-
+
+128
+00:14:42,731 --> 00:14:44,666
+Here's for that punch in the face-
+
+129
+00:14:44,833 --> 00:14:47,701
+Can't we discuss this like gentlemen?
+
+130
+00:14:49,171 --> 00:14:53,609
+Listen to little Miss Can't-Take-A-Joke-
+
+131
+00:14:55,377 --> 00:14:59,314
+Thank you-Have a seat, please-
+
+132
+00:15:01,616 --> 00:15:03,084
+Banzai!
+
+133
+00:15:06,555 --> 00:15:09,286
+You owe me an explanation-
+
+134
+00:15:09,457 --> 00:15:11,289
+The lab was a perfect set-up-
+
+135
+00:15:11,459 --> 00:15:13,451
+How did I know old bat-breath would show up?
+
+136
+00:15:13,995 --> 00:15:17,261
+Batman? He followed you to Metropolis?
+
+137
+00:15:17,432 --> 00:15:19,663
+Oh, right-Like it's my fault-
+
+138
+00:15:19,834 --> 00:15:22,360
+Look, I've still got half the Kryptonite-
+
+139
+00:15:22,537 --> 00:15:24,062
+I can still finish the job-
+
+140
+00:15:24,239 --> 00:15:26,970
+But if I have to cope with two men in tights...
+
+141
+00:15:27,142 --> 00:15:29,668
+the price goes up- - Unacceptable-
+
+142
+00:15:29,844 --> 00:15:33,804
+If you can't handle some mental case in a fright mask, our deal is off-
+
+143
+00:15:35,250 --> 00:15:37,412
+Mercy, let's go-
+
+144
+00:15:37,586 --> 00:15:41,648
+Keep in mind, this is your last chance-
+
+145
+00:15:49,965 --> 00:15:51,524
+How you doing, slugger?
+
+146
+00:15:51,700 --> 00:15:54,829
+A-okay, Mr-J-
+
+147
+00:16:03,712 --> 00:16:05,908
+Hey, Smallville-Come in-What's up?
+
+148
+00:16:06,881 --> 00:16:10,249
+I see you're holding up after last night-I've been...
+
+149
+00:16:13,822 --> 00:16:15,450
+I didn't realize you had company-
+
+150
+00:16:15,624 --> 00:16:18,788
+Whoa, you might at least tell me why you stopped by-
+
+151
+00:16:18,960 --> 00:16:20,292
+I've been nosing around-
+
+152
+00:16:20,495 --> 00:16:23,465
+I think I may know why The Joker is suddenly after Superman-
+
+153
+00:16:23,632 --> 00:16:25,828
+Well, don't keep us in suspense-
+
+154
+00:16:26,968 --> 00:16:30,063
+I think he's in cahoots with your boyfriend's business partner-
+
+155
+00:16:30,238 --> 00:16:32,332
+With Lex? Are you sure?
+
+156
+00:16:32,507 --> 00:16:35,306
+I can't prove it-Yet-
+
+157
+00:16:35,477 --> 00:16:38,743
+I suppose I could ask him-
+
+158
+00:16:50,058 --> 00:16:51,356
+What? Who?
+
+159
+00:16:57,699 --> 00:17:00,430
+- What do you want? - Information-
+
+160
+00:17:00,602 --> 00:17:02,537
+Regarding a mutual acquaintance-
+
+161
+00:17:02,704 --> 00:17:05,071
+What are you talking about? I don't know any...
+
+162
+00:17:07,709 --> 00:17:09,905
+You know exactly who I mean-
+
+163
+00:17:10,211 --> 00:17:13,079
+Where is he? What kind of deal have you made with him?
+
+164
+00:17:13,548 --> 00:17:14,914
+I don't...
+
+165
+00:17:15,083 --> 00:17:16,847
+- I... - Mr-Luthor-Are you all right?
+
+166
+00:17:17,018 --> 00:17:18,350
+- Who's in there? - Open up!
+
+167
+00:17:18,520 --> 00:17:20,216
+- He's in trouble- - The door's locked-
+
+168
+00:17:20,388 --> 00:17:21,754
+I don't have the keys-
+
+169
+00:17:27,829 --> 00:17:31,061
+Think about it-I'll be back-
+
+170
+00:17:32,434 --> 00:17:34,426
+All right, break it in-
+
+171
+00:17:38,139 --> 00:17:40,108
+- Mr-Luthor? - Get out-
+
+172
+00:17:51,152 --> 00:17:53,018
+Contact the clown immediately-
+
+173
+00:17:53,188 --> 00:17:56,522
+It appears we'll have to deal with his friend after all-
+
+174
+00:17:59,861 --> 00:18:00,885
+A transfer?
+
+175
+00:18:01,429 --> 00:18:04,991
+Just to the <i>Planet</i>'s Gotham City bureau-
+
+176
+00:18:05,400 --> 00:18:07,130
+Does this mean you and Bruce...?
+
+177
+00:18:07,602 --> 00:18:10,538
+We haven't made a formal commitment or anything, but...
+
+178
+00:18:10,705 --> 00:18:12,697
+yeah, it's that serious-
+
+179
+00:18:13,308 --> 00:18:16,039
+Hey, chin up, Smallville- With me out of the picture...
+
+180
+00:18:16,211 --> 00:18:17,839
+you might get a shot at stardom-
+
+181
+00:18:18,012 --> 00:18:19,412
+Lois! Clark!
+
+182
+00:18:19,781 --> 00:18:21,943
+I just got word the cruise ship <i>S.S. Atlantis...</i>
+
+183
+00:18:22,117 --> 00:18:24,586
+is sending a distress call 200 miles offshore-
+
+184
+00:18:26,855 --> 00:18:30,724
+Exactly-Call the Coast Guard to confirm and the cruise line for a statement-
+
+185
+00:18:31,426 --> 00:18:33,554
+You're not out of here yet, Lane-
+
+186
+00:19:02,257 --> 00:19:04,021
+What the devil is he up to now?
+
+187
+00:19:04,893 --> 00:19:07,385
+A change of attire, sir?
+
+188
+00:19:08,797 --> 00:19:10,925
+How fast can we get to Hobbs Bay?
+
+189
+00:19:16,070 --> 00:19:19,006
+If I may be so bold- When in Rome, sir...
+
+190
+00:19:30,485 --> 00:19:32,852
+- What's the problem, captain? - What do you mean?
+
+191
+00:19:33,021 --> 00:19:35,013
+You sent out a distress call, didn't you?
+
+192
+00:19:35,356 --> 00:19:38,087
+Not on my authorization-
+
+193
+00:19:43,264 --> 00:19:46,928
+There's the culprit- It's broadcasting an electronic beacon-
+
+194
+00:19:47,101 --> 00:19:50,094
+If one of my crew is responsible for this prank, they...
+
+195
+00:19:55,710 --> 00:19:58,236
+What is it? What's happening?
+
+196
+00:20:02,817 --> 00:20:04,718
+Whoever sent that distress signal...
+
+197
+00:20:05,186 --> 00:20:07,212
+just provided the distress-
+
+198
+00:20:20,869 --> 00:20:23,168
+Copybat, copybat-
+
+199
+00:20:23,638 --> 00:20:27,666
+Suffering from propulsion envy, Batboy?
+
+200
+00:20:34,482 --> 00:20:37,008
+Think of it as a welcome wagon, Bats...
+
+201
+00:20:37,185 --> 00:20:41,350
+welcoming you to the nearest mortuary-
+
+202
+00:21:17,357 --> 00:21:19,349
+[ENGLISH]
+
