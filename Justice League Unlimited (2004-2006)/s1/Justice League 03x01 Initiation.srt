@@ -1,0 +1,1388 @@
+﻿1
+00:00:05,881 --> 00:00:07,747
+honk honk
+
+2
+00:00:18,435 --> 00:00:19,550
+Uh!
+
+3
+00:00:24,942 --> 00:00:26,273
+Everybody down!
+
+4
+00:00:26,485 --> 00:00:27,520
+(male voice #1) 'Down!'
+
+5
+00:00:27,736 --> 00:00:29,977
+[panicked chatter]
+
+6
+00:00:34,409 --> 00:00:35,991
+Uh!
+
+7
+00:00:37,162 --> 00:00:38,277
+cha-ching
+
+8
+00:00:41,250 --> 00:00:44,618
+[bell ringing]
+
+9
+00:00:44,836 --> 00:00:47,168
+[alarm sounding]
+
+10
+00:00:52,094 --> 00:00:54,461
+Come on! That's not gonna do us any good now.
+
+11
+00:00:57,224 --> 00:00:58,305
+I'll sure feel better.
+
+12
+00:00:58,517 --> 00:00:59,598
+whoosh
+
+13
+00:00:59,810 --> 00:01:01,721
+'Uh!'
+
+14
+00:01:01,937 --> 00:01:04,395
+(Green Arrow) But it'll make me a little cranky.
+
+15
+00:01:06,858 --> 00:01:09,225
+[gunfire]
+
+16
+00:01:10,320 --> 00:01:12,027
+[explosion]
+
+17
+00:01:12,239 --> 00:01:13,946
+cough cough cough
+
+18
+00:01:18,954 --> 00:01:19,864
+creak
+
+19
+00:01:20,080 --> 00:01:21,320
+whoosh
+
+20
+00:01:21,540 --> 00:01:22,871
+Aahh!
+
+21
+00:01:25,794 --> 00:01:28,161
+[gunfire]
+
+22
+00:01:29,381 --> 00:01:30,542
+whoosh
+
+23
+00:01:30,757 --> 00:01:32,498
+thud
+
+24
+00:01:32,718 --> 00:01:34,425
+Uh!
+
+25
+00:01:37,180 --> 00:01:38,295
+whoosh
+
+26
+00:01:40,726 --> 00:01:41,841
+thud
+
+27
+00:01:45,897 --> 00:01:47,012
+[crashing]
+
+28
+00:01:54,197 --> 00:01:55,107
+[click]
+
+29
+00:01:55,324 --> 00:01:56,189
+Ah!
+
+30
+00:01:58,785 --> 00:02:01,777
+Well, well, the great and glorious Green Lantern.
+
+31
+00:02:01,997 --> 00:02:03,954
+What, did you run out of alien menaces to beat on?
+
+32
+00:02:04,166 --> 00:02:05,827
+You gotta horn in on my turf?
+
+33
+00:02:06,043 --> 00:02:07,408
+You're welcome.
+
+34
+00:02:07,628 --> 00:02:09,210
+We never heard back from you.
+
+35
+00:02:09,421 --> 00:02:10,582
+Been kind of busy.
+
+36
+00:02:10,797 --> 00:02:12,003
+Someone's gotta keep the streets safe
+
+37
+00:02:12,215 --> 00:02:13,421
+'while you and your pals are out there..'
+
+38
+00:02:13,634 --> 00:02:14,590
+- Ready. - ...zipping around the galaxy..
+
+39
+00:02:14,801 --> 00:02:17,133
+zap
+
+40
+00:02:18,805 --> 00:02:20,887
+...grandstanding and..
+
+41
+00:02:22,476 --> 00:02:24,308
+Glad you could make it.
+
+42
+00:02:28,732 --> 00:02:31,224
+And where am I, exactly?
+
+43
+00:02:31,443 --> 00:02:32,524
+Among friends.
+
+44
+00:02:41,328 --> 00:02:44,195
+[theme music]
+
+45
+00:03:44,850 --> 00:03:47,342
+Each of you brings something different to the table.
+
+46
+00:03:47,561 --> 00:03:51,600
+Strength, speed, stealth, whatever.
+
+47
+00:03:51,815 --> 00:03:54,523
+(Superman) 'But we're all equal in at least one way.'
+
+48
+00:03:54,735 --> 00:03:57,147
+'Each of us is willing to make the sacrifices'
+
+49
+00:03:57,362 --> 00:03:58,693
+'a hero needs to make.'
+
+50
+00:03:58,905 --> 00:04:01,272
+Even the ultimate one.
+
+51
+00:04:01,491 --> 00:04:02,902
+Since there are so many of us
+
+52
+00:04:03,118 --> 00:04:04,574
+we have a chance to do more
+
+53
+00:04:04,786 --> 00:04:08,245
+than just put out fires, both literal and figurative.
+
+54
+00:04:08,457 --> 00:04:10,118
+(Superman) 'We can be proactive.'
+
+55
+00:04:10,333 --> 00:04:12,244
+'We can do some real good in the world.'
+
+56
+00:04:12,461 --> 00:04:13,872
+'But we're gonna have to be organized.'
+
+57
+00:04:14,087 --> 00:04:16,954
+J'onn' ll be up here, keeping an eye on everything.
+
+58
+00:04:17,174 --> 00:04:19,757
+(Superman) 'He'll be the one to decide who's going where and when.'
+
+59
+00:04:19,968 --> 00:04:21,174
+'I know a lot of you are used to making'
+
+60
+00:04:21,386 --> 00:04:22,968
+'Those decisions for yourself.'
+
+61
+00:04:23,180 --> 00:04:26,343
+'But from now on, we have to be more coordinated than that.'
+
+62
+00:04:26,558 --> 00:04:28,720
+We can't be cowboys anymore.
+
+63
+00:04:28,935 --> 00:04:29,800
+Or cowgirls.
+
+64
+00:04:30,020 --> 00:04:33,684
+Ha ha ha..
+
+65
+00:04:33,899 --> 00:04:35,014
+We sent The Lantern for you
+
+66
+00:04:35,233 --> 00:04:37,019
+because you never gave us an answer.
+
+67
+00:04:37,235 --> 00:04:39,067
+Come on, I don't belong up here.
+
+68
+00:04:39,279 --> 00:04:41,611
+Fighting monsters and aliens and super villains.
+
+69
+00:04:41,823 --> 00:04:43,313
+I just help the little guy.
+
+70
+00:04:43,533 --> 00:04:44,989
+And a big club like this?
+
+71
+00:04:45,202 --> 00:04:46,818
+You tend to forget all about him.
+
+72
+00:04:47,037 --> 00:04:49,199
+So, gee whiz, I'm flattered to be asked and all
+
+73
+00:04:49,414 --> 00:04:51,746
+but, no, thanks.
+
+74
+00:04:53,251 --> 00:04:54,366
+Suit yourself.
+
+75
+00:04:56,046 --> 00:04:58,208
+Those monsters you don't fight?
+
+76
+00:04:58,423 --> 00:05:01,040
+They tend to step on little guys.
+
+77
+00:05:05,263 --> 00:05:07,379
+(J'onn) 'It's some sort of nuclear accident.'
+
+78
+00:05:07,599 --> 00:05:10,341
+The sensors are showing an enormous release of heat.
+
+79
+00:05:10,560 --> 00:05:12,301
+I'll get down there and try to contain it.
+
+80
+00:05:12,521 --> 00:05:14,637
+That's the odd thing, it's not dissipating.
+
+81
+00:05:14,856 --> 00:05:17,268
+It's moving in a straight line.
+
+82
+00:05:17,484 --> 00:05:19,270
+Take Captain Atom.
+
+83
+00:05:19,486 --> 00:05:21,272
+(J'onn) 'He might be able to absorb some of the radiation.'
+
+84
+00:05:21,488 --> 00:05:24,446
+Right, and I could use some muscle for crowd control.
+
+85
+00:05:24,658 --> 00:05:26,865
+Take Supergirl.
+
+86
+00:05:27,077 --> 00:05:29,193
+She's got to start sometime.
+
+87
+00:05:29,412 --> 00:05:30,243
+Fine.
+
+88
+00:05:30,455 --> 00:05:31,570
+Use a Javelin.
+
+89
+00:05:31,790 --> 00:05:33,201
+The radiation's making it impossible
+
+90
+00:05:33,416 --> 00:05:35,657
+for the transporter to get a fix on the location.
+
+91
+00:05:35,877 --> 00:05:39,086
+- Um, have to-- - Captain Atom, Kara.
+
+92
+00:05:39,297 --> 00:05:40,378
+About time.
+
+93
+00:05:42,175 --> 00:05:43,882
+Either of you ever been to Chiang Mai?
+
+94
+00:05:44,094 --> 00:05:45,004
+It's on the state department's
+
+95
+00:05:45,220 --> 00:05:46,756
+no travel list.
+
+96
+00:05:46,972 --> 00:05:49,213
+Class Three felony for American citizens to go there.
+
+97
+00:05:49,432 --> 00:05:50,888
+Is it anywhere near Daytona Beach?
+
+98
+00:05:51,101 --> 00:05:51,966
+[sighs]
+
+99
+00:06:01,987 --> 00:06:04,479
+You're not gonna leave me up here on Mount Olympus.
+
+100
+00:06:04,698 --> 00:06:06,280
+You can go back the way you came.
+
+101
+00:06:06,491 --> 00:06:09,574
+Uh-uh, no one's playing pinball with my molecules again.
+
+102
+00:06:09,786 --> 00:06:12,073
+Alright, we'll drop you off after we're done.
+
+103
+00:06:12,289 --> 00:06:15,122
+[instrumental music]
+
+104
+00:06:33,977 --> 00:06:36,014
+So, you're gonna let me drive, right?
+
+105
+00:06:36,229 --> 00:06:37,685
+Whoa, wait a minute.
+
+106
+00:06:37,898 --> 00:06:39,764
+Has she been certified in a Javelin?
+
+107
+00:06:39,983 --> 00:06:42,520
+Why don't you take the stick out, corporal?
+
+108
+00:06:42,736 --> 00:06:43,897
+Captain.
+
+109
+00:06:56,166 --> 00:06:57,281
+whoosh
+
+110
+00:07:08,219 --> 00:07:09,755
+Is that a containment suit?
+
+111
+00:07:09,971 --> 00:07:12,133
+Uh-huh. I'm not flesh and blood anymore.
+
+112
+00:07:12,349 --> 00:07:13,589
+Just living energy.
+
+113
+00:07:13,808 --> 00:07:15,845
+That wouldn't be nuclear energy, would it?
+
+114
+00:07:16,061 --> 00:07:18,928
+With a name like Captain Atom, what do you think?
+
+115
+00:07:19,147 --> 00:07:20,763
+I think you're what I marched against
+
+116
+00:07:20,982 --> 00:07:21,892
+back in college.
+
+117
+00:07:23,860 --> 00:07:26,022
+vroom
+
+118
+00:07:28,156 --> 00:07:29,271
+whoosh
+
+119
+00:07:32,535 --> 00:07:33,650
+thud
+
+120
+00:07:37,749 --> 00:07:39,080
+(Supergirl) Looks like we missed the party.
+
+121
+00:07:42,295 --> 00:07:43,535
+We'll do recon.
+
+122
+00:07:43,755 --> 00:07:46,213
+If you see anything, don't try to engage.
+
+123
+00:07:46,424 --> 00:07:47,664
+Roger that.
+
+124
+00:07:47,884 --> 00:07:50,546
+Uh, you can just say okay.
+
+125
+00:07:50,762 --> 00:07:52,002
+Okay.
+
+126
+00:07:53,974 --> 00:07:55,089
+Ugh.
+
+127
+00:07:59,646 --> 00:08:01,557
+[dramatic music]
+
+128
+00:08:09,906 --> 00:08:11,067
+Hey!
+
+129
+00:08:11,992 --> 00:08:13,403
+whoosh
+
+130
+00:08:13,618 --> 00:08:14,699
+boom
+
+131
+00:08:15,745 --> 00:08:17,611
+[gunfire]
+
+132
+00:08:18,999 --> 00:08:21,991
+boom boom
+
+133
+00:08:22,210 --> 00:08:23,792
+State Department sure was right about them
+
+134
+00:08:24,004 --> 00:08:25,335
+not liking foreigners.
+
+135
+00:08:25,547 --> 00:08:27,333
+It's crazy. No reason for it.
+
+136
+00:08:27,549 --> 00:08:29,711
+- I'll give them a reason. - Kara!
+
+137
+00:08:29,926 --> 00:08:31,963
+We came here to help them, not to fight.
+
+138
+00:08:32,178 --> 00:08:33,168
+So, you're just gonna stand there
+
+139
+00:08:33,388 --> 00:08:34,719
+until they run out of RPGs?
+
+140
+00:08:34,931 --> 00:08:36,592
+If this radiations thing's as bad as it looks
+
+141
+00:08:36,808 --> 00:08:38,719
+there's a lot of people out there who are gonna get fried.
+
+142
+00:08:41,396 --> 00:08:42,431
+rumble
+
+143
+00:08:42,647 --> 00:08:45,105
+Aaaaahhh!
+
+144
+00:08:45,316 --> 00:08:47,648
+zap
+
+145
+00:08:51,031 --> 00:08:52,317
+[helicopter whirring]
+
+146
+00:08:59,372 --> 00:09:01,659
+My apologies for the fireworks.
+
+147
+00:09:01,875 --> 00:09:04,867
+Colonel Kim here was just a farmer before the revolution.
+
+148
+00:09:05,086 --> 00:09:06,918
+He doesn't know who you are.
+
+149
+00:09:07,130 --> 00:09:08,336
+I'm General Kwan.
+
+150
+00:09:08,548 --> 00:09:10,209
+Most flattered that the Justice League
+
+151
+00:09:10,425 --> 00:09:12,166
+has honored us with your presence.
+
+152
+00:09:12,385 --> 00:09:14,296
+But I must ask why.
+
+153
+00:09:14,512 --> 00:09:16,253
+You had some kind of nuclear accident.
+
+154
+00:09:16,473 --> 00:09:17,304
+A minor problem.
+
+155
+00:09:17,515 --> 00:09:18,846
+Fully under control.
+
+156
+00:09:19,059 --> 00:09:20,345
+If it's all the same to you--
+
+157
+00:09:20,560 --> 00:09:22,551
+It's fully under control.
+
+158
+00:09:22,771 --> 00:09:24,353
+If it's all the same to you.
+
+159
+00:09:24,564 --> 00:09:25,975
+Listen, we came a long way to help, and--
+
+160
+00:09:26,191 --> 00:09:27,852
+Your help is not needed here.
+
+161
+00:09:28,068 --> 00:09:28,899
+Thank you for coming.
+
+162
+00:09:29,110 --> 00:09:30,100
+Now, goodbye.
+
+163
+00:09:35,116 --> 00:09:38,234
+caw caw
+
+164
+00:09:38,453 --> 00:09:39,909
+(Green Lantern) 'I'm telling you, J'onn.'
+
+165
+00:09:40,121 --> 00:09:42,453
+It took all the restraint I had not to part that guy's hair
+
+166
+00:09:42,665 --> 00:09:43,496
+with my ring.
+
+167
+00:09:43,708 --> 00:09:44,869
+You did the right thing
+
+168
+00:09:45,085 --> 00:09:46,826
+but the problem is not under control.
+
+169
+00:09:47,045 --> 00:09:48,251
+It's getting worse.
+
+170
+00:09:48,463 --> 00:09:49,794
+<i>(Green Arrow) 'Don't you get it?'</i>
+
+171
+00:09:50,006 --> 00:09:52,088
+They don't want anyone to find out about the accident.
+
+172
+00:09:52,300 --> 00:09:53,882
+And they don't care how many of their own people
+
+173
+00:09:54,094 --> 00:09:55,880
+they have to lose to keep it quiet.
+
+174
+00:09:56,096 --> 00:09:58,383
+This isn't your concern.
+
+175
+00:10:03,103 --> 00:10:04,264
+He does have a point.
+
+176
+00:10:04,479 --> 00:10:05,890
+Maybe the three of us should go back and--
+
+177
+00:10:06,106 --> 00:10:08,939
+No. We can't just do whatever we want.
+
+178
+00:10:09,150 --> 00:10:10,857
+We have to respect the government's wishes.
+
+179
+00:10:11,069 --> 00:10:13,185
+No matter what we might think of their policies.
+
+180
+00:10:13,404 --> 00:10:14,485
+Lantern.
+
+181
+00:10:15,532 --> 00:10:17,068
+Green Arrow's gone.
+
+182
+00:10:17,283 --> 00:10:19,194
+And so is the Geiger counter.
+
+183
+00:10:20,453 --> 00:10:22,820
+[crickets chirping]
+
+184
+00:10:25,583 --> 00:10:27,950
+vroom
+
+185
+00:10:36,052 --> 00:10:38,419
+Move it! Move it!
+
+186
+00:10:44,394 --> 00:10:46,226
+Hurry!
+
+187
+00:10:47,647 --> 00:10:49,729
+[clicking]
+
+188
+00:10:52,152 --> 00:10:54,268
+[screeching]
+
+189
+00:11:00,785 --> 00:11:01,775
+[crashing]
+
+190
+00:11:12,172 --> 00:11:14,413
+[instrumental music]
+
+191
+00:11:16,801 --> 00:11:18,212
+whoosh whoosh
+
+192
+00:11:18,428 --> 00:11:19,509
+thud thud
+
+193
+00:11:26,769 --> 00:11:27,884
+snap
+
+194
+00:11:29,856 --> 00:11:30,971
+whoosh
+
+195
+00:11:34,694 --> 00:11:35,604
+Come on!
+
+196
+00:11:37,530 --> 00:11:38,645
+snap
+
+197
+00:11:45,330 --> 00:11:46,445
+boom
+
+198
+00:11:49,500 --> 00:11:51,116
+I told you to stay away.
+
+199
+00:11:51,336 --> 00:11:52,246
+Hey, I'm just trying to help.
+
+200
+00:11:52,462 --> 00:11:53,668
+I told you before
+
+201
+00:11:53,880 --> 00:11:55,871
+the situation is completely under con--
+
+202
+00:11:56,090 --> 00:11:58,673
+rumble
+
+203
+00:12:11,940 --> 00:12:13,772
+[screaming]
+
+204
+00:12:15,526 --> 00:12:16,561
+boom
+
+205
+00:12:18,780 --> 00:12:19,690
+boom
+
+206
+00:12:20,406 --> 00:12:21,487
+Uh!
+
+207
+00:12:21,699 --> 00:12:22,780
+[crashing]
+
+208
+00:12:31,751 --> 00:12:32,866
+whoosh
+
+209
+00:12:40,218 --> 00:12:43,836
+bang bang bang
+
+210
+00:12:51,813 --> 00:12:52,723
+[grunts]
+
+211
+00:12:55,066 --> 00:12:56,852
+boom
+
+212
+00:13:00,530 --> 00:13:02,897
+[screaming]
+
+213
+00:13:06,786 --> 00:13:07,901
+boom
+
+214
+00:13:12,500 --> 00:13:13,706
+whoosh
+
+215
+00:13:13,918 --> 00:13:16,159
+boom boom
+
+216
+00:13:19,299 --> 00:13:22,087
+boom boom boom
+
+217
+00:13:22,302 --> 00:13:23,383
+boom boom
+
+218
+00:13:25,805 --> 00:13:26,920
+boom
+
+219
+00:13:34,147 --> 00:13:36,309
+Looks like I just can't help horning in.
+
+220
+00:13:36,524 --> 00:13:37,810
+There's some people up the cliff.
+
+221
+00:13:40,695 --> 00:13:42,777
+[explosion]
+
+222
+00:13:42,989 --> 00:13:43,979
+I'll try to drain it.
+
+223
+00:13:44,198 --> 00:13:45,654
+whoosh whoosh
+
+224
+00:13:57,378 --> 00:13:58,243
+[grunts]
+
+225
+00:13:58,463 --> 00:14:00,795
+zap
+
+226
+00:14:03,176 --> 00:14:05,588
+Go! Go!
+
+227
+00:14:16,731 --> 00:14:19,314
+thud
+
+228
+00:14:19,525 --> 00:14:20,856
+[groaning]
+
+229
+00:14:23,696 --> 00:14:24,652
+[groaning]
+
+230
+00:14:25,865 --> 00:14:26,980
+Uh!
+
+231
+00:14:31,079 --> 00:14:33,446
+[crashing]
+
+232
+00:14:37,502 --> 00:14:40,290
+There was...too much energy.
+
+233
+00:14:40,505 --> 00:14:42,121
+Well, there's always the low-tech way.
+
+234
+00:14:42,340 --> 00:14:43,421
+whoosh
+
+235
+00:14:46,469 --> 00:14:47,880
+Hahh!
+
+236
+00:14:48,096 --> 00:14:49,257
+Haaah!
+
+237
+00:14:49,472 --> 00:14:51,804
+[grunting]
+
+238
+00:14:55,937 --> 00:14:57,052
+Uh!
+
+239
+00:14:58,773 --> 00:14:59,888
+[crashing]
+
+240
+00:15:03,152 --> 00:15:05,985
+[people screaming]
+
+241
+00:15:13,913 --> 00:15:15,028
+Aahh!
+
+242
+00:15:20,378 --> 00:15:22,836
+Aaahh!
+
+243
+00:15:23,589 --> 00:15:24,545
+Lantern!
+
+244
+00:15:40,440 --> 00:15:41,555
+whoosh
+
+245
+00:15:47,655 --> 00:15:48,816
+(Captain Atom) 'This wouldn't have happened if you'd acted'
+
+246
+00:15:49,031 --> 00:15:50,192
+'like you were part of a team.'
+
+247
+00:15:50,408 --> 00:15:51,944
+But I'm not, remember?
+
+248
+00:15:52,160 --> 00:15:53,742
+So, back off, nuke-boy.
+
+249
+00:15:53,953 --> 00:15:56,820
+Hey! We've got a giant, out-of-control robot out there.
+
+250
+00:15:57,039 --> 00:15:59,747
+But if you guys are too busy playing alpha male smackdown
+
+251
+00:15:59,959 --> 00:16:02,576
+I guess I'll just have to deal with it myself.
+
+252
+00:16:02,795 --> 00:16:03,876
+(Green Lantern) 'Shayera!'
+
+253
+00:16:05,798 --> 00:16:07,004
+You need a plan.
+
+254
+00:16:07,216 --> 00:16:08,957
+You need to find its weakness.
+
+255
+00:16:09,177 --> 00:16:10,793
+Those hazmat guys in the village..
+
+256
+00:16:11,012 --> 00:16:12,047
+...they should know something.
+
+257
+00:16:12,263 --> 00:16:13,845
+Thought you weren't on the team.
+
+258
+00:16:14,056 --> 00:16:15,217
+Take him.
+
+259
+00:16:15,433 --> 00:16:17,174
+You'll need all the help you can get.
+
+260
+00:16:17,393 --> 00:16:20,385
+Okay, but I'm gonna be too busy to cover your sorry--
+
+261
+00:16:20,605 --> 00:16:21,470
+Wouldn't ask you to.
+
+262
+00:16:28,029 --> 00:16:30,316
+What are we up against?
+
+263
+00:16:31,282 --> 00:16:32,488
+He asked you a question.
+
+264
+00:16:32,700 --> 00:16:33,531
+(male voice #1) 'Don't answer them.'
+
+265
+00:16:33,743 --> 00:16:35,575
+That's classified inform...oh!
+
+266
+00:16:35,786 --> 00:16:37,527
+I've just about had it with you guys.
+
+267
+00:16:37,747 --> 00:16:39,909
+You've got to the count of five.
+
+268
+00:16:40,124 --> 00:16:41,285
+One.
+
+269
+00:16:41,501 --> 00:16:42,582
+Four.
+
+270
+00:16:44,879 --> 00:16:46,586
+I'd speak up if I were you.
+
+271
+00:16:46,797 --> 00:16:49,129
+(male voice #2) 'It was supposed to be our protector.'
+
+272
+00:16:51,761 --> 00:16:54,298
+It was going to protect us from the foreigners.
+
+273
+00:16:54,514 --> 00:16:56,096
+But then you lost control of it, right?
+
+274
+00:16:56,307 --> 00:16:57,138
+Is that what happened?
+
+275
+00:16:57,350 --> 00:16:59,387
+We have carbon rod dampers.
+
+276
+00:16:59,602 --> 00:17:02,185
+(male voice #2) 'But we couldn't get close enough to it to put them in.'
+
+277
+00:17:02,396 --> 00:17:03,761
+Where's its reactor?
+
+278
+00:17:03,981 --> 00:17:05,471
+The front of the upper torso.
+
+279
+00:17:05,691 --> 00:17:07,898
+But it's too hot. You won't make it.
+
+280
+00:17:08,110 --> 00:17:08,975
+I'll worry about that.
+
+281
+00:17:11,280 --> 00:17:12,611
+So, what's the plan?
+
+282
+00:17:12,823 --> 00:17:15,315
+I shove these carbon rods into the robot's reactor.
+
+283
+00:17:15,535 --> 00:17:16,400
+That should stop it.
+
+284
+00:17:18,329 --> 00:17:20,320
+I gotta say, that's not much of a plan.
+
+285
+00:17:20,540 --> 00:17:22,952
+If you get that close, the heat'll fry you.
+
+286
+00:17:23,167 --> 00:17:23,998
+I know.
+
+287
+00:17:24,210 --> 00:17:25,575
+But..
+
+288
+00:17:25,795 --> 00:17:28,378
+If this doesn't work, contact the League.
+
+289
+00:17:28,589 --> 00:17:31,331
+They'll know what to do next.
+
+290
+00:17:33,261 --> 00:17:34,342
+Captain.
+
+291
+00:17:40,643 --> 00:17:41,758
+whoosh
+
+292
+00:17:45,940 --> 00:17:47,146
+Try to distract it.
+
+293
+00:17:47,358 --> 00:17:48,439
+Roger.
+
+294
+00:17:49,569 --> 00:17:50,684
+whoosh
+
+295
+00:17:52,196 --> 00:17:54,062
+Hey! Butane breath!
+
+296
+00:17:58,661 --> 00:17:59,776
+zap
+
+297
+00:18:04,584 --> 00:18:05,699
+boom
+
+298
+00:18:12,091 --> 00:18:13,206
+whoosh
+
+299
+00:18:17,096 --> 00:18:19,463
+Aaaahhh!
+
+300
+00:18:21,475 --> 00:18:22,590
+[crashing]
+
+301
+00:18:23,853 --> 00:18:26,220
+Aaahhh!
+
+302
+00:18:35,781 --> 00:18:36,771
+zzzt
+
+303
+00:18:45,249 --> 00:18:46,364
+boom
+
+304
+00:18:58,846 --> 00:18:59,961
+Uh!
+
+305
+00:19:13,027 --> 00:19:14,483
+whoosh
+
+306
+00:19:14,695 --> 00:19:15,776
+clang
+
+307
+00:19:19,450 --> 00:19:20,565
+boom
+
+308
+00:19:25,623 --> 00:19:26,488
+whoosh
+
+309
+00:19:26,707 --> 00:19:27,788
+clang
+
+310
+00:19:33,798 --> 00:19:34,833
+boom
+
+311
+00:19:40,888 --> 00:19:42,003
+boom
+
+312
+00:20:15,715 --> 00:20:16,830
+boom
+
+313
+00:20:40,781 --> 00:20:42,397
+Say "aah," dirt bag.
+
+314
+00:20:42,616 --> 00:20:43,697
+whoosh
+
+315
+00:20:45,745 --> 00:20:46,860
+boom
+
+316
+00:21:02,094 --> 00:21:03,209
+Rraahh!
+
+317
+00:21:05,473 --> 00:21:06,588
+[crashing]
+
+318
+00:21:10,853 --> 00:21:11,968
+[crashing]
+
+319
+00:21:18,235 --> 00:21:20,943
+[panting]
+
+320
+00:21:40,549 --> 00:21:41,664
+You sure he's gonna be okay?
+
+321
+00:21:41,884 --> 00:21:43,295
+He should be.
+
+322
+00:21:43,511 --> 00:21:45,297
+J'onn's team picked him up right after it happened
+
+323
+00:21:45,513 --> 00:21:46,753
+so he didn't lose much of his energy.
+
+324
+00:21:49,767 --> 00:21:52,134
+At least he got a new suit out of it.
+
+325
+00:21:54,104 --> 00:21:58,143
+So. Aren't you gonna give me the "You did good" speech?
+
+326
+00:21:58,359 --> 00:22:01,317
+You're headstrong, unprofessional, and reckless.
+
+327
+00:22:01,529 --> 00:22:04,191
+If you ever jeopardize yourself or your teammates again
+
+328
+00:22:04,406 --> 00:22:07,148
+'by running off half-cocked without a battle plan'
+
+329
+00:22:07,368 --> 00:22:08,529
+'I will personally see to it'
+
+330
+00:22:08,744 --> 00:22:10,155
+that you are kicked out of the League.
+
+331
+00:22:10,371 --> 00:22:12,703
+I don't care who your cousin is.
+
+332
+00:22:17,169 --> 00:22:18,785
+And incidentally..
+
+333
+00:22:19,004 --> 00:22:19,869
+...you did good.
+
+334
+00:22:27,263 --> 00:22:28,173
+Huh.
+
+335
+00:22:30,683 --> 00:22:31,798
+[doors opening]
+
+336
+00:22:33,644 --> 00:22:35,806
+(Batman) 'Well, if it isn't the monster killer.'
+
+337
+00:22:36,021 --> 00:22:39,139
+I was lucky. So was everybody else.
+
+338
+00:22:39,358 --> 00:22:41,269
+Still don't think I belong up here.
+
+339
+00:22:41,485 --> 00:22:42,691
+That's the point.
+
+340
+00:22:42,903 --> 00:22:45,190
+Someone like you will keep us honest.
+
+341
+00:22:45,406 --> 00:22:47,192
+Gee, Bats, I don't know.
+
+342
+00:22:47,408 --> 00:22:49,274
+Don't get me wrong, I enjoy a good radiation burn
+
+343
+00:22:49,493 --> 00:22:51,860
+as much as the next guy but I don't think..
+
+344
+00:23:02,631 --> 00:23:04,793
+So, see you soon?
+
+345
+00:23:05,718 --> 00:23:06,674
+You just might.
+
+346
+00:23:08,178 --> 00:23:10,419
+[instrumental music]
+
+347
+00:23:15,853 --> 00:23:18,720
+[theme music]
+
