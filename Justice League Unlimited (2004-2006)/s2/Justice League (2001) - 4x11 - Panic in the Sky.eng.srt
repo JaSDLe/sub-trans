@@ -1,0 +1,1260 @@
+﻿1
+00:00:05,713 --> 00:00:07,924
+<i>Previously on "Justice League Unlimited..."</i>
+
+2
+00:00:08,132 --> 00:00:09,759
+What's the worst-case scenario?
+
+3
+00:00:09,967 --> 00:00:11,527
+If they've got enough to tie you to this
+
+4
+00:00:11,719 --> 00:00:13,179
+they'll head right for your doorstep.
+
+5
+00:00:13,387 --> 00:00:16,641
+I wouldn't worry about the Justice League quite yet.
+
+6
+00:00:16,849 --> 00:00:18,559
+<i>They have problems of their own.</i>
+
+7
+00:00:18,768 --> 00:00:20,353
+Binary fusion generator
+
+8
+00:00:20,561 --> 00:00:23,231
+<i>initialization sequence in progress.</i>
+
+9
+00:00:32,365 --> 00:00:35,451
+<i>- What did we hit? - Cadmus headquarters.</i>
+
+10
+00:00:35,660 --> 00:00:38,871
+<i>This was retaliation, sir. Pure and simple.</i>
+
+11
+00:00:39,080 --> 00:00:41,415
+We captured The Question, they bust him out
+
+12
+00:00:41,624 --> 00:00:44,460
+<i>and an hour later, it's death from above.</i>
+
+13
+00:00:44,669 --> 00:00:45,869
+I'm glad we could lend a hand.
+
+14
+00:00:46,045 --> 00:00:47,255
+If you care so much
+
+15
+00:00:47,463 --> 00:00:49,674
+why did you shoot at us in the first place?
+
+16
+00:00:49,882 --> 00:00:50,967
+We didn't... I...
+
+17
+00:00:52,843 --> 00:00:55,930
+Your mission is to take down the Justice League.
+
+18
+00:00:56,138 --> 00:00:57,557
+<i>You're going to need help.</i>
+
+19
+00:02:09,670 --> 00:02:11,672
+Hold still, Galatea.
+
+20
+00:02:11,881 --> 00:02:13,049
+You're invulnerable.
+
+21
+00:02:13,257 --> 00:02:15,217
+This can't possibly be hurting you.
+
+22
+00:02:15,426 --> 00:02:17,470
+Boredom is my kryptonite.
+
+23
+00:02:17,678 --> 00:02:19,639
+Okay, actually, kryptonite is my kryptonite.
+
+24
+00:02:19,847 --> 00:02:21,265
+But you know what I mean.
+
+25
+00:02:21,474 --> 00:02:23,392
+Although, the way I'm feeling lately
+
+26
+00:02:23,601 --> 00:02:26,145
+I don't think even that stuff can hurt me anymore.
+
+27
+00:02:26,354 --> 00:02:27,354
+Think again.
+
+28
+00:02:27,480 --> 00:02:28,606
+I've artificially aged
+
+29
+00:02:28,814 --> 00:02:30,733
+your body to its physical prime.
+
+30
+00:02:30,941 --> 00:02:32,943
+But your underlying DNA matrix
+
+31
+00:02:33,152 --> 00:02:35,363
+is still a clone of Supergirl's.
+
+32
+00:02:35,571 --> 00:02:37,907
+I'm better than she ever was.
+
+33
+00:02:38,115 --> 00:02:39,450
+Be careful with that.
+
+34
+00:02:39,659 --> 00:02:41,419
+It gives you remote control over the Ultimen.
+
+35
+00:02:41,577 --> 00:02:44,413
+The new generation of Ultimen are blank slates.
+
+36
+00:02:44,622 --> 00:02:47,208
+They don't think except to follow your commands.
+
+37
+00:02:47,416 --> 00:02:49,877
+They have no initiative and they feel no pain.
+
+38
+00:02:50,086 --> 00:02:52,797
+<i>When this light is on, the Ultimen are in puppet mode.</i>
+
+39
+00:02:53,005 --> 00:02:55,800
+They're little more than an extension of your will.
+
+40
+00:02:56,008 --> 00:02:57,008
+Wicked.
+
+41
+00:02:58,386 --> 00:03:00,304
+It's time we got the show on the road.
+
+42
+00:03:00,513 --> 00:03:02,390
+Report to the staging area.
+
+43
+00:03:08,854 --> 00:03:10,147
+What?
+
+44
+00:03:10,356 --> 00:03:11,691
+Nothing.
+
+45
+00:03:14,944 --> 00:03:16,445
+Goodbye, daddy.
+
+46
+00:03:31,252 --> 00:03:33,337
+Long-range communications back on line at least.
+
+47
+00:03:33,546 --> 00:03:35,631
+How long before you can restore full power?
+
+48
+00:03:35,840 --> 00:03:37,880
+Atom's still down in the reactor room working on it.
+
+49
+00:03:38,008 --> 00:03:40,928
+He thinks he can shave 20 minutes off the system reboot.
+
+50
+00:03:41,137 --> 00:03:43,097
+<i>Hello? Hello?</i>
+
+51
+00:03:43,305 --> 00:03:46,142
+- <i>Is this thing on?</i> - It is now. Go ahead, Flash.
+
+52
+00:03:46,350 --> 00:03:48,060
+The evacuation's going okay.
+
+53
+00:03:48,269 --> 00:03:50,396
+Lots of minor injuries, but no casualties.
+
+54
+00:03:50,604 --> 00:03:51,814
+They were fortunate.
+
+55
+00:03:52,022 --> 00:03:53,107
+<i>That's not how they see it.</i>
+
+56
+00:03:53,315 --> 00:03:54,358
+They're pretty mad.
+
+57
+00:03:54,567 --> 00:03:56,360
+They think it's our fault, J'onn.
+
+58
+00:03:56,569 --> 00:03:58,129
+Do what you can to keep a lid on things.
+
+59
+00:03:58,237 --> 00:03:59,572
+I'll send additional help.
+
+60
+00:03:59,780 --> 00:04:02,324
+I wouldn't. They're scared of us as it is.
+
+61
+00:04:02,533 --> 00:04:04,219
+If we can help it, we should try not to look
+
+62
+00:04:04,243 --> 00:04:05,870
+<i>like an invading army, you know?</i>
+
+63
+00:04:06,078 --> 00:04:08,038
+Agreed. Keep me updated.
+
+64
+00:04:08,247 --> 00:04:11,041
+Continuing coverage live from Covenant, New Mexico
+
+65
+00:04:11,250 --> 00:04:12,850
+where a huge explosion has caused tremors
+
+66
+00:04:12,960 --> 00:04:14,670
+detected as far away as Japan.
+
+67
+00:04:14,879 --> 00:04:16,589
+<i>Although many agree that in the instance</i>
+
+68
+00:04:16,797 --> 00:04:18,632
+<i>before the explosion they saw an energy beam</i>
+
+69
+00:04:18,841 --> 00:04:20,134
+<i>strike from the sky.</i>
+
+70
+00:04:20,342 --> 00:04:21,342
+Turn it off.
+
+71
+00:04:21,385 --> 00:04:23,012
+Our sensors are still out.
+
+72
+00:04:23,220 --> 00:04:24,847
+This is the only information available.
+
+73
+00:04:26,599 --> 00:04:29,894
+Diana, John, Shayera, meet me in the main conference room.
+
+74
+00:04:30,102 --> 00:04:31,312
+Now.
+
+75
+00:04:31,520 --> 00:04:33,147
+You, too, J'onn.
+
+76
+00:04:42,490 --> 00:04:44,909
+- What have we done? - We haven't done anything.
+
+77
+00:04:45,117 --> 00:04:48,496
+An outside force took control of the binary fusion generator.
+
+78
+00:04:48,704 --> 00:04:50,206
+<i>Whoever's behind that is responsible</i>
+
+79
+00:04:50,414 --> 00:04:52,958
+for the destruction of Cadmus. Not us.
+
+80
+00:04:53,167 --> 00:04:55,377
+Tell that to all those people in New Mexico.
+
+81
+00:04:55,586 --> 00:04:57,838
+They're <i>terrified</i> of us. So is the government.
+
+82
+00:04:58,047 --> 00:05:00,174
+We can't let that stop us from doing our job.
+
+83
+00:05:00,382 --> 00:05:01,842
+We aren't here to be liked.
+
+84
+00:05:02,051 --> 00:05:04,053
+We're here to make the world a safer place.
+
+85
+00:05:04,261 --> 00:05:07,264
+- How are we doing so far today? - Come on, man!
+
+86
+00:05:07,473 --> 00:05:09,725
+I don't see the two goals as mutually exclusive.
+
+87
+00:05:09,934 --> 00:05:12,353
+We should make a gesture of cooperation.
+
+88
+00:05:12,561 --> 00:05:14,063
+That's not a bad idea.
+
+89
+00:05:14,271 --> 00:05:16,315
+We could dismantle the binary fusion generator.
+
+90
+00:05:16,524 --> 00:05:18,400
+At least until our innocence has been proven.
+
+91
+00:05:18,609 --> 00:05:20,236
+I've seen it on a hundred worlds.
+
+92
+00:05:20,444 --> 00:05:23,823
+Space-based weapons always destabilize planetary politics.
+
+93
+00:05:24,031 --> 00:05:25,991
+Okay, getting rid of that thing is a start.
+
+94
+00:05:26,200 --> 00:05:28,077
+But it's not going to be enough.
+
+95
+00:05:28,285 --> 00:05:30,120
+We have to regain their trust.
+
+96
+00:05:33,207 --> 00:05:35,334
+Then there's only one thing to do.
+
+97
+00:05:35,543 --> 00:05:37,711
+<i>I need some light over here.</i>
+
+98
+00:05:37,920 --> 00:05:39,630
+<i>May I have your attention, please?</i>
+
+99
+00:05:39,839 --> 00:05:41,298
+I have an announcement to make.
+
+100
+00:05:41,507 --> 00:05:43,427
+Until it's been proven that we aren't responsible
+
+101
+00:05:43,551 --> 00:05:45,010
+for the tragedy in New Mexico
+
+102
+00:05:45,219 --> 00:05:48,097
+the founding members are turning ourselves in to US custody.
+
+103
+00:05:48,305 --> 00:05:50,140
+- What? - That's insane!
+
+104
+00:05:50,349 --> 00:05:52,601
+- You can't do that. - No way.
+
+105
+00:05:52,810 --> 00:05:55,020
+Cooperate fully with the investigation.
+
+106
+00:05:55,229 --> 00:05:56,939
+Give them whatever they ask for.
+
+107
+00:05:57,147 --> 00:05:59,316
+But, Clark... Superman...
+
+108
+00:05:59,525 --> 00:06:01,193
+Hold the fort, Kara.
+
+109
+00:06:01,402 --> 00:06:03,279
+We're counting on you.
+
+110
+00:06:03,487 --> 00:06:04,697
+All of you.
+
+111
+00:06:12,329 --> 00:06:13,831
+You want me to what?
+
+112
+00:06:14,039 --> 00:06:15,833
+Turn yourself over in to US custody.
+
+113
+00:06:16,041 --> 00:06:17,376
+Along with the rest of us.
+
+114
+00:06:17,585 --> 00:06:19,420
+Yeah, that makes sense, okay.
+
+115
+00:06:19,628 --> 00:06:21,388
+Meet us at the coordinates I'm sending first.
+
+116
+00:06:21,547 --> 00:06:22,882
+We should all go over together.
+
+117
+00:06:23,090 --> 00:06:26,010
+This is the single dumbest plan I've ever heard.
+
+118
+00:06:26,218 --> 00:06:28,345
+<i>If you're feeling guilty, clear your own name.</i>
+
+119
+00:06:28,554 --> 00:06:29,847
+Don't stand on the sidelines
+
+120
+00:06:30,055 --> 00:06:31,599
+waiting for somebody else to do it.
+
+121
+00:06:31,807 --> 00:06:33,851
+We've already voted. Five in favor.
+
+122
+00:06:34,059 --> 00:06:35,561
+Six.
+
+123
+00:06:35,769 --> 00:06:37,730
+You <i>have</i> to come with us, Bruce.
+
+124
+00:06:37,938 --> 00:06:39,732
+I don't <i>have</i> to do anything.
+
+125
+00:06:39,940 --> 00:06:41,400
+I'm a part-timer, remember?
+
+126
+00:06:43,068 --> 00:06:45,321
+Actually, he took it a lot better than I'd expected.
+
+127
+00:07:10,930 --> 00:07:14,016
+As promised, we're surrendering ourselves to your authority.
+
+128
+00:07:14,224 --> 00:07:16,018
+- Where's Batman? - Running late.
+
+129
+00:07:16,226 --> 00:07:17,811
+The Batmobile, it lost a wheel.
+
+130
+00:07:18,020 --> 00:07:19,480
+The Joker got away.
+
+131
+00:07:21,941 --> 00:07:23,442
+That's what I heard.
+
+132
+00:07:27,529 --> 00:07:29,281
+<i>Those won't be necessary.</i>
+
+133
+00:07:29,490 --> 00:07:30,616
+It's standard procedure.
+
+134
+00:07:30,824 --> 00:07:33,535
+This isn't a standard situation, son.
+
+135
+00:07:37,039 --> 00:07:38,999
+I don't think it would've held them anyway.
+
+136
+00:07:45,631 --> 00:07:46,757
+<i>This bites!</i>
+
+137
+00:07:46,966 --> 00:07:48,234
+They shouldn't have to go to prison.
+
+138
+00:07:48,258 --> 00:07:49,385
+They're the good guys.
+
+139
+00:07:49,593 --> 00:07:50,803
+It's the right thing to do.
+
+140
+00:07:52,179 --> 00:07:53,681
+How do you figure?
+
+141
+00:07:53,889 --> 00:07:55,158
+<i>We've got no business scaring people</i>
+
+142
+00:07:55,182 --> 00:07:56,517
+<i>any more than we already have.</i>
+
+143
+00:07:56,725 --> 00:07:59,019
+This will help take some of the pressure off.
+
+144
+00:07:59,228 --> 00:08:01,647
+Nobody really believes we did this.
+
+145
+00:08:01,855 --> 00:08:03,482
+I'm not so sure that's true.
+
+146
+00:08:03,691 --> 00:08:05,411
+But as soon as the watchtower's back on line
+
+147
+00:08:05,526 --> 00:08:07,486
+we've got 60 guys champing at the bit
+
+148
+00:08:07,695 --> 00:08:09,613
+to find out who's really behind it all.
+
+149
+00:08:09,822 --> 00:08:11,949
+I'm worried about them, Steel.
+
+150
+00:08:12,157 --> 00:08:14,952
+- I'm worried about my cousin. - Don't be.
+
+151
+00:08:15,160 --> 00:08:17,162
+Everybody in the League is good at their job.
+
+152
+00:08:17,371 --> 00:08:20,749
+But those seven, they're the best ever.
+
+153
+00:08:20,958 --> 00:08:23,085
+Not because they're the most powerful, they aren't.
+
+154
+00:08:23,293 --> 00:08:24,670
+Not all of 'em.
+
+155
+00:08:24,878 --> 00:08:26,678
+<i>And it's not just because they were the first.</i>
+
+156
+00:08:26,839 --> 00:08:29,258
+<i>It's because they're special.</i>
+
+157
+00:08:29,466 --> 00:08:31,343
+They've proven it time and again.
+
+158
+00:08:31,552 --> 00:08:34,388
+They make the hard choices. They set the example.
+
+159
+00:08:34,596 --> 00:08:37,266
+They do what's right, not what's easiest.
+
+160
+00:08:37,474 --> 00:08:39,601
+And they always come out on top.
+
+161
+00:08:40,853 --> 00:08:42,479
+They're gonna be okay, Kara.
+
+162
+00:08:42,688 --> 00:08:44,273
+We all are.
+
+163
+00:08:46,066 --> 00:08:47,609
+You guys see that?
+
+164
+00:08:49,445 --> 00:08:51,572
+Something coming up from planet side.
+
+165
+00:08:54,575 --> 00:08:55,826
+Uh, Javelins, maybe?
+
+166
+00:08:59,496 --> 00:09:00,789
+Not Javelins.
+
+167
+00:09:00,998 --> 00:09:02,624
+They almost look like...
+
+168
+00:09:05,919 --> 00:09:07,254
+missiles.
+
+169
+00:09:19,058 --> 00:09:21,351
+I'm counting two dozen Damocles-Class Missiles.
+
+170
+00:09:21,560 --> 00:09:23,979
+That's LexCorp technology.
+
+171
+00:09:24,188 --> 00:09:26,231
+Battle stations, prepare for impact!
+
+172
+00:09:50,339 --> 00:09:51,965
+Come on, let's get out of here.
+
+173
+00:10:54,653 --> 00:10:56,738
+Ultimen, keep the League off of me.
+
+174
+00:10:56,947 --> 00:10:58,699
+Sanitize the watchtower.
+
+175
+00:11:10,711 --> 00:11:12,296
+We've got business, Waller.
+
+176
+00:11:18,510 --> 00:11:21,889
+You told me once that you were a patriot.
+
+177
+00:11:22,097 --> 00:11:24,224
+Well, it's time to step up.
+
+178
+00:11:24,433 --> 00:11:25,869
+You have to know that the Justice League
+
+179
+00:11:25,893 --> 00:11:27,895
+would never have fired that weapon at you.
+
+180
+00:11:28,103 --> 00:11:29,103
+Sure you would.
+
+181
+00:11:29,188 --> 00:11:30,564
+It was retaliation for kidnapping
+
+182
+00:11:30,772 --> 00:11:32,107
+your man, The Question.
+
+183
+00:11:32,316 --> 00:11:33,859
+And yet you weren't home.
+
+184
+00:11:34,067 --> 00:11:36,320
+We've had you under surveillance for months.
+
+185
+00:11:36,528 --> 00:11:38,530
+You don't think we saw you evacuate your offices?
+
+186
+00:11:38,739 --> 00:11:41,783
+- A warning shot, then. - Don't be dense.
+
+187
+00:11:41,992 --> 00:11:44,536
+<i>Someone took over our fusion cannon by remote control.</i>
+
+188
+00:11:44,745 --> 00:11:46,413
+There are maybe three people on earth
+
+189
+00:11:46,622 --> 00:11:47,873
+smart enough to pull that off.
+
+190
+00:11:48,081 --> 00:11:50,083
+Two of them were already on the watchtower.
+
+191
+00:11:50,292 --> 00:11:51,460
+And that leaves...
+
+192
+00:11:51,668 --> 00:11:53,045
+Luthor.
+
+193
+00:11:53,253 --> 00:11:55,172
+That's where you're trying to lead me, right?
+
+194
+00:11:55,380 --> 00:11:58,383
+- You're too smart to trust him. - Who says I do?
+
+195
+00:11:58,592 --> 00:12:01,136
+He provides off-the-books funding for Cadmus.
+
+196
+00:12:01,345 --> 00:12:04,473
+As far as I'm concerned, that's all he's good for.
+
+197
+00:12:04,681 --> 00:12:06,892
+Then you <i>must</i> know he's got his own agenda.
+
+198
+00:12:07,100 --> 00:12:08,310
+He wants to be President.
+
+199
+00:12:08,518 --> 00:12:09,798
+That's agenda enough for anybody.
+
+200
+00:12:09,978 --> 00:12:11,813
+Almost anybody.
+
+201
+00:12:12,022 --> 00:12:15,234
+If I were you, I'd start looking at him... hard.
+
+202
+00:12:16,652 --> 00:12:18,528
+<i>Aa-ah! Uh-oh.</i>
+
+203
+00:13:12,040 --> 00:13:13,834
+Something's wrong in the reactor room.
+
+204
+00:13:14,042 --> 00:13:15,602
+- I'll be right back. - Take care of it.
+
+205
+00:13:15,794 --> 00:13:17,170
+We'll handle these guys.
+
+206
+00:13:36,815 --> 00:13:37,815
+Urgh!
+
+207
+00:15:20,627 --> 00:15:22,838
+Steel, everything okay down here?
+
+208
+00:15:26,341 --> 00:15:28,301
+Ray?
+
+209
+00:15:49,573 --> 00:15:51,074
+Put him down!
+
+210
+00:15:51,283 --> 00:15:54,494
+Sure. I was pretty much done with him, anyway.
+
+211
+00:15:56,663 --> 00:15:58,206
+What do you think you're doing?
+
+212
+00:15:58,415 --> 00:16:00,625
+Oh, I'm about to set the reactor to overload
+
+213
+00:16:00,834 --> 00:16:03,128
+and blow the watchtower to bits.
+
+214
+00:16:03,336 --> 00:16:05,547
+But what I'm hoping, is that you'll be dumb enough
+
+215
+00:16:05,755 --> 00:16:07,424
+to try and stop me.
+
+216
+00:16:27,194 --> 00:16:29,696
+Huh! Ha. Ha!
+
+217
+00:16:41,625 --> 00:16:44,002
+Uh-oh. What's wrong, hero?
+
+218
+00:16:44,211 --> 00:16:45,837
+Not strong enough?
+
+219
+00:16:46,046 --> 00:16:48,882
+Maybe that's because I'm the real hero here.
+
+220
+00:16:49,090 --> 00:16:52,302
+Your Justice League is a bunch of dangerous loose cannons
+
+221
+00:16:52,511 --> 00:16:54,513
+and I'm going to shut you down.
+
+222
+00:16:54,721 --> 00:16:56,556
+Who do you think you're kidding?
+
+223
+00:16:56,765 --> 00:16:58,642
+You don't care about what the League does.
+
+224
+00:16:58,850 --> 00:17:01,061
+Admit it. You just wanna beat me.
+
+225
+00:17:06,525 --> 00:17:08,318
+I've already beaten you.
+
+226
+00:17:08,527 --> 00:17:10,654
+But I'm going to make it last.
+
+227
+00:17:10,862 --> 00:17:12,030
+You know what?
+
+228
+00:17:12,239 --> 00:17:14,032
+No matter how bad you beat me
+
+229
+00:17:14,241 --> 00:17:16,076
+I'm real, not a clone.
+
+230
+00:17:16,284 --> 00:17:17,327
+Shut up.
+
+231
+00:17:17,536 --> 00:17:19,496
+Deep down, you know the truth.
+
+232
+00:17:19,704 --> 00:17:22,332
+You're not a person, you're just a weapon
+
+233
+00:17:22,541 --> 00:17:24,876
+<i>grown out of one of Hamilton's Petri dishes.</i>
+
+234
+00:17:25,085 --> 00:17:26,336
+Shut up!
+
+235
+00:17:27,837 --> 00:17:29,548
+He played me.
+
+236
+00:17:29,756 --> 00:17:32,259
+I knew he was a snake, and I still let him bite me.
+
+237
+00:17:36,221 --> 00:17:37,722
+He's recently had copies
+
+238
+00:17:37,931 --> 00:17:41,476
+of a lot of our new technology shipped to LexCorp.
+
+239
+00:17:41,685 --> 00:17:43,478
+<i>That's what he's stolen, professor.</i>
+
+240
+00:17:43,687 --> 00:17:46,231
+<i>Could he have taken control of the watchtower weapons system</i>
+
+241
+00:17:46,439 --> 00:17:48,149
+<i>with that stuff?</i>
+
+242
+00:17:48,358 --> 00:17:49,526
+Theoretically, yes.
+
+243
+00:17:49,734 --> 00:17:51,778
+But that's the least of it.
+
+244
+00:17:51,987 --> 00:17:53,613
+Good Lord, I think, I know
+
+245
+00:17:53,822 --> 00:17:54,906
+what he's planning to do.
+
+246
+00:18:06,167 --> 00:18:07,167
+Pitiful.
+
+247
+00:18:08,670 --> 00:18:10,505
+- What? - The mission is scrubbed.
+
+248
+00:18:10,714 --> 00:18:12,007
+Do you hear me?
+
+249
+00:18:12,215 --> 00:18:14,217
+<i>Stand down and await further instructions.</i>
+
+250
+00:18:14,426 --> 00:18:16,553
+I'm not reading you. Can you repeat?
+
+251
+00:18:16,761 --> 00:18:19,431
+Don't do this, Galatea! The mission's over!
+
+252
+00:18:19,639 --> 00:18:21,683
+<i>Call off the Ultimen. Do you hear me?</i>
+
+253
+00:18:21,891 --> 00:18:23,018
+<i>Call...</i>
+
+254
+00:18:23,226 --> 00:18:24,603
+Wrong number.
+
+255
+00:18:26,938 --> 00:18:28,940
+Urgh!
+
+256
+00:18:45,081 --> 00:18:46,708
+Kara...
+
+257
+00:18:46,916 --> 00:18:49,085
+power reboot in 18 seconds.
+
+258
+00:18:49,294 --> 00:18:50,378
+Right.
+
+259
+00:18:51,713 --> 00:18:52,839
+Ha!
+
+260
+00:19:10,857 --> 00:19:12,984
+When I get rid of you, I'll be the only...
+
+261
+00:19:26,915 --> 00:19:28,208
+- Yeah! - Yeah!
+
+262
+00:19:31,169 --> 00:19:32,253
+- Aw! - Oh!
+
+263
+00:19:33,838 --> 00:19:35,924
+Somebody blow a fuse down there?
+
+264
+00:19:36,132 --> 00:19:37,217
+I'll say.
+
+265
+00:19:45,850 --> 00:19:48,770
+Now you're perfect!
+
+266
+00:19:48,978 --> 00:19:52,732
+A perfect superpowerful immortal body.
+
+267
+00:19:52,941 --> 00:19:54,359
+A suitable place for me
+
+268
+00:19:54,567 --> 00:19:56,611
+to spend the rest of eternity.
+
+269
+00:19:56,820 --> 00:19:58,113
+Ironic.
+
+270
+00:19:58,321 --> 00:20:00,156
+Years of plotting, hundreds of millions spent
+
+271
+00:20:00,365 --> 00:20:01,950
+on Cadmus R&D projects
+
+272
+00:20:02,158 --> 00:20:03,660
+and none of it bore fruit.
+
+273
+00:20:03,868 --> 00:20:06,705
+Now, it's a lonely employee of LexCorp
+
+274
+00:20:06,913 --> 00:20:09,416
+Dr. lvo, creator of Amazo
+
+275
+00:20:09,624 --> 00:20:12,669
+who we have to thank for my impending godhood.
+
+276
+00:20:12,877 --> 00:20:15,004
+<i>That was the last piece I needed.</i>
+
+277
+00:20:15,213 --> 00:20:16,923
+Got it all figured out, have you?
+
+278
+00:20:17,132 --> 00:20:18,234
+When you and Atom worked together
+
+279
+00:20:18,258 --> 00:20:19,259
+to stop the first Amazo
+
+280
+00:20:19,467 --> 00:20:21,136
+he showed you the blueprints.
+
+281
+00:20:21,344 --> 00:20:23,555
+<i>And I suspect, you have a photographic memory.</i>
+
+282
+00:20:23,763 --> 00:20:25,056
+I'm too modest to boast.
+
+283
+00:20:25,265 --> 00:20:27,058
+The real purpose of Cadmus
+
+284
+00:20:27,267 --> 00:20:29,144
+was to give <i>you</i> super powers.
+
+285
+00:20:29,352 --> 00:20:31,813
+And to ruin Superman's reputation.
+
+286
+00:20:32,021 --> 00:20:33,648
+Imagine how sweet it will be
+
+287
+00:20:33,857 --> 00:20:35,150
+when I save the world
+
+288
+00:20:35,358 --> 00:20:37,527
+from the menace of the Justice League.
+
+289
+00:20:37,736 --> 00:20:39,863
+Now, when I kill Superman
+
+290
+00:20:40,071 --> 00:20:41,823
+they'll build statues in my honor.
+
+291
+00:20:42,031 --> 00:20:43,783
+Maybe next time.
+
+292
+00:20:46,828 --> 00:20:49,497
+That... was uncalled for.
+
+293
+00:21:14,355 --> 00:21:15,355
+<i>Hey, Lex!</i>
+
+294
+00:21:15,523 --> 00:21:17,901
+That android is Cadmus property.
+
+295
+00:21:18,109 --> 00:21:19,669
+You're gonna have to find somewhere else
+
+296
+00:21:19,694 --> 00:21:21,154
+to keep your brain.
+
+297
+00:21:24,407 --> 00:21:25,950
+A nano-disassembler beam.
+
+298
+00:21:26,159 --> 00:21:27,952
+Your design, I believe.
+
+299
+00:21:28,161 --> 00:21:29,704
+Arrogant cow!
+
+300
+00:21:29,913 --> 00:21:32,707
+It'll take weeks to build myself another android body.
+
+301
+00:21:32,916 --> 00:21:34,751
+You ain't got weeks, baldy.
+
+302
+00:21:34,959 --> 00:21:36,399
+You're under arrest for trying to use
+
+303
+00:21:36,586 --> 00:21:38,379
+the Justice League's space gun
+
+304
+00:21:38,588 --> 00:21:40,632
+to murder everyone at Cadmus.
+
+305
+00:21:44,803 --> 00:21:46,137
+Did you really think
+
+306
+00:21:46,346 --> 00:21:49,307
+you could take me down all by yourself?
+
+307
+00:21:49,516 --> 00:21:51,434
+Actually, yeah.
+
+308
+00:21:51,643 --> 00:21:54,103
+But on the off chance, I might have been wrong.
+
+309
+00:21:57,148 --> 00:21:58,399
+Ta-da!
+
+310
+00:21:59,984 --> 00:22:01,736
+It's over, Lex.
+
+311
+00:22:01,945 --> 00:22:03,196
+Not until l...
+
+312
+00:22:15,166 --> 00:22:18,002
+I'd hoped to remain hidden
+
+313
+00:22:18,211 --> 00:22:22,465
+until I could install myself into the android.
+
+314
+00:22:22,674 --> 00:22:25,385
+But you forced my hand.
+
+315
+00:22:25,593 --> 00:22:26,803
+Brainiac?
+
