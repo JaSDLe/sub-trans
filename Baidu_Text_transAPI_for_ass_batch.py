@@ -11,6 +11,7 @@ import json
 from hashlib import md5
 from urllib.parse import urlencode
 import os
+import re
 
 # Set your own appid/appkey.
 appid = '77202003010998900390764'
@@ -28,6 +29,7 @@ salt = random.randint(32768, 65536)
 begin_line = 'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'
 max_char = 6000
 cn_en_split = '\\N{\\rEN}'
+style_regex = '{.*?}'
 proceed_flags = ['yes', 'y', 'Y', 'YES']
 input_prompt = '''Do you want to continue?
     'y/Y/yes/YES' will be accepted to approve.
@@ -72,6 +74,19 @@ class Format:
         l.append(''.join([cn, cn_en_split, en]))
         return ','.join(l) + '\n'
 
+    def combine_new(self, cn):
+        l = []
+        l.extend(self.List[0:9])
+        cn = cn.replace('，', ' ')
+        cn = cn.replace('。', ' ')
+        cn = cn.replace('、', ' ')
+        cn = cn.replace('--', '-')
+        cn = cn.replace('-', ' - ')
+        cn = cn.replace('｛', '{')
+        cn = cn.replace('｝', '}')
+        l.append(''.join([cn, cn_en_split, self.EN]))
+        return ','.join(l)
+
 
 # Generate salt and sign
 def make_md5(s, encoding='utf-8'):
@@ -79,7 +94,7 @@ def make_md5(s, encoding='utf-8'):
 
 
 def trans(format_list, en, file):
-    query = en
+    query = re.sub(style_regex, '', en)
     # Build request
     payload = {
         'appid': appid,
@@ -94,7 +109,8 @@ def trans(format_list, en, file):
     result = r.json()
     # Show response
     # print(json.dumps(result, indent=4, ensure_ascii=False))
-    print('len(format_list)=',len(format_list),';len(trans_result)=',len(result['trans_result']))
+    print('len(format_list)=', len(format_list), ';len(trans_result)=',
+          len(result['trans_result']))
     # print(format_list[0],result['trans_result'][0])
     # print(format_list[len(format_list) - 1], result['trans_result'][len(result['trans_result']) - 1])
     l = []
@@ -102,7 +118,7 @@ def trans(format_list, en, file):
     t = ''
     for index in range(len(result['trans_result'])):
         r = result['trans_result'][index]
-        l.append(format_list[index].combine(r['dst'], r['src']))
+        l.append(format_list[index].combine_new(r['dst']))
         # t=t+r['dst']+cn_en_split+r['src']+'\n'
         cn = cn + r['dst'] + '\n'
     cn_list.append(cn)
