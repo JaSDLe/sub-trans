@@ -28,12 +28,14 @@ salt = random.randint(32768, 65536)
 
 begin_line = 'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'
 max_char = 6000
+total_char = 0
+file_char = 0
 cn_en_split = '\\N{\\rEN}'
 style_regex = '{.*?}'
 proceed_flags = ['yes', 'y', 'Y', 'YES']
 input_prompt = '''Do you want to continue?
     'y/Y/yes/YES' will be accepted to approve.
-Enter a value: '''
+> Enter a value: '''
 file_suffix = '.ass'
 cn_file_suffix = '-CN' + file_suffix
 result_file_suffix = '-CN&EN' + file_suffix
@@ -52,9 +54,13 @@ class Format:
         self.MarginV = list[7]
         self.Effect = list[8]
         self.Text = ','.join(list[9:])
-        t = self.Text.split(cn_en_split)
-        self.CN = t[0]
-        self.EN = t[1]
+        if self.Text.__contains__(cn_en_split):
+            t = self.Text.split(cn_en_split)
+            self.CN = t[0]
+            self.EN = t[1]
+        else:
+            self.CN = ''
+            self.EN = self.Text
         self.List = list
 
     def __str__(self):
@@ -109,8 +115,10 @@ def trans(format_list, en, file):
     result = r.json()
     # Show response
     # print(json.dumps(result, indent=4, ensure_ascii=False))
-    print('len(format_list)=', len(format_list), ';len(trans_result)=',
-          len(result['trans_result']))
+    q_len = len(query)
+    print('len(format_list)={}; len(trans_result)={}; len(query_char)={}'.format(len(format_list), len(result['trans_result']), q_len))
+    global file_char
+    file_char += q_len
     # print(format_list[0],result['trans_result'][0])
     # print(format_list[len(format_list) - 1], result['trans_result'][len(result['trans_result']) - 1])
     l = []
@@ -144,6 +152,7 @@ try:
     is_proceed = input(input_prompt)
     if is_proceed in proceed_flags:
         for file in file_list:
+            file_char = 0
             print('\ntranslating [' + file + ']...')
             src_file_path = os.path.join(src_dir, file)
             file_name = file.removesuffix(file_suffix)
@@ -190,6 +199,8 @@ try:
                 # print(en)
                 # print(len(en))
             finally:
+                print('this file translated char: ', file_char)
+                total_char = total_char + file_char
                 src_file.close()
                 result_file.close()
 
@@ -202,7 +213,8 @@ try:
             # cn_file = open(cn_file_path, 'w', encoding = 'utf_8_sig')
             # cn_file.writelines('\n\n\n'.join(cn_list))
             # cn_file.close()
-except:
-    print('read dir[' + src_dir + '] error')
+except Exception as e:
+    print('\nexception: {}'.format(repr(e)))
 
+print('\ntotal translated char: ', total_char)
 print('\nend')
