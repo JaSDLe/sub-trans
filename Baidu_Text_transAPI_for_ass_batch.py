@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # This code shows an example of text translation from English to Simplified-Chinese.
-# This code runs on Python 2.7.x and Python 3.x.
+# This code runs on Python 3.x.
 # You may install `requests` to run this code: pip install requests
 # Please refer to `https://api.fanyi.baidu.com/doc/21` for complete api document
 
@@ -30,6 +30,9 @@ begin_line = 'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV,
 max_char = 6000
 total_char = 0
 file_char = 0
+total_count = 0
+success_count = 0
+fail_count = 0
 cn_en_split = '\\N{\\rEN}'
 style_regex = '{.*?}'
 proceed_flags = ['yes', 'y', 'Y', 'YES']
@@ -38,7 +41,8 @@ input_prompt = '''Do you want to continue?
 > Enter a value: '''
 file_suffix = '.ass'
 cn_file_suffix = '-CN' + file_suffix
-result_file_suffix = '-CN&EN' + file_suffix
+# BJT means 'Translated by Jason with Baidu' backwards
+result_file_suffix = '-CN&EN.[BJT]' + file_suffix
 
 
 class Format:
@@ -112,26 +116,33 @@ def trans(format_list, en, file):
     }
     # Send request
     r = requests.post(url, params=payload, headers=headers)
-    result = r.json()
-    # Show response
-    # print(json.dumps(result, indent=4, ensure_ascii=False))
-    q_len = len(query)
-    print('len(format_list)={}; len(trans_result)={}; len(query_char)={}'.format(len(format_list), len(result['trans_result']), q_len))
-    global file_char
-    file_char += q_len
-    # print(format_list[0],result['trans_result'][0])
-    # print(format_list[len(format_list) - 1], result['trans_result'][len(result['trans_result']) - 1])
-    l = []
-    cn = ''
-    t = ''
-    for index in range(len(result['trans_result'])):
-        r = result['trans_result'][index]
-        l.append(format_list[index].combine_new(r['dst']))
-        # t=t+r['dst']+cn_en_split+r['src']+'\n'
-        cn = cn + r['dst'] + '\n'
-    cn_list.append(cn)
-    # l.append(t)
-    file.writelines(l)
+    if r.status_code != 200:
+        print(r)
+    else:
+        result = r.json()
+        if 'error_code' in result:
+            # Show response
+            print(json.dumps(result, indent=4, ensure_ascii=False))
+        else:
+            q_len = len(query)
+            print(
+                'len(format_list)={}; len(trans_result)={}; len(query_char)={}'
+                .format(len(format_list), len(result['trans_result']), q_len))
+            global file_char
+            file_char += q_len
+            # print(format_list[0],result['trans_result'][0])
+            # print(format_list[len(format_list) - 1], result['trans_result'][len(result['trans_result']) - 1])
+            l = []
+            cn = ''
+            t = ''
+            for index in range(len(result['trans_result'])):
+                r = result['trans_result'][index]
+                l.append(format_list[index].combine_new(r['dst']))
+                # t=t+r['dst']+cn_en_split+r['src']+'\n'
+                cn = cn + r['dst'] + '\n'
+            cn_list.append(cn)
+            # l.append(t)
+            file.writelines(l)
 
 
 print('begin\n')
@@ -145,10 +156,11 @@ try:
     print()
     file_list = []
     for file in os.listdir(src_dir):
-        if file.endswith(file_suffix):
+        if file.endswith(file_suffix) and not file.endswith(result_file_suffix):
             file_list.append(file)
             print(file)
-    print('\nTotal ' + file_suffix + ' files:', len(file_list), '\n')
+    total_count = len(file_list)
+    print('\nTotal ' + file_suffix + ' files:', total_count, '\n')
     is_proceed = input(input_prompt)
     if is_proceed in proceed_flags:
         for file in file_list:
@@ -200,6 +212,10 @@ try:
                 # print(len(en))
             finally:
                 print('this file translated char: ', file_char)
+                if file_char > 0:
+                    success_count += 1
+                else:
+                    fail_count += 1
                 total_char = total_char + file_char
                 src_file.close()
                 result_file.close()
@@ -216,5 +232,7 @@ try:
 except Exception as e:
     print('\nexception: {}'.format(repr(e)))
 
-print('\ntotal translated char: ', total_char)
+print('\ntotal translated char: {}'.format(total_char))
+print('\ntotal file count: {}, success count: {}, fail count: {}'.format(
+    total_count, success_count, fail_count))
 print('\nend')

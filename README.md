@@ -2,6 +2,7 @@
 
 Subtitles Translation
 
+Python调用百度翻译API批量翻译ASS字幕文件
 *Baidu_Text_transAPI_for_ass_batch.py*  **usage:**
  1. You may need to install `requests` first, run this code: `pip install requests`
  2. update your own appid & appkey in code
