@@ -1,6 +1,6 @@
 # sub-trans
 
-Subtitles Translation
+**Subtitles Translation**
 
 Python调用百度翻译API批量翻译ASS字幕文件
 *Baidu_Text_transAPI_for_ass_batch.py*  **usage:**
@@ -23,5 +23,8 @@ Python调用百度翻译API批量翻译ASS字幕文件
 
  ~~4. will generate 3 files: `en`, `cn`, `result`~~
 
+## Todo:
+ - [ ] cht2chs `ref: http://www.aies.cn/`
+ - [ ] auto concat cn&en
 
-http://subhd.tv/u/JaSDLe
+> http://subhd.tv/u/JaSDLe
