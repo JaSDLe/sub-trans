@@ -47,7 +47,7 @@
 
 - separate CHS and ENG
 
-> use cht2chs.py
+> use auto_concat_cn&en_for_ass.py
 
 ---
 > <http://subhd.tv/u/JaSDLe>
