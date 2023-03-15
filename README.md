@@ -21,7 +21,7 @@
 ~~3. run~~  
 ~~4. will generate 3 files: `en`, `cn`, `result`~~
 
-### Python利用OpenCC繁体转简体  
+### Python利用OpenCC繁体转简体
 
 #### *cht2chs.py* **usage:**
 
@@ -29,6 +29,15 @@
 2. run
 3. input the dir and filename you want to convert
 4. finally will generate `your-file-name-CHS.[OJC].srt`
+
+### Python合并中文和英文ASS字幕文件
+
+#### *auto_concat_cn&en_for_ass.py* **usage:**
+
+1. run
+2. input the CN dir and filename you want to concat
+3. input the EN dir and filename you want to concat
+4. finally will generate `your-file-name-CN&EN.[JC].srt`
 
 ## Todo
 
@@ -51,3 +60,4 @@
 
 ---
 > <http://subhd.tv/u/JaSDLe>
+> <https://zimuku.pw/u/A3FNKkhX0>
