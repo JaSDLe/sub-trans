@@ -43,6 +43,9 @@
 
 - [x] cht2chs `ref: http://www.aies.cn/`
 - [x] auto concat cn&en
+- [ ] auto update tracker
+> <https://github.com/ngosang/trackerslist/blob/master/trackers_best_ip.txt>  
+> <https://dns.icoa.cn/tracker/>
 
 ## Scenario
 
