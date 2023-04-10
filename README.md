@@ -39,11 +39,21 @@
 3. input the EN dir and filename you want to concat
 4. finally will generate `your-file-name-CN&EN.[JC].srt`
 
+### Python更新trackers文件
+
+#### *auto_update_trackers.py* **usage:**
+
+1. You may need to install `requests` first, run this code: `pip install requests`
+2. You may need to install `Beautiful Soup 4` first, run this code: `pip install beautifulsoup4`
+3. run
+4. finally will generate `./trackers.txt` and `./trackers/trackers-yyyyMMdd_HHmmss.txt`
+
 ## Todo
 
 - [x] cht2chs `ref: http://www.aies.cn/`
 - [x] auto concat cn&en
-- [ ] auto update tracker
+- [x] auto update tracker
+
 > <https://github.com/ngosang/trackerslist/blob/master/trackers_best_ip.txt>  
 > <https://dns.icoa.cn/tracker/>
 
