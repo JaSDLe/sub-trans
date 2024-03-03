@@ -45,8 +45,9 @@
 
 1. You may need to install `requests` first, run this code: `pip install requests`
 2. You may need to install `Beautiful Soup 4` first, run this code: `pip install beautifulsoup4`
-3. run
-4. finally will generate `./trackers.txt` and `./trackers/trackers-yyyyMMdd_HHmmss.txt`
+3. You may need to install `lxml` first, run this code: `pip install lxml`
+4. run
+5. finally will generate `./trackers.txt` and `./trackers/trackers-yyyyMMdd_HHmmss.txt`
 
 ## Todo
 

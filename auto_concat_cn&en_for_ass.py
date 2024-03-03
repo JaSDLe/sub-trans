@@ -6,7 +6,7 @@ input_prompt = '''\nPlease input the {} file you want to concat.
     e.g. 'C:\\test.ass'
 > Enter a value: '''
 # JC means 'Concatenated by Jason' backwards
-result_file_suffix = '-CN&EN.[JC]'
+result_file_suffix = '.CN&EN.[JC]'
 begin_line = 'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n'
 default_style_str = ',Default,,'
 cn_style_str = ',CN,,'
@@ -18,7 +18,11 @@ print('begin\n')
 
 try:
     cn_file_path = input(input_prompt.format('CN'))
+    cn_file_path = cn_file_path.removeprefix('& \'')
+    cn_file_path = cn_file_path.removesuffix('\'')
     en_file_path = input(input_prompt.format('EN'))
+    en_file_path = en_file_path.removeprefix('& \'')
+    en_file_path = en_file_path.removesuffix('\'')
     if os.path.isfile(cn_file_path) and os.path.isfile(en_file_path):
         cn_file_tuple = os.path.split(cn_file_path)
         cn_dir = cn_file_tuple[0]

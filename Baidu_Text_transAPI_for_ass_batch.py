@@ -42,7 +42,7 @@ input_prompt = '''Do you want to continue?
 file_suffix = '.ass'
 cn_file_suffix = '-CN' + file_suffix
 # BJT means 'Translated by Jason with Baidu' backwards
-result_file_suffix = '-CN&EN.[BJT]' + file_suffix
+result_file_suffix = '.CN&EN.[BJT]' + file_suffix
 
 
 class Format:

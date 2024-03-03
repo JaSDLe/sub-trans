@@ -12,7 +12,7 @@ input_prompt = '''Please input the file you want to convert.
     e.g. 'C:\\test.srt'
 > Enter a value: '''
 # OJC means 'Converted by Jason with OpenCC' backwards
-result_file_suffix = '-CHS.[OJC]'
+result_file_suffix = '.CHS.[OJC]'
 
 print('begin\n')
 
