@@ -75,3 +75,5 @@
 ---
 > <http://subhd.tv/u/JaSDLe>  
 > <https://zimuku.pw/u/A3FNKkhX0>
+https://www.python.org/downloads/windows/
+> https://git-scm.com/downloads/win
