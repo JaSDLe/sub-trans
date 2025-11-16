@@ -75,3 +75,10 @@
 ---
 > <http://subhd.tv/u/JaSDLe>  
 > <https://zimuku.pw/u/A3FNKkhX0>
+
+> <https://potplayer.tv/?lang=zh_CN>
+> <https://github.com/notepad-plus-plus/notepad-plus-plus/releases>
+> <https://www.7-zip.org/>
+> <https://code.visualstudio.com/Download>
+> <>
+> <>

@@ -18,6 +18,8 @@ print('begin\n')
 
 try:
     src_file_path = input(input_prompt)
+    src_file_path = src_file_path.removeprefix('& \'')
+    src_file_path = src_file_path.removesuffix('\'')
     if os.path.isfile(src_file_path):
         src_file_tuple = os.path.split(src_file_path)
         src_dir = src_file_tuple[0]
