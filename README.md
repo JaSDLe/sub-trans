@@ -80,5 +80,5 @@
 > <https://github.com/notepad-plus-plus/notepad-plus-plus/releases>
 > <https://www.7-zip.org/>
 > <https://code.visualstudio.com/Download>
-> <>
-> <>
+> <https://www.python.org/downloads/windows/>
+> <https://git-scm.com/downloads/win>
